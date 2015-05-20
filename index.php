@@ -30,7 +30,7 @@
 		<header>
 			<div class="col-md-8 row2 left-col">
 				<h1><span class="sr-only">ArtSIDA 6</span><img src="img/heading.jpg" class="center-block img-responsive" alt="" /></h1>
-				<h2>Raise your hand for <abbr title="AIDS Community Care Montreal">ACCM</abbr></h2>
+				<h2>Raise your hand for ACCM</h2>
 				<div class="col-xs-6 col-xs-push-4 logos">
 				<div class="col-xs-6 col-sm-4"><img class="img-responsive" src="img/logo.gif" alt="ArtSIDA logo"></div>
 				<div class="col-xs-6 col-sm-3" id="header-sponsor">
