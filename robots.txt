@@ -1,5 +1,0 @@
-User-agent: *
-
-Disallow: /
-
-#This will prevent robots from entering the site
