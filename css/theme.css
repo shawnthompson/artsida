@@ -89,6 +89,16 @@ a.nav-link {
 	line-height: 2;
 
 }
+
+a.newlink {
+    color: #fff;
+    font-weight: bold;
+    font-size: 4em;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+}
+
 a.nav-link:hover {
 	text-decoration: none;
 }
@@ -110,6 +120,46 @@ footer.col-xs-12 {
 footer img {
 }
 
+.relative {
+    position: relative !important;
+}
+[class*="photo"] {
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.photo1 {
+    background-image: url("/img/art1.jpg");
+}
+
+.photo2 {
+    background-image: url("/img/art2.jpg");
+}
+
+.bottom-left, .top-right {
+    position: absolute;
+    max-height: 18em;
+}
+
+.bottom-left {
+    left:0;
+    bottom: 0;
+}
+
+.top-right {
+    right: 0;
+    top: 0;
+}
+
+.twitter {
+    border-top: 1px solid #777;
+    border-bottom: 1px solid #777;
+}
+
+.cell {
+    min-height: 6em;
+}
 
 /* Colour classes */
 .yellow {

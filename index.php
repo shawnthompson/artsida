@@ -23,17 +23,20 @@
 			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
 	</head>
-	<body class="container">
+	<body class="home">
+	<!--
+		Constant header
+	-->
 		<header>
 			<div class="col-md-8 row2 left-col">
 				<h1><span class="sr-only">ArtSIDA 6</span><img src="img/heading.jpg" class="center-block img-responsive" alt="" /></h1>
 				<h2>Raise your hand for <abbr title="AIDS Community Care Montreal">ACCM</abbr></h2>
 				<div class="col-xs-6 col-xs-push-4 logos">
-					<div class="col-xs-6 col-sm-4"><img class="img-responsive" src="img/logo.gif" alt="ArtSIDA logo"></div>
-					<div class="col-xs-6 col-sm-3" id="header-sponsor">
-						<p>Presented by: <img class="img-responsive" src="img/header-sponsor.gif" alt="TD logo"></p>
-					</div>
+				<div class="col-xs-6 col-sm-4"><img class="img-responsive" src="img/logo.gif" alt="ArtSIDA logo"></div>
+				<div class="col-xs-6 col-sm-3" id="header-sponsor">
+					<p>Presented by: <img class="img-responsive" src="img/header-sponsor.gif" alt="TD logo"></p>
 				</div>
+			</div>
 			</div>
 			<div class="col-md-4 row2 right-col">
 				<div class="col-md-12 text-right yellow info">
@@ -71,62 +74,42 @@
 			</div>
 		</div>
 		</header>
+
 		<div class="clearfix"></div>
-		<main>
 
+		<main class="relative">
 
-<div class="col-md-8">
-<div class="row1 col-md-8 yellow">
-</div>
-<div class="row1 col-md-4 cyan">
-</div>
-<div class="row1 col-md-2 red box">
-</div>
-<div class="row1 col-md-10 purple">
-	<p><a class="nav-link" href="#">About</a></p>
-</div>
-</div>
-<div class="row2 col-md-4 grey">
-	<img src="img/art1.jpg" class="img-responsive" alt="">
-</div>
-
-
-
-<div class="col-md-2 yellow row1">
-</div>
-<div class="col-md-4 pink row1">
-	<p><a class="nav-link" href="#">Tickets</a></p>
-</div>
-<div class="col-md-3 red row1">
-</div>
-<div class="col-md-3 row1 cyan">
-	<img src="img/pic2.jpg" class="img-responsive" alt="">
-</div>
-
-
-
-
-
-<div class="col-md-2 row2">
-	<img src="img/pic3.jpg" class="img-responsive" alt="">
-</div>
-<div class="col-md-2 purple row1">
-</div>
-<div class="col-md-6 cyan row1">
-	<p><a class="nav-link" href="#">Artwork</a></p>
-</div>
-<div class="col-md-2 yellow row1">
-</div>
-
-
-
-
-
-
-
-
+			<div class="row">
+				<div class="col-md-3 yellow cell"></div>
+				<div class="col-md-6 cyan cell"></div>
+				<div class="col-md-3 red cell"></div>
+			</div>
+			<div class="row">
+				<div class="col-md-3 red cell"></div>
+				<div class="col-md-6 purple cell"><a class="newlink" href="#">About</a></div>
+				<div class="col-md-3 yellow cell"></div>
+			</div>
+			<div class="row">
+				<div class="col-md-2 yellow cell"></div>
+				<div class="col-md-5 pink cell"><a class="newlink" href="#">Tickets</a></div>
+				<div class="col-md-5 red cell photo2"></div>
+			</div>
+			<div class="row">
+				<div class="col-md-2 purple cell"></div>
+				<div class="col-md-5 cyan cell"><a class="newlink" href="#">Artwork</a></div>
+				<div class="col-md-5 yellow cell"></div>
+			</div>
+			<img src="img/pic3.jpg" class="bottom-left" alt="">
+			<img src="img/art1.jpg" class="top-right" alt="">
 			<div class="clearfix"></div>
 		</main>
+		<aside>
+			<div class="row twitter">
+				<br />
+				<h3 class="text-center">Twitter Horizontal</h3>
+				<br />
+			</div>
+		</aside>
 		<footer class="col-xs-12">
 			<div class="col-md-4 col-md-push-8">
 				<section class="col-xs-6 col-md-10 text-right">
