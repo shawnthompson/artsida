@@ -23,7 +23,7 @@
 			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
 	</head>
-	<body class="home">
+	<body class="container">
 		<header>
 			<div class="col-md-8 row2 left-col">
 				<h1><span class="sr-only">ArtSIDA 6</span><img src="img/heading.jpg" class="center-block img-responsive" alt="" /></h1>
