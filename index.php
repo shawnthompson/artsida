@@ -26,51 +26,46 @@
 	<body class="home">
 	<!--
 		Constant header
+
+
+
+
+
+
 	-->
 		<header>
-			<div class="col-md-8 row2 left-col">
-				<h1><span class="sr-only">ArtSIDA 6</span><img src="img/heading.jpg" class="center-block img-responsive" alt="" /></h1>
+		<div class="">
+			<div class="col-sm-8">
+				<h1 class="mrgn-tp-md"><span class="sr-only">ArtSIDA 6</span><img src="img/artsida6.jpg" class="center-block img-responsive" alt="" /></h1>
 				<h2>Raise your hand for ACCM</h2>
-				<div class="col-xs-6 col-xs-push-4 logos">
-				<div class="col-xs-6 col-sm-4"><img class="img-responsive" src="img/logo.gif" alt="ArtSIDA logo"></div>
-				<div class="col-xs-6 col-sm-3" id="header-sponsor">
-					<p>Presented by: <img class="img-responsive" src="img/header-sponsor.gif" alt="TD logo"></p>
-				</div>
 			</div>
-			</div>
-			<div class="col-md-4 row2 right-col">
-				<div class="col-md-12 text-right yellow info">
-					<section class="col-xs-11">
-						<h2 class="sr-only">Site Menu</h2>
-						<ul class="nav nav-pills">
-						  <li role="presentation" class="dropdown">
-						    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">
-						      Menu <span class="caret"></span>
-						    </a>
-						    <ul class="dropdown-menu" role="menu">
-						    	<li><a href="#">About</a></li>
-						    	<li><a href="#">Tickets</a></li>
-						    	<li><a href="#">Artwork</a></li>
-						    	<li><a href="#">Sponsors</a></li>
-						    </ul>
-						  </li>
-						</ul>
-					</section>
-					<section class="col-xs-1">
+			<div class="col-sm-4 yellow">
+				<div class="text-right info">
+					<section class="">
 						<h2 class="sr-only">Language selection</h2>
 						<ul class="nav nav-pills">
 							<li class="text-right"><a lang="en" href="#" class="lang">Fr<span class="sr-only">ançais</span></a></li>
 						</ul>
 					</section>
-					<div class="clearfix"></div>
 					<p><time>Wednesday September 30, 2015</time></p>
 					<p><span class="sr-only">Entrepôts Dominion</span><img src="img/logo-dominion.png" alt=""></p>
 					<p>3968 St-Ambroise</p>
 					<p>5:00pm - 10:30pm</p>
 				</div>
-				<div class="col-md-12 red row1">
-						<img src="img/pic1.jpg" class="img-responsive" alt="">
+			</div>
+		</div>
+		<div class="">
+
+			<div class="col-sm-8 logos cell responsive">
+				<div class="col-sm-6 pull-left"><img class="" src="img/logo.gif" alt="ArtSIDA logo"></div>
+				<div class="col-sm-6 pull-right" id="header-sponsor">
+					<p>Presented by: <br /><img class="" src="img/header-sponsor.gif" alt="TD logo"></p>
 				</div>
+			</div>
+
+
+			<div class="hidden-xs col-sm-4 red cell relative">
+				<img src="img/pic1.jpg" class="bottom-left" alt="">
 			</div>
 		</div>
 		</header>
@@ -79,37 +74,35 @@
 
 		<main class="relative">
 
-			<div class="row">
-				<div class="col-md-3 yellow cell"></div>
-				<div class="col-md-6 cyan cell"></div>
-				<div class="col-md-3 red cell"></div>
+			<div class="hidden-xs hidden-sm">
+				<div class="col-sm-3 hidden-xs yellow cell"></div>
+				<div class="col-sm-6 hidden-xs cyan cell"></div>
+				<div class="col-sm-3 hidden-xs red cell"></div>
 			</div>
-			<div class="row">
-				<div class="col-md-3 red cell"></div>
-				<div class="col-md-6 purple cell"><a class="newlink" href="#">About</a></div>
-				<div class="col-md-3 yellow cell"></div>
+			<div class="">
+				<div class="col-sm-2 hidden-xs red cell"></div>
+				<div class="col-sm-6 purple cell"><a class="nav-link" href="#">About</a></div>
+				<div class="col-sm-4 hidden-xs yellow cell"></div>
 			</div>
-			<div class="row">
-				<div class="col-md-2 yellow cell"></div>
-				<div class="col-md-5 pink cell"><a class="newlink" href="#">Tickets</a></div>
-				<div class="col-md-5 red cell photo2"></div>
+			<div class="">
+				<div class="col-sm-3 yellow cell hidden-xs"></div>
+				<div class="col-sm-6 pink cell"><a class="nav-link" href="#">Tickets</a></div>
+				<div class="col-sm-3 red cell hidden-xs"></div>
 			</div>
-			<div class="row">
-				<div class="col-md-2 purple cell"></div>
-				<div class="col-md-5 cyan cell"><a class="newlink" href="#">Artwork</a></div>
-				<div class="col-md-5 yellow cell"></div>
+			<div class="">
+				<div class="col-sm-4 purple cell hidden-xs"></div>
+				<div class="col-sm-6 cyan cell"><a class="nav-link" href="#">Artwork</a></div>
+				<div class="col-sm-2 yellow cell hidden-xs"></div>
 			</div>
-			<img src="img/pic3.jpg" class="bottom-left" alt="">
-			<img src="img/art1.jpg" class="top-right" alt="">
+			<div class="">
+				<div class="col-sm-2 red cell hidden-xs"></div>
+				<div class="col-sm-6 yellow cell"><a class="nav-link" href="#">Sponsors</a></div>
+				<div class="col-sm-4 pink cell hidden-xs"></div>
+			</div>
+			<img src="img/pic3.jpg" class="hidden-sm hidden-xs bottom-left" alt="">
+			<img src="img/art1.jpg" class="hidden-sm hidden-xs top-right" alt="">
 			<div class="clearfix"></div>
 		</main>
-		<aside>
-			<div class="row twitter">
-				<br />
-				<h3 class="text-center">Twitter Horizontal</h3>
-				<br />
-			</div>
-		</aside>
 		<footer class="col-xs-12">
 			<div class="col-md-4 col-md-push-8">
 				<section class="col-xs-6 col-md-10 text-right">
@@ -144,5 +137,6 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 		<!-- Include all compiled plugins (below), or include individual files as needed -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+		<script src="js/twitter.js"></script>
 	</body>
 </html>
