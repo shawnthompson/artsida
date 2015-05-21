@@ -36,6 +36,47 @@
 		<header>
 		<div class="">
 			<div class="col-sm-8">
+
+
+
+<nav class="navbar navbar-default navbar-static-top">
+	<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+
+
+
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			<ul class="nav navbar-nav">
+			<li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+			<li><a href="#">Link</a></li>
+			<li class="dropdown">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
+				<ul class="dropdown-menu" role="menu">
+				<li><a href="#">Action</a></li>
+				<li><a href="#">Another action</a></li>
+				<li><a href="#">Something else here</a></li>
+				<li class="divider"></li>
+				<li><a href="#">Separated link</a></li>
+				<li class="divider"></li>
+				<li><a href="#">One more separated link</a></li>
+				</ul>
+			</li>
+			</ul>
+		</div>
+	</div>
+</nav>
+
+
+
+
+
 				<h1 class="mrgn-tp-md"><span class="sr-only">ArtSIDA 6</span><img src="img/artsida6.jpg" class="center-block img-responsive" alt="" /></h1>
 				<h2>Raise your hand for ACCM</h2>
 				<img src="img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="mrgn-tp-sm center-block img-responsive" />
@@ -66,7 +107,7 @@
 
 
 			<div class="hidden-xs col-sm-4 red cell relative">
-				<img src="img/pic1.jpg" class="bottom-left" alt="">
+				<img src="img/pic1.jpg" class="hidden-xs hidden-sm bottom-left" alt="">
 			</div>
 		</div>
 		</header>
