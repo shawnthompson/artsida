@@ -38,13 +38,14 @@
 			<div class="col-sm-8">
 				<h1 class="mrgn-tp-md"><span class="sr-only">ArtSIDA 6</span><img src="img/artsida6.jpg" class="center-block img-responsive" alt="" /></h1>
 				<h2>Raise your hand for ACCM</h2>
+				<img src="img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="mrgn-tp-sm center-block img-responsive" />
 			</div>
 			<div class="col-sm-4 yellow">
 				<div class="text-right info">
 					<section class="">
 						<h2 class="sr-only">Language selection</h2>
 						<ul class="nav nav-pills">
-							<li class="text-right"><a lang="en" href="#" class="lang">Fr<span class="sr-only">ançais</span></a></li>
+							<li class="pull-right"><a lang="en" href="#" class="lang">Fr<span class="sr-only">ançais</span></a></li>
 						</ul>
 					</section>
 					<p><time>Wednesday September 30, 2015</time></p>
@@ -57,9 +58,9 @@
 		<div class="">
 
 			<div class="col-sm-8 logos cell responsive">
-				<div class="col-sm-6 pull-left"><img class="" src="img/logo.gif" alt="ArtSIDA logo"></div>
-				<div class="col-sm-6 pull-right" id="header-sponsor">
-					<p>Presented by: <br /><img class="" src="img/header-sponsor.gif" alt="TD logo"></p>
+				<div class="bottom-left mrgn-bttm-md mrgn-tp-md mrgn-lft-md"><img class="img-responsive" src="img/logo.gif" alt="ArtSIDA logo"></div>
+				<div class="bottom-right mrgn-bttm-md mrgn-tp-md mrgn-rght-md" id="header-sponsor">
+					<p>Presented by: <br /><img class="img-responsive" src="img/header-sponsor.gif" alt="TD logo"></p>
 				</div>
 			</div>
 
