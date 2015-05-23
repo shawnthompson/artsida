@@ -58,36 +58,49 @@ header .bottom-left {
 
 /* Navigation */
 
+/*
 .navbar {
 	border: none;
 	position: absolute;
 	background-color: #fff;
 }
+*/
+/*
 
 .navbar-default .navbar-nav > li > a {
 	color: #fff;
 	line-height: 1;
 	text-transform: uppercase;
 }
+*/
 
-
-
-
-
-
-a.nav-link {
-		color: #fff;
-		font-weight: bold;
-		font-size: 4em;
-		text-transform: uppercase;
-		display: block;
-		text-align: center;
-		margin-top: 0.3em;
+nav {
+display: table;
+width: 100%;
+border-collapse: collapse;
+border: none;
+	text-align: center;
+}
+nav ul.tableRow {
+display: table-row;
+}
+nav li {
+display: table-cell;
+margin: 0;
 }
 
-a.nav-link:hover {
-	text-decoration: none;
+nav ul {
 }
+nav ul li {
+}
+nav li a {
+	display:  inline-block;
+	font-size: 3em;
+	color: #fff;
+}
+
+
+
 
 /* Footer */
 

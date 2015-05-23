@@ -27,12 +27,6 @@
 	<body class="home">
 	<!--
 		Constant header
-
-
-
-
-
-
 	-->
 		<header class="relative">
 			<div class="col-sm-8">
@@ -51,7 +45,7 @@
 			</div>
 			<div class="col-sm-4 yellow">
 				<div class="text-right info">
-					<section class="">
+					<section>
 						<h2 class="sr-only">Language selection</h2>
 						<ul class="nav nav-pills">
 							<li class="pull-right"><a lang="en" href="#" class="lang">Fr<span class="sr-only">ançais</span></a></li>
@@ -63,20 +57,14 @@
 					<p>5:00pm - 10:30pm</p>
 				</div>
 			</div>
+
+
 			<div class="col-sm-8">
-				<nav class="navbar navbar-default bottom-left">
-					<div class="navbar-header">
-						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-							<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-					</div>
-					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-						<ul class="nav navbar-nav text-center">
-							<li class="dropdown"><a href="#" class="dropdown-toggle purple" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
-								<ul class="dropdown-menu purple" role="menu">
+			<div class="row">
+				<nav class="cell">
+						<ul class="tableRow">
+							<li class="dropdown purple"><a href="#" class="dropdown-toggle purple" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
+								<ul class="dropdown-menu" role="menu">
 									<li><a href="#">Artsida 6</a></li>
 									<li><a href="#">Honorary Co-Chairs & Auctioneer</a></li>
 									<li><a href="#">Entrepôts Dominion</a></li>
@@ -85,18 +73,18 @@
 									<li><a href="#">ACCM</a></li>
 								</ul>
 							</li>
-							<li class="dropdown"><a href="#" class="dropdown-toggle yellow" data-toggle="dropdown" role="button" aria-expanded="false">Artwork <span class="caret"></span></a>
+							<li class="dropdown yellow"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Artwork <span class="caret"></span></a>
 								<ul class="dropdown-menu" role="menu">
 									<li><a href="#">Catalog</a></li>
 									<li><a href="#">Auction Rules</a></li>
 									<li><a href="#">Submissions</a></li>
 								</ul>
 							</li>
-							<li><a class="pink" href="#">Tickets</a></li>
-							<li><a class="cyan" href="#">Sponsors</a></li>
+							<li class="pink"><a href="#">Tickets</a></li>
+							<li class="cyan"><a href="#">Sponsors</a></li>
 						</ul>
-					</div>
 				</nav>
+			 </div>
 			 </div>
 			<div class="hidden-xs col-sm-4 red cell relative">
 				<img src="img/pic1.jpg" class="hidden-xs hidden-sm bottom-left" alt="">
@@ -112,22 +100,22 @@
 				<div class="col-sm-6 hidden-xs cyan cell"></div>
 				<div class="col-sm-3 hidden-xs red cell"></div>
 			</div>
-			<div class="">
+			<div>
 				<div class="col-sm-2 hidden-xs red cell"></div>
 				<div class="col-sm-6 purple cell"><a class="nav-link" href="#">About</a></div>
 				<div class="col-sm-4 hidden-xs yellow cell"></div>
 			</div>
-			<div class="">
+			<div>
 				<div class="col-sm-3 yellow cell hidden-xs"></div>
 				<div class="col-sm-6 pink cell"><a class="nav-link" href="#">Tickets</a></div>
 				<div class="col-sm-3 red cell hidden-xs relative"><img src="img/pic2.jpg" class="photo3 bottom-right" alt=""></div>
 			</div>
-			<div class="">
+			<div>
 				<div class="col-sm-4 purple cell hidden-xs"></div>
 				<div class="col-sm-6 cyan cell"><a class="nav-link" href="#">Artwork</a></div>
 				<div class="col-sm-2 yellow cell hidden-xs"></div>
 			</div>
-			<div class="">
+			<div>
 				<div class="col-sm-2 red cell hidden-xs"></div>
 				<div class="col-sm-6 yellow cell"><a class="nav-link" href="#">Sponsors</a></div>
 				<div class="col-sm-4 pink cell hidden-xs"></div>
