@@ -10,11 +10,12 @@
 		<link rel="icon" href="favicon.ico" type="image/x-icon">
 
 		<!-- Bootstrap -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+<!--		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">-->
 		<!-- Font Awesome -->
-		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+<!--		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">-->
 		<link rel="stylesheet" href="css/theme.css">
-
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -33,53 +34,20 @@
 
 
 	-->
-		<header>
-		<div class="">
+		<header class="relative">
 			<div class="col-sm-8">
-
-
-
-<nav class="navbar navbar-default navbar-static-top">
-	<div class="container">
-		<div class="navbar-header">
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-				<span class="sr-only">Toggle navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</button>
-		</div>
-
-
-
-		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-			<ul class="nav navbar-nav">
-			<li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
-			<li><a href="#">Link</a></li>
-			<li class="dropdown">
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
-				<ul class="dropdown-menu" role="menu">
-				<li><a href="#">Action</a></li>
-				<li><a href="#">Another action</a></li>
-				<li><a href="#">Something else here</a></li>
-				<li class="divider"></li>
-				<li><a href="#">Separated link</a></li>
-				<li class="divider"></li>
-				<li><a href="#">One more separated link</a></li>
-				</ul>
-			</li>
-			</ul>
-		</div>
-	</div>
-</nav>
-
-
-
-
-
-				<h1 class="mrgn-tp-md"><span class="sr-only">ArtSIDA 6</span><img src="img/artsida6.jpg" class="center-block img-responsive" alt="" /></h1>
-				<h2>Raise your hand for ACCM</h2>
-				<img src="img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="mrgn-tp-sm center-block img-responsive" />
+				<div class="row">
+					<div class="col-md-1 mrgn-tp-lg">
+						<p class="pull-left"><img class="img-responsive" src="img/logo.gif" alt="ArtSIDA logo" /></p>
+					</div>
+					<div class="col-md-10">
+						<h1 class="mrgn-tp-md"><span class="sr-only">ArtSIDA 6</span><img src="img/artsida6.jpg" class="center-block img-responsive" alt="" /></h1>
+						<h2>Raise your hand for ACCM</h2>
+						<img src="img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="mrgn-tp-sm center-block img-responsive" /></div>
+					<div class="col-md-1 mrgn-tp-lg">
+						<p class="pull-right">Presented by: <br /><img class="img-responsive" src="img/header-sponsor.gif" alt="TD logo" /></p>
+					</div>
+				</div>
 			</div>
 			<div class="col-sm-4 yellow">
 				<div class="text-right info">
@@ -95,21 +63,44 @@
 					<p>5:00pm - 10:30pm</p>
 				</div>
 			</div>
-		</div>
-		<div class="">
-
-			<div class="col-sm-8 logos cell responsive">
-				<div class="bottom-left mrgn-bttm-md mrgn-tp-md mrgn-lft-md"><img class="img-responsive" src="img/logo.gif" alt="ArtSIDA logo"></div>
-				<div class="bottom-right mrgn-bttm-md mrgn-tp-md mrgn-rght-md" id="header-sponsor">
-					<p>Presented by: <br /><img class="img-responsive" src="img/header-sponsor.gif" alt="TD logo"></p>
-				</div>
-			</div>
-
-
+			<div class="col-sm-8">
+				<nav class="navbar navbar-default bottom-left">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+					</div>
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<ul class="nav navbar-nav text-center">
+							<li class="dropdown"><a href="#" class="dropdown-toggle purple" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
+								<ul class="dropdown-menu purple" role="menu">
+									<li><a href="#">Artsida 6</a></li>
+									<li><a href="#">Honorary Co-Chairs & Auctioneer</a></li>
+									<li><a href="#">Entrepôts Dominion</a></li>
+									<li><a href="#">Artsida 6 Team</a></li>
+									<li><a href="#">Artisda History</a></li>
+									<li><a href="#">ACCM</a></li>
+								</ul>
+							</li>
+							<li class="dropdown"><a href="#" class="dropdown-toggle yellow" data-toggle="dropdown" role="button" aria-expanded="false">Artwork <span class="caret"></span></a>
+								<ul class="dropdown-menu" role="menu">
+									<li><a href="#">Catalog</a></li>
+									<li><a href="#">Auction Rules</a></li>
+									<li><a href="#">Submissions</a></li>
+								</ul>
+							</li>
+							<li><a class="pink" href="#">Tickets</a></li>
+							<li><a class="cyan" href="#">Sponsors</a></li>
+						</ul>
+					</div>
+				</nav>
+			 </div>
 			<div class="hidden-xs col-sm-4 red cell relative">
 				<img src="img/pic1.jpg" class="hidden-xs hidden-sm bottom-left" alt="">
 			</div>
-		</div>
 		</header>
 
 		<div class="clearfix"></div>
@@ -129,7 +120,7 @@
 			<div class="">
 				<div class="col-sm-3 yellow cell hidden-xs"></div>
 				<div class="col-sm-6 pink cell"><a class="nav-link" href="#">Tickets</a></div>
-				<div class="col-sm-3 red cell hidden-xs"></div>
+				<div class="col-sm-3 red cell hidden-xs relative"><img src="img/pic2.jpg" class="photo3 bottom-right" alt=""></div>
 			</div>
 			<div class="">
 				<div class="col-sm-4 purple cell hidden-xs"></div>
@@ -176,9 +167,11 @@
 			</section>
 		</footer>
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+		<script src="js/jquery.min.js"></script>
+<!--		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>-->
 		<!-- Include all compiled plugins (below), or include individual files as needed -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<!--		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>-->
+		<script src="js/bootstrap.min.js"></script>
 		<script src="js/twitter.js"></script>
 	</body>
 </html>
