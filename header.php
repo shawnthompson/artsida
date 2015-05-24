@@ -31,7 +31,7 @@
 					<p><img class="img-responsive" src="img/logo.gif" alt="ArtSIDA logo" /></p>
 				</div>
 				<div class="col-xs-8">
-					<h1 class="mrgn-tp-md"><span class="sr-only">ArtSIDA 6</span><img src="img/artsida6.jpg" class="center-block img-responsive" alt="" /></h1>
+					<h1 class="mrgn-tp-md"><a href="index.php"><span class="sr-only">ArtSIDA 6</span><img src="img/artsida6.jpg" class="center-block img-responsive" alt="" /></a></h1>
 					<h2>Raise your hand for ACCM</h2>
 					<img src="img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="mrgn-tp-sm center-block img-responsive" />
 				</div>
@@ -63,7 +63,7 @@
 					<ul class="tableRow">
 						<li class="dropdown purple tableCell"><a href="#" class="dropdown-toggle purple" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
 							<ul class="dropdown-menu purple" role="menu">
-								<li><a href="#">Artsida 6</a></li>
+								<li><a href="about-artsida.php">Artsida 6</a></li>
 								<li><a href="#">Honorary Co-Chairs & Auctioneer</a></li>
 								<li><a href="#">Entrepôts Dominion</a></li>
 								<li><a href="#">Artsida 6 Team</a></li>
@@ -86,15 +86,15 @@
 				</nav>
 			</div>
 		</div>
-		<div class="col-sm-4 red cell relative">
-			<img src="img/pic1.jpg" class="hidden-xs photoh bottom-left" alt="">
+		<div class="col-sm-4 red hidden-xs cell relative">
+			<img src="img/pic1.jpg" class="photoh bottom-left" alt="">
 		</div>
 		<nav class="visible-xs-block col-xs-12">
 			<div class="row">
 				<ul class="panel-group visible-xs-block list-unstyled" id="accordion" role="tablist" aria-multiselectable="true">
 					<li class="purple" role="tab" id="headingOne"><a class="nav-link" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">About <span class="caret"></span></a>
 						<ul id="collapseOne" class="panel-collapse collapse list-unstyled" role="tabpanel" aria-labelledby="headingOne">
-							<li><a class="nav-link" href="#">Artsida 6</a></li>
+							<li><a class="nav-link" href="about-artsida.php">Artsida 6</a></li>
 							<li><a class="nav-link" href="#">Honorary Co-Chairs & Auctioneer</a></li>
 							<li><a class="nav-link" href="#">Entrepôts Dominion</a></li>
 							<li><a class="nav-link" href="#">Artsida 6 Team</a></li>

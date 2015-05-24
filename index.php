@@ -9,16 +9,20 @@
 			<ol class="carousel-indicators">
 				<li data-target="#carousel" data-slide-to="0" class="active"></li>
 				<li data-target="#carousel" data-slide-to="1"></li>
+				<li data-target="#carousel" data-slide-to="2"></li>
 			</ol>
 
 			<!-- Wrapper for slides -->
 			<div class="carousel-inner" role="listbox">
-			<div class="item active">
-				<img src="img/art1.jpg" alt="" />
-			</div>
-			<div class="item">
-				<img src="img/art2.jpg" alt="" />
-			</div>
+				<div class="item active">
+					<img src="img/carousel1.png" alt="" />
+				</div>
+				<div class="item">
+					<img src="img/carousel2.png" alt="" />
+				</div>
+				<div class="item">
+					<img src="img/carousel3.png" alt="" />
+				</div>
 			</div>
 
 			<!-- Controls -->
@@ -35,19 +39,24 @@
 		<div class="hidden-xs cell">
 			<div class="col-sm-3 red"></div>
 			<div class="col-sm-6 purple"></div>
-			<div class="col-sm-3 red"></div>
+			<div class="col-sm-3 pink"></div>
+
 			<div class="col-sm-2 yellow"></div>
 			<div class="col-sm-6 cyan"></div>
 			<div class="col-sm-4 red"></div>
+
 			<div class="col-sm-4 pink"></div>
 			<div class="col-sm-5 yellow"></div>
 			<div class="col-sm-3 red relative"><img src="img/pic2.jpg" class="hidden-xs photoh bottom-right" alt=""></div>
+
 			<div class="col-sm-6 purple"></div>
-			<div class="col-sm-3 cyan"></div>
-			<div class="col-sm-3 yellow"></div>
+			<div class="col-sm-4 cyan"></div>
+			<div class="col-sm-2 yellow"></div>
+
 			<div class="col-sm-2 red"></div>
 			<div class="col-sm-6 yellow"></div>
 			<div class="col-sm-4 pink"></div>
+
 			<img src="img/pic3.jpg" class="bottom-left photov" alt="">
 		</div>
 <?php include('footer.php');?>

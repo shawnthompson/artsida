@@ -26,8 +26,8 @@ main [class^="col-"] {
 .fa {
 	color: #000;
 }
-/* Header */
 
+/* Header */
 header h2 {
 	text-transform: uppercase;
 	font-weight: bold;
@@ -137,7 +137,17 @@ header nav .panel-collapse ul {
 	border: 14px solid #999;
 }
 
+main h1 {
+	margin: 0;
+	color: #fff;
+	padding: 15px;
+	text-shadow: -1px 1px #000;
+	text-transform: uppercase;
+}
 
+main p {
+	padding: 15px;
+}
 /* Footer */
 footer.col-xs-12 {
 	padding: 20px;
@@ -184,35 +194,8 @@ footer.col-xs-12 {
 	max-height: 9em;
 }
 
-.bottom-left,
-.top-right,
-.bottom-right,
-top-left {
-	position: absolute;
-}
-
-.bottom-left {
-	left: 0;
-	bottom: 0;
-}
-
-.bottom-right {
-	right: 0;
-	bottom: 0;
-}
-
-.top-right {
-	right: 0;
-	top: 0;
-}
-
-.top-left {
-	left: 0;
-	top: 0;
-}
 
 /* Colour classes */
-
 .yellow {
 	background-color: #e1d73a;
 }
@@ -354,6 +337,40 @@ top-left {
 	header .info {
 	text-align: right;
 	}
+
+	main h1 {
+		text-align: center;
+		font-size: 2.7em;
+		padding-top: 45px;
+	}
+
+	.bottom-left,
+	.top-right,
+	.bottom-right,
+	top-left {
+		position: absolute;
+	}
+
+	.bottom-left {
+		left: 0;
+		bottom: 0;
+	}
+
+	.bottom-right {
+		right: 0;
+		bottom: 0;
+	}
+
+	.top-right {
+		right: 0;
+		top: 0;
+	}
+
+	.top-left {
+		left: 0;
+		top: 0;
+	}
+
 }
 
 /* Medium devices (desktops, 992px and up) */
@@ -366,6 +383,11 @@ top-left {
 	}
 	header nav li a {
 		font-size: 170%
+	}
+
+	main h1 {
+		font-size: 3.5em;
+		padding-top: 40px;
 	}
 }
 
