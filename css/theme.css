@@ -110,7 +110,8 @@ header nav a.nav-link {
 	text-shadow: -1px 1px #000;
 }
 
-header nav a.nav-link:hover, header nav a.nav-link:focus {
+header nav a.nav-link:hover,
+header nav a.nav-link:focus {
 	text-decoration: none;
 	text-shadow: none;
 }
@@ -135,9 +136,11 @@ header nav .panel-collapse ul {
 #carousel {
 	z-index: 2;
 	border: 14px solid #999;
+	background-color: #999;
 }
 
 main h1 {
+	font-size: 3em;
 	margin: 0;
 	color: #fff;
 	padding: 15px;
@@ -145,35 +148,35 @@ main h1 {
 	text-transform: uppercase;
 }
 
-main p {
+main .text {
 	padding: 15px;
+	font-size: 1.3em;
 }
+
+
 /* Footer */
 footer.col-xs-12 {
 	padding: 20px;
 	background: rgb(254, 252, 234);
 	/* Old browsers */
-
 	background: -moz-linear-gradient(top, rgba(254, 252, 234, 1) 0%, rgba(225, 215, 58, 1) 100%);
 	/* FF3.6+ */
-
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(254, 252, 234, 1)), color-stop(100%, rgba(225, 215, 58, 1)));
 	/* Chrome,Safari4+ */
-
 	background: -webkit-linear-gradient(top, rgba(254, 252, 234, 1) 0%, rgba(225, 215, 58, 1) 100%);
 	/* Chrome10+,Safari5.1+ */
-
 	background: -o-linear-gradient(top, rgba(254, 252, 234, 1) 0%, rgba(225, 215, 58, 1) 100%);
 	/* Opera 11.10+ */
-
 	background: -ms-linear-gradient(top, rgba(254, 252, 234, 1) 0%, rgba(225, 215, 58, 1) 100%);
 	/* IE10+ */
-
 	background: linear-gradient(to bottom, rgba(254, 252, 234, 1) 0%, rgba(225, 215, 58, 1) 100%);
 	/* W3C */
-
 	filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#e1d73a', GradientType=0);
 	/* IE6-9 */
+}
+
+footer .fa-4x {
+	 font-size: 2.5em;
 }
 
 .relative {
@@ -306,7 +309,6 @@ footer.col-xs-12 {
 }
 
 /* Media Queries*/
-
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 	header h2 {
@@ -342,6 +344,21 @@ footer.col-xs-12 {
 		text-align: center;
 		font-size: 2.7em;
 		padding-top: 45px;
+	}
+
+	main .text {
+		font-size: 1.1em;
+	}
+
+	main .twitter-timeline {
+		max-height: 27em;
+		position: absolute !important;
+		bottom: 0;
+		right: 0;
+	}
+
+	footer .fa-4x {
+		 font-size: 3.3em;
 	}
 
 	.bottom-left,
@@ -389,10 +406,14 @@ footer.col-xs-12 {
 		font-size: 3.5em;
 		padding-top: 40px;
 	}
+
 }
 
 /* Large devices (large desktops, 1200px and up) */
 @media screen and (min-width: 1200px) {
+	footer .fa-4x {
+		 font-size: 4em;
+	}
 
 }
 

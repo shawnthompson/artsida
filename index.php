@@ -36,27 +36,35 @@
 			</a>
 		</div>
 		<div class="clearfix"></div>
-		<div class="hidden-xs cell">
-			<div class="col-sm-3 red"></div>
-			<div class="col-sm-6 purple"></div>
-			<div class="col-sm-3 pink"></div>
+		<div class="cell">
+			<div class="hidden-xs col-sm-3 red"></div>
+			<div class="hidden-xs col-sm-6 purple"></div>
+			<div class="hidden-xs col-sm-3 pink"></div>
 
-			<div class="col-sm-2 yellow"></div>
-			<div class="col-sm-6 cyan"></div>
-			<div class="col-sm-4 red"></div>
+			<div class="hidden-xs col-sm-2 yellow"></div>
+			<div class="hidden-xs col-sm-6 cyan"></div>
+			<div class="hidden-xs col-sm-4 red"></div>
 
-			<div class="col-sm-4 pink"></div>
-			<div class="col-sm-5 yellow"></div>
-			<div class="col-sm-3 red relative"><img src="img/pic2.jpg" class="hidden-xs photoh bottom-right" alt=""></div>
+			<div class="hidden-xs col-sm-4 pink"></div>
+			<div class="hidden-xs col-sm-5 yellow"></div>
+			<div class="hidden-xs col-sm-3 red relative"><img src="img/pic2.jpg" class="hidden-xs photoh bottom-right" alt=""></div>
 
-			<div class="col-sm-6 purple"></div>
-			<div class="col-sm-4 cyan"></div>
-			<div class="col-sm-2 yellow"></div>
+			<div class="hidden-xs col-sm-6 purple"></div>
+			<div class="hidden-xs col-sm-4 cyan"></div>
+			<div class="hidden-xs col-sm-2 yellow"></div>
 
-			<div class="col-sm-2 red"></div>
-			<div class="col-sm-6 yellow"></div>
-			<div class="col-sm-4 pink"></div>
+			<div class="hidden-xs col-sm-2 yellow"></div>
+			<div class="hidden-xs col-sm-3 cyan"></div>
+			<div class="hidden-xs col-sm-7 red"></div>
 
-			<img src="img/pic3.jpg" class="bottom-left photov" alt="">
+			<div class="hidden-xs col-sm-3 red responsive"><img src="img/pic3.jpg" class="bottom-left photov" alt=""></div>
+			<div class="hidden-xs col-sm-5 yellow"></div>
+			<div class="col-sm-4 text-center pink">
+				<a class="twitter-timeline" href="https://twitter.com/ACCMTL" data-widget-id="602665550070882305">Tweets by @ACCMTL</a>
+			</div>
+</div>
+
+
+
 		</div>
 <?php include('footer.php');?>
