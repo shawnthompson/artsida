@@ -86,9 +86,7 @@
 				</nav>
 			</div>
 		</div>
-		<div class="col-sm-4 red hidden-xs cell relative">
-			<img src="img/pic1.jpg" class="photoh bottom-left" alt="">
-		</div>
+		<div class="col-sm-4 red hidden-xs cell"></div>
 		<nav class="visible-xs-block col-xs-12">
 			<div class="row">
 				<ul class="panel-group visible-xs-block list-unstyled" id="accordion" role="tablist" aria-multiselectable="true">

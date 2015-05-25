@@ -77,21 +77,18 @@ header nav ul.tableRow {
 
 header nav li.tableCell {
 	display: table-cell;
-	border: 1px solid #000;
 }
 
 header nav li a {
 	display: block;
 	color: #fff;
 	text-transform: uppercase;
-	text-shadow: -1px 1px #000;
 	font-size: 130%;
 	font-weight: bold;
 }
 header nav li a:hover, header nav li a:focus {
 	text-decoration: none;
 	color: #262626;
-	text-shadow: none;
 }
 
 header nav .dropdown-menu li a {
@@ -107,13 +104,11 @@ header nav a.nav-link {
 	text-transform: uppercase;
 	display: block;
 	text-align: center;
-	text-shadow: -1px 1px #000;
 }
 
 header nav a.nav-link:hover,
 header nav a.nav-link:focus {
 	text-decoration: none;
-	text-shadow: none;
 }
 
 header nav .panel-collapse li a {
@@ -144,7 +139,6 @@ main h1 {
 	margin: 0;
 	color: #fff;
 	padding: 15px;
-	text-shadow: -1px 1px #000;
 	text-transform: uppercase;
 }
 
@@ -319,23 +313,29 @@ footer .fa-4x {
 		padding: 13px 5px;
 		letter-spacing: 3px;
 	}
-	.cell div, header .cell {
+	main .cell div {
 		min-height: 9em;
 	}
+	header .cell {
+		min-height: 3.7em;
+	}
+
 	header .small {
 		font-size: 0.8em;
 	}
 	#carousel {
 		position: absolute;
 		top: 0;
-		right: 0;
+		left: 0;
 	}
 	.carousel-inner > .item > a > img, .carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img {
 		max-height: 16em;
 	}
+
 	header .date {
 		font-size: 63%;
 	}
+
 	header .info {
 	text-align: right;
 	}
@@ -398,8 +398,13 @@ footer .fa-4x {
 	header .date {
 		font-size: 80%;
 	}
+
 	header nav li a {
 		font-size: 170%
+	}
+
+	header .cell {
+		min-height: 4.3em;
 	}
 
 	main h1 {
