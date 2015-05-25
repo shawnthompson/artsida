@@ -63,9 +63,10 @@
 					<ul class="tableRow">
 						<li class="dropdown purple tableCell"><a href="#" class="dropdown-toggle purple" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
 							<ul class="dropdown-menu purple" role="menu">
-								<li><a href="about-artsida.php">Artsida 6</a></li>
+								<li><a href="about-artsida.php">Artsida 6 Auction</a></li>
+								<li><a href="#">Artsida 6 Vernissage</a></li>
 								<li><a href="#">Honorary Co-Chairs & Auctioneer</a></li>
-								<li><a href="#">Entrepôts Dominion</a></li>
+								<li><a href="#">Event Venues</a></li>
 								<li><a href="#">Artsida 6 Team</a></li>
 								<li><a href="#">Artisda History</a></li>
 								<li><a href="#">ACCM</a></li>
@@ -92,9 +93,10 @@
 				<ul class="panel-group visible-xs-block list-unstyled" id="accordion" role="tablist" aria-multiselectable="true">
 					<li class="purple" role="tab" id="headingOne"><a class="nav-link" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">About <span class="caret"></span></a>
 						<ul id="collapseOne" class="panel-collapse collapse list-unstyled" role="tabpanel" aria-labelledby="headingOne">
-							<li><a class="nav-link" href="about-artsida.php">Artsida 6</a></li>
+							<li><a class="nav-link" href="about-artsida.php">Artsida 6 Auction</a></li>
+							<li><a class="nav-link" href="#">Artsida 6 Vernissage</a></li>
 							<li><a class="nav-link" href="#">Honorary Co-Chairs & Auctioneer</a></li>
-							<li><a class="nav-link" href="#">Entrepôts Dominion</a></li>
+							<li><a class="nav-link" href="#">Event Venues</a></li>
 							<li><a class="nav-link" href="#">Artsida 6 Team</a></li>
 							<li><a class="nav-link" href="#">Artisda History</a></li>
 							<li><a class="nav-link" href="#">ACCM</a></li>
