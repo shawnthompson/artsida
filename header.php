@@ -67,8 +67,8 @@
 		<div class="col-sm-8 cell">
 			<div class="row">
 				<nav>
-					<ul class="tableRow">
-						<li class="dropdown purple tableCell"><a href="#" class="dropdown-toggle purple" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
+					<ul>
+						<li class="dropdown purple"><a href="#" class="dropdown-toggle purple" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
 							<ul class="dropdown-menu purple" role="menu">
 								<li><a href="about-artsida.php">Artsida 6 Auction</a></li>
 								<li><a href="about-vernissage.php">Artsida 6 Vernissage</a></li>
@@ -79,15 +79,15 @@
 								<li><a href="about-accm.php">ACCM</a></li>
 							</ul>
 						</li>
-						<li class="dropdown yellow tableCell"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Artwork <span class="caret"></span></a>
+						<li class="dropdown yellow"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Artwork <span class="caret"></span></a>
 							<ul class="dropdown-menu yellow" role="menu">
 								<li><a href="art-catalog.php">Catalog</a></li>
 								<li><a href="art-rules.php">Auction Rules</a></li>
 								<li><a href="art-submissions.php">Submissions</a></li>
 							</ul>
 						</li>
-						<li class="pink tableCell"><a href="tickets.php">Tickets</a></li>
-						<li class="cyan tableCell"><a href="sponsors.php">Sponsors</a></li>
+						<li class="pink"><a href="tickets.php">Tickets</a></li>
+						<li class="cyan"><a href="sponsors.php">Sponsors</a></li>
 					</ul>
 				</nav>
 			</div>

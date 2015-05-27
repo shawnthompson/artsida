@@ -60,12 +60,13 @@ header nav {
 	z-index: 999;
 }
 
-header nav ul.tableRow {
+header nav ul {
+	text-align: center;
 	margin: 0;
 	padding: 0;
 }
 
-header nav li.tableCell {
+header nav li {
 	display: block;
 	list-style: none;
 }
@@ -93,12 +94,6 @@ header nav .dropdown-menu li a {
 
 /* Main content*/
 
-#carousel {
-	z-index: 2;
-	border: 14px solid #999;
-	background-color: #999;
-}
-
 main h1 {
 	font-size: 1.4em;
 	margin: 0;
@@ -106,6 +101,12 @@ main h1 {
 	padding: 15px;
 	text-transform: uppercase;
 	font-weight: bold;
+}
+
+main #carousel {
+	z-index: 2;
+	border: 14px solid #999;
+	background-color: #999;
 }
 
 main .text {
@@ -265,29 +266,19 @@ footer .fa-4x {
 	header h2 {
 		font-size: 1.4em;
 	}
-	nav li a {
-		font-size: 1.2em;
-		padding: 13px 5px;
-		letter-spacing: 3px;
-	}
-
 
 /* Navigation */
 	header nav {
 		display: table;
 		width: 100%;
 		border: none;
-		text-align: center;
-		position: absolute;
-		bottom: 0;
-		z-index: 999;
 	}
 
-	header nav ul.tableRow {
+	header nav ul {
 		display: table-row;
 	}
 
-	header nav li.tableCell {
+	header nav li {
 		display: table-cell;
 	}
 
@@ -297,27 +288,25 @@ footer .fa-4x {
 		text-transform: uppercase;
 		font-size: 130%;
 		font-weight: bold;
+		padding: 13px 5px;
+		letter-spacing: 3px;
 	}
+
 	header nav li a:hover, header nav li a:focus {
 		text-decoration: none;
 		color: #262626;
 	}
 
-	header nav .dropdown-menu li a {
+	header nav .dropdown-menu li {
 		font-size: 100%;
 		color: #fff;
+		display: block;
 	}
-
-
-
-
-
-
-
 
 	main .cell div {
 		min-height: 9em;
 	}
+
 	header .cell {
 		min-height: 3.7em;
 	}
@@ -404,6 +393,9 @@ footer .fa-4x {
 		font-size: 170%
 	}
 
+	header .cell {
+		min-height: 4.3em;
+	}
 }
 
 /* Large devices (large desktops, 1200px and up) */
