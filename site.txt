@@ -1,16 +1,17 @@
 About
-	Artsida 6
-	Honorary Co-Chairs & Auctioneer
-	Entrepôts Dominion
-	Artsida 6 Team
-	Artisda History
-	ACCM
+	Artsida 6 Auction | about-artsida.php
+	Artsida 6 Vernissage | about-vernissage.php
+	Honorary Co-Chairs & Auctioneer | about-honorary.php
+	Event Venues | about-venues.php
+	Artsida 6 Team | about-team.php
+	Artisda History | about-history.php
+	ACCM | about-accm.php
 Artwork
-	Catalog
-	Auction Rules
-	Submissions
-Tickets
-Sponsors
-Media
-Volunteer
-Contact
+	Catalog | art-catalog.php
+	Auction Rules | art-rules.php
+	Submissions | art-submission.php
+Tickets | tickets.php
+Sponsors | sponsors.php
+Media | media.php
+Volunteer | volunteer.php
+Contact | contact.php

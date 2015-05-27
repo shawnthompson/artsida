@@ -1,3 +1,9 @@
+<?php
+	$date = strtotime("September 30, 2015");
+	$remaining = $date - time();
+	$days_remaining = floor($remaining / 86400);
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -27,27 +33,24 @@
 	<header class="relative">
 		<div class="col-sm-8">
 			<div class="row">
-				<div class="col-xs-2 mrgn-tp-lg">
-					<p><img class="img-responsive" src="img/logo.gif" alt="ArtSIDA logo" /></p>
+				<div class="col-xs-2 mrgn-tp-md">
+					<p class="mrgn-tp-lg"><a href="index.php"><img class="img-responsive" src="img/logo.gif" alt="ArtSIDA logo" /></a></p>
 				</div>
 				<div class="col-xs-8">
 					<h1 class="mrgn-tp-md"><a href="index.php"><span class="sr-only">ArtSIDA 6</span><img src="img/artsida6.jpg" class="center-block img-responsive" alt="" /></a></h1>
 					<h2>Raise your hand for ACCM</h2>
-					<img src="img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="mrgn-tp-sm center-block img-responsive" />
+					<p class="text-center date">Wednesday September 30<sup>th</sup> 2015</p>
+					<p><a href="http://accmontreal.org/"><img src="img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="mrgn-tp-sm center-block img-responsive" /></a></p>
 				</div>
 				<div class="col-xs-2 mrgn-tp-md">
-					<p><span class="small">Presented&nbsp;by:</span><br />
-					<img class="img-responsive" src="img/header-sponsor.gif" alt="TD logo" />
+					<p class="mrgn-tp-md"><span class="small">Presented&nbsp;by:</span><br />
+					<p><a href="https://www.tdcanadatrust.com/"><img class="img-responsive" src="img/header-sponsor.gif" alt="TD logo" /></a></p>
 					</p>
 				</div>
 			</div>
 		</div>
 		<div class="col-sm-4 yellow">
 			<div class="text-right info">
-				<p class="date">Wednesday September 30, 2015</p>
-				<p><span class="sr-only">Entrepôts Dominion</span><img src="img/logo-dominion.png" alt=""></p>
-				<p>3968 St-Ambroise</p>
-				<p>5:00pm - 10:30pm</p>
 				<section>
 					<h2 class="sr-only">Language selection</h2>
 					<ul class="list-unstyled mrgn-tp-md">
@@ -55,6 +58,10 @@
 						</li>
 					</ul>
 				</section>
+				<p><a href="#"><span class="sr-only">Entrepôts Dominion</span><img src="img/logo-dominion.png" alt=""></a></p>
+				<p>3968 St-Ambroise<br />
+				5:00pm - 10:30pm</p>
+				<p class="text-center"><strong><?php echo $days_remaining; ?></strong> Days Left!</p>
 			</div>
 		</div>
 		<div class="hidden-xs col-sm-8 cell">
@@ -64,53 +71,52 @@
 						<li class="dropdown purple tableCell"><a href="#" class="dropdown-toggle purple" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
 							<ul class="dropdown-menu purple" role="menu">
 								<li><a href="about-artsida.php">Artsida 6 Auction</a></li>
-								<li><a href="#">Artsida 6 Vernissage</a></li>
-								<li><a href="#">Honorary Co-Chairs & Auctioneer</a></li>
-								<li><a href="#">Event Venues</a></li>
-								<li><a href="#">Artsida 6 Team</a></li>
-								<li><a href="#">Artisda History</a></li>
-								<li><a href="#">ACCM</a></li>
+								<li><a href="about-vernissage.php">Artsida 6 Vernissage</a></li>
+								<li><a href="about-honorary.php">Honorary Co-Chairs & Auctioneer</a></li>
+								<li><a href="about-venues.php">Event Venues</a></li>
+								<li><a href="about-team.php">Artsida 6 Team</a></li>
+								<li><a href="about-history.php">Artisda History</a></li>
+								<li><a href="about-accm.php">ACCM</a></li>
 							</ul>
 						</li>
 						<li class="dropdown yellow tableCell"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Artwork <span class="caret"></span></a>
 							<ul class="dropdown-menu yellow" role="menu">
-								<li><a href="#">Catalog</a></li>
-								<li><a href="#">Auction Rules</a></li>
-								<li><a href="#">Submissions</a></li>
+								<li><a href="art-catalog.php">Catalog</a></li>
+								<li><a href="art-rules.php">Auction Rules</a></li>
+								<li><a href="art-submissions.php">Submissions</a></li>
 							</ul>
 						</li>
-						<li class="pink tableCell"><a href="#">Tickets</a>
-						</li>
-						<li class="cyan tableCell"><a href="#">Sponsors</a>
-						</li>
+						<li class="pink tableCell"><a href="tickets.php">Tickets</a></li>
+						<li class="cyan tableCell"><a href="sponsors.php">Sponsors</a></li>
 					</ul>
 				</nav>
 			</div>
 		</div>
-		<div class="col-sm-4 red hidden-xs cell"></div>
+		<div class="col-sm-3 red hidden-xs cell"></div>
+		<div class="col-sm-1 pink hidden-xs cell"></div>
 		<nav class="visible-xs-block col-xs-12">
 			<div class="row">
 				<ul class="panel-group visible-xs-block list-unstyled" id="accordion" role="tablist" aria-multiselectable="true">
 					<li class="purple" role="tab" id="headingOne"><a class="nav-link" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">About <span class="caret"></span></a>
 						<ul id="collapseOne" class="panel-collapse collapse list-unstyled" role="tabpanel" aria-labelledby="headingOne">
 							<li><a class="nav-link" href="about-artsida.php">Artsida 6 Auction</a></li>
-							<li><a class="nav-link" href="#">Artsida 6 Vernissage</a></li>
-							<li><a class="nav-link" href="#">Honorary Co-Chairs & Auctioneer</a></li>
-							<li><a class="nav-link" href="#">Event Venues</a></li>
-							<li><a class="nav-link" href="#">Artsida 6 Team</a></li>
-							<li><a class="nav-link" href="#">Artisda History</a></li>
-							<li><a class="nav-link" href="#">ACCM</a></li>
+							<li><a class="nav-link" href="about-vernissage.php">Artsida 6 Vernissage</a></li>
+							<li><a class="nav-link" href="about-honorary.php">Honorary Co-Chairs & Auctioneer</a></li>
+							<li><a class="nav-link" href="about-venues.php">Event Venues</a></li>
+							<li><a class="nav-link" href="about-team.php">Artsida 6 Team</a></li>
+							<li><a class="nav-link" href="about-history.php">Artisda History</a></li>
+							<li><a class="nav-link" href="about-accm.php">ACCM</a></li>
 						</ul>
 					</li>
 					<li class="yellow" role="tab" id="headingTwo"><a class="nav-link" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Artwork <span class="caret"></span></a>
 						<ul id="collapseTwo" class="panel-collapse collapse list-unstyled" role="tabpanel" aria-labelledby="headingTwo">
-							<li><a class="nav-link" href="#">Catalog</a></li>
-							<li><a class="nav-link" href="#">Auction Rules</a></li>
-							<li><a class="nav-link" href="#">Submissions</a></li>
+							<li><a class="nav-link" href="art-catalog.php">Catalog</a></li>
+							<li><a class="nav-link" href="art-rules.php">Auction Rules</a></li>
+							<li><a class="nav-link" href="art-submissions.php">Submissions</a></li>
 						</ul>
 					</li>
-					<li class="pink"><a href="#" class="nav-link">Tickets</a></li>
-					<li class="cyan"><a href="#" class="nav-link">Sponsors</a></li>
+					<li class="pink"><a href="tickets.php" class="nav-link">Tickets</a></li>
+					<li class="cyan"><a href="sponsors.php" class="nav-link">Sponsors</a></li>
 				</ul>
 			</div>
 		</nav>

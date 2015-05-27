@@ -15,11 +15,11 @@ body {
 	font-family: 'Pathway Gothic One', sans-serif;
 }
 /* Reset margin for col- */
-[class^="col-"] {
+.home [class^="col-"] {
 	margin: 0;
 }
 
-main [class^="col-"] {
+.home main [class^="col-"] {
 	padding: 0;
 }
 
@@ -41,11 +41,6 @@ header .info {
 	font-size: 1.4em;
 	font-weight: bold;
 	text-align: center
-}
-
-header .info p {
-	margin: 0;
-	padding: 0;
 }
 
 header .small {
@@ -118,7 +113,7 @@ header nav .panel-group {
 	margin: 0;
 }
 
-#accordion li a {
+header #accordion li a {
 	padding: 10px 5px;
 }
 
@@ -135,18 +130,30 @@ header nav .panel-collapse ul {
 }
 
 main h1 {
-	font-size: 3em;
+	font-size: 1.4em;
 	margin: 0;
 	color: #fff;
 	padding: 15px;
 	text-transform: uppercase;
+	font-weight: bold;
 }
 
 main .text {
 	padding: 15px;
 	font-size: 1.3em;
+	text-align: justify;
 }
 
+.content main .text {
+	background: rgb(225,215,58); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(225,215,58,1) 0%, rgba(255,255,255,1) 99%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(225,215,58,1)), color-stop(99%,rgba(255,255,255,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(225,215,58,1) 0%,rgba(255,255,255,1) 99%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(225,215,58,1) 0%,rgba(255,255,255,1) 99%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(225,215,58,1) 0%,rgba(255,255,255,1) 99%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(225,215,58,1) 0%,rgba(255,255,255,1) 99%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e1d73a', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+}
 
 /* Footer */
 footer.col-xs-12 {
@@ -321,7 +328,7 @@ footer .fa-4x {
 	}
 
 	header .small {
-		font-size: 0.8em;
+		font-size: 0.7em;
 	}
 	#carousel {
 		position: absolute;
@@ -340,14 +347,13 @@ footer .fa-4x {
 	text-align: right;
 	}
 
-	main h1 {
-		text-align: center;
-		font-size: 2.7em;
-		padding-top: 45px;
+	header p.date {
+		font-size: 1.4em;
 	}
 
-	main .text {
-		font-size: 1.1em;
+	main h1 {
+		text-align: center;
+		padding-top: 2.6em;
 	}
 
 	main .twitter-timeline {
@@ -403,21 +409,20 @@ footer .fa-4x {
 		font-size: 170%
 	}
 
-	header .cell {
-		min-height: 4.3em;
-	}
-
-	main h1 {
-		font-size: 3.5em;
-		padding-top: 40px;
-	}
-
 }
 
 /* Large devices (large desktops, 1200px and up) */
 @media screen and (min-width: 1200px) {
 	footer .fa-4x {
 		 font-size: 4em;
+	}
+
+	header nav li a {
+		font-size: 193%
+	}
+
+	header .cell {
+		min-height: 4.6em;
 	}
 
 }

@@ -22,15 +22,9 @@
 			<section class="col-xs-6 col-md-2 text-right">
 				<h2 class="sr-only">Information links</h2>
 				<ul class="list-unstyled">
-					<li>
-						<a href="#">Media</a>
-					</li>
-					<li>
-						<a href="#">Volunteer</a>
-					</li>
-					<li>
-						<a href="#">Contact</a>
-					</li>
+					<li><a href="media.php">Media</a></li>
+					<li><a href="volunteer.php">Volunteer</a></li>
+					<li><a href="contact.php">Contact</a></li>
 				</ul>
 			</section>
 		</div>
