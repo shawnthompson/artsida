@@ -45,22 +45,21 @@
 			<div class="hidden-xs col-sm-6 cyan"></div>
 			<div class="hidden-xs col-sm-4 red relative"><img src="img/pic1.jpg" class="photoh bottom-left" alt=""></div>
 
-			<div class="hidden-xs col-sm-6 purple responsive"><img src="img/pic4.jpg" class="bottom-right photoh" alt=""></div>
-			<div class="hidden-xs col-sm-4 yellow"></div>
+			<div class="hidden-xs col-sm-5 col-md-6 purple responsive"><img src="img/pic4.jpg" class="bottom-right photoh" alt=""></div>
+			<div class="hidden-xs col-sm-5 col-md-4 yellow"></div>
 			<div class="hidden-xs col-sm-2 cyan"></div>
 
-			<div class="hidden-xs col-sm-2 yellow"></div>
+			<div class="hidden-xs col-sm-3 yellow"></div>
 			<div class="hidden-xs col-sm-3 cyan"></div>
-			<div class="hidden-xs col-sm-7 pink"></div>
+			<div class="hidden-xs col-sm-6 pink"></div>
 
-			<div class="hidden-xs col-sm-3 red responsive"><img src="img/pic3.jpg" class="bottom-left photov" alt=""></div>
-			<div class="hidden-xs col-sm-5 yellow"></div>
-			<div class="col-sm-4 text-center purple">
-				<a class="twitter-timeline" href="https://twitter.com/ACCMTL" data-widget-id="602665550070882305">Tweets by @ACCMTL</a>
-			</div>
+			<div class="hidden-xs col-sm-2 red responsive"><img src="img/pic3.jpg" class="bottom-left photov" alt=""></div>
+			<div class="hidden-xs col-sm-3 purple"></div>
+			<div class="col-sm-7 purple responsive"><a class="twitter-timeline bottom-right" href="https://twitter.com/ACCMTL" data-widget-id="602665550070882305">Tweets by @ACCMTL</a></div>
+
+<div class="col-sm-12 yellow-grad responsive"></div>
 </div>
 
 
 
-		</div>
 <?php include('footer.php');?>

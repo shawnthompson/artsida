@@ -115,7 +115,7 @@ main .text {
 	text-align: justify;
 }
 
-.content main .text {
+.content main .text, .yellow-grad {
 	background: rgb(225,215,58); /* Old browsers */
 	background: -moz-linear-gradient(top,  rgba(225,215,58,1) 0%, rgba(255,255,255,1) 99%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(225,215,58,1)), color-stop(99%,rgba(255,255,255,1))); /* Chrome,Safari4+ */
@@ -124,6 +124,10 @@ main .text {
 	background: -ms-linear-gradient(top,  rgba(225,215,58,1) 0%,rgba(255,255,255,1) 99%); /* IE10+ */
 	background: linear-gradient(to bottom,  rgba(225,215,58,1) 0%,rgba(255,255,255,1) 99%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e1d73a', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+}
+
+.content main .text {
+	padding-bottom: 50px;
 }
 
 /* Footer */

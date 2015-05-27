@@ -45,7 +45,6 @@
 				<div class="col-xs-2 mrgn-tp-md">
 					<p class="mrgn-tp-md"><span class="small">Presented&nbsp;by:</span><br />
 					<p><a href="https://www.tdcanadatrust.com/"><img class="img-responsive" src="img/header-sponsor.gif" alt="TD logo" /></a></p>
-					</p>
 				</div>
 			</div>
 		</div>
