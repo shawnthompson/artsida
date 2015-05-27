@@ -42,8 +42,8 @@
 					<p class="text-center date">Wednesday September 30<sup>th</sup> 2015</p>
 					<p><a href="http://accmontreal.org/"><img src="img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="mrgn-tp-sm center-block img-responsive" /></a></p>
 				</div>
-				<div class="col-xs-2 mrgn-tp-sm">
-					<p class="mrgn-tp-md"><span class="small">Presented&nbsp;by:</span><br />
+				<div class="col-xs-2">
+					<p><span class="small">Presented&nbsp;by:</span><br />
 					<p><a href="https://www.tdcanadatrust.com/"><img class="img-responsive" src="img/header-sponsor.gif" alt="TD logo" /></a></p>
 				</div>
 			</div>

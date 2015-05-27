@@ -13,7 +13,6 @@ grey: #999;
 @import url(http://fonts.googleapis.com/css?family=Orbitron:400,700);
 body {
 	font-family: 'Pathway Gothic One', sans-serif;
-	font-size: 2em;
 }
 /* Reset margin for col- */
 .home [class^="col-"] {
@@ -29,6 +28,10 @@ body {
 }
 
 /* Header */
+header {
+	font-size: 1.4em;
+}
+
 header h2 {
 	text-transform: uppercase;
 	font-weight: bold;
@@ -48,7 +51,7 @@ header .info {
 }
 
 header .small {
-	font-size: 60%;
+	font-size: 40%;
 }
 
 header .info .small {
@@ -449,7 +452,7 @@ footer .fa-4x {
 	}
 
 	header .cell {
-		min-height: 4.85em;
+		min-height: 4.88em;
 	}
 
 	main h1 {
