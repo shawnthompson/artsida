@@ -60,7 +60,7 @@
 				<p><a href="#"><span class="sr-only">Entrepôts Dominion</span><img src="img/logo-dominion.png" alt=""></a></p>
 				<p>3968 St-Ambroise<br />
 				5:00pm - 10:30pm</p>
-				<p class="text-center"><strong><?php echo $days_remaining; ?></strong> Days Left!</p>
+				<p class="text-center time-left"><strong><?php echo $days_remaining; ?></strong> Days Left!</p>
 			</div>
 		</div>
 		<div class="col-sm-8 cell">
