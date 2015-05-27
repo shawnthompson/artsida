@@ -64,7 +64,7 @@
 				<p class="text-center"><strong><?php echo $days_remaining; ?></strong> Days Left!</p>
 			</div>
 		</div>
-		<div class="hidden-xs col-sm-8 cell">
+		<div class="col-sm-8 cell">
 			<div class="row">
 				<nav>
 					<ul class="tableRow">
@@ -94,32 +94,6 @@
 		</div>
 		<div class="col-sm-3 red hidden-xs cell"></div>
 		<div class="col-sm-1 pink hidden-xs cell"></div>
-		<nav class="visible-xs-block col-xs-12">
-			<div class="row">
-				<ul class="panel-group visible-xs-block list-unstyled" id="accordion" role="tablist" aria-multiselectable="true">
-					<li class="purple" role="tab" id="headingOne"><a class="nav-link" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">About <span class="caret"></span></a>
-						<ul id="collapseOne" class="panel-collapse collapse list-unstyled" role="tabpanel" aria-labelledby="headingOne">
-							<li><a class="nav-link" href="about-artsida.php">Artsida 6 Auction</a></li>
-							<li><a class="nav-link" href="about-vernissage.php">Artsida 6 Vernissage</a></li>
-							<li><a class="nav-link" href="about-honorary.php">Honorary Co-Chairs & Auctioneer</a></li>
-							<li><a class="nav-link" href="about-venues.php">Event Venues</a></li>
-							<li><a class="nav-link" href="about-team.php">Artsida 6 Team</a></li>
-							<li><a class="nav-link" href="about-history.php">Artisda History</a></li>
-							<li><a class="nav-link" href="about-accm.php">ACCM</a></li>
-						</ul>
-					</li>
-					<li class="yellow" role="tab" id="headingTwo"><a class="nav-link" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Artwork <span class="caret"></span></a>
-						<ul id="collapseTwo" class="panel-collapse collapse list-unstyled" role="tabpanel" aria-labelledby="headingTwo">
-							<li><a class="nav-link" href="art-catalog.php">Catalog</a></li>
-							<li><a class="nav-link" href="art-rules.php">Auction Rules</a></li>
-							<li><a class="nav-link" href="art-submissions.php">Submissions</a></li>
-						</ul>
-					</li>
-					<li class="pink"><a href="tickets.php" class="nav-link">Tickets</a></li>
-					<li class="cyan"><a href="sponsors.php" class="nav-link">Sponsors</a></li>
-				</ul>
-			</div>
-		</nav>
 	</header>
 	<div class="clearfix"></div>
 	<main class="relative">
