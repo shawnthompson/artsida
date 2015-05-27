@@ -8,12 +8,12 @@ pink: #e5b3d0;
 grey: #999;
 */
 
-
 /* Font */
 @import url(http://fonts.googleapis.com/css?family=Pathway+Gothic+One);
 @import url(http://fonts.googleapis.com/css?family=Orbitron:400,700);
 body {
 	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 2em;
 }
 /* Reset margin for col- */
 .home [class^="col-"] {
@@ -34,32 +34,35 @@ header h2 {
 	font-weight: bold;
 	text-align: center;
 	margin: 0;
-	font-size: 1em;
+	font-size: 140%;
+}
+
+header .date {
+	font-size: 95%;
 }
 
 header .info {
 	padding: 20px;
-	font-size: 1.4em;
 	font-weight: bold;
 	text-align: center
 }
 
 header .small {
-	font-size: 0.6em;
+	font-size: 60%;
 }
 
+header .info .small {
+	font-size: 80%;
+}
 header .lang {
 	text-transform: uppercase;
-}
-
-header .bottom-left {
-	max-height: 9em;
 }
 
 header .time-left {
 	font-family: 'Orbitron', sans-serif;
 	padding-top: 10px;
 }
+
 /* Navigation */
 header nav {
 	z-index: 999;
@@ -79,7 +82,7 @@ header nav li {
 header nav a {
 	color: #fff;
 	font-weight: bold;
-	font-size: 3.5em;
+	font-size: 300%;
 	text-transform: uppercase;
 	display: block;
 	text-align: center;
@@ -91,32 +94,44 @@ header nav li a:hover, header nav li a:focus {
 	color: #262626;
 }
 
+header nav .dropdown-menu {
+	min-width: 300px;
+	padding: 0;
+}
 header nav .dropdown-menu li a {
-	font-size: 120%;
+	font-size: 200%;
 	color: #fff;
 	padding: 5px 15px;
 }
+/* Navigation colours
+#6e86b6
+#e1d73a
+#e5b3d0
+#4eb0af
+*/
 
-/* Main content*/
-
-main h1 {
-	font-size: 1.4em;
-	margin: 0;
-	color: #fff;
-	padding: 15px;
-	text-transform: uppercase;
-	font-weight: bold;
+header nav ul li, header nav ul ul.dropdown-menu li {
+	background-color: #6e86b6;
+}
+header nav ul li:nth-child(2), header nav ul li:nth-child(2) ul.dropdown-menu li {
+	background-color: #e1d73a;
+}
+header nav ul li:nth-child(3) {
+	background-color: #e5b3d0;
+}
+header nav ul li:nth-child(4) {
+	background-color: #4eb0af;
 }
 
-main #carousel {
-	z-index: 2;
-	border: 14px solid #999;
-	background-color: #999;
+/* Main content*/
+main h1 {
+	padding: 20px 5px;
+	margin: 0;
 }
 
 main .text {
 	padding: 15px;
-	font-size: 1.3em;
+	font-size: 105%;
 	text-align: justify;
 }
 
@@ -272,8 +287,18 @@ footer .fa-4x {
 /* Media Queries*/
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+
 	header h2 {
-		font-size: 1.4em;
+		font-size: 165%;
+	}
+
+	header .date {
+		font-size: 115%;
+	}
+
+	header .info .small {
+		font-size: 70%;
+		padding-top: 5px;
 	}
 
 /* Navigation */
@@ -295,7 +320,7 @@ footer .fa-4x {
 		display: block;
 		color: #fff;
 		text-transform: uppercase;
-		font-size: 130%;
+		font-size: 170%;
 		font-weight: bold;
 		padding: 13px 5px;
 		letter-spacing: 3px;
@@ -312,10 +337,6 @@ footer .fa-4x {
 		display: block;
 	}
 
-	main .cell div {
-		min-height: 9em;
-	}
-
 	header .cell {
 		min-height: 3.7em;
 	}
@@ -323,30 +344,39 @@ footer .fa-4x {
 	header .small {
 		font-size: 0.7em;
 	}
-	#carousel {
+
+	header .info {
+		text-align: right;
+	}
+
+	main h1 {
+		font-size: 150%;
+		margin: 0;
+		color: #fff;
+		padding: 15px;
+		text-transform: uppercase;
+		font-weight: bold;
+		text-align: center;
+		padding-top: 2.6em;
+	}
+
+	main #carousel {
+		z-index: 2;
+		border: 14px solid #999;
+		background-color: #999;
+	}
+
+	main #carousel {
 		position: absolute;
 		top: 0;
 		left: 0;
 	}
-	.carousel-inner > .item > a > img, .carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img {
+	main .carousel-inner > .item > a > img, .carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img {
 		max-height: 16em;
 	}
 
-	header .date {
-		font-size: 63%;
-	}
-
-	header .info {
-	text-align: right;
-	}
-
-	header p.date {
-		font-size: 1.4em;
-	}
-
-	main h1 {
-		text-align: center;
-		padding-top: 2.6em;
+	main .cell div {
+		min-height: 9em;
 	}
 
 	main .twitter-timeline {
@@ -394,16 +424,17 @@ footer .fa-4x {
 	header h2 {
 		font-size: 1.9em;
 	}
-	header .date {
-		font-size: 80%;
+
+	header .info {
+		font-size: 125%;
 	}
 
 	header nav li a {
-		font-size: 170%
+		font-size: 225%
 	}
 
 	header .cell {
-		min-height: 4.3em;
+		min-height: 4.5em;
 	}
 }
 
@@ -414,11 +445,16 @@ footer .fa-4x {
 	}
 
 	header nav li a {
-		font-size: 193%
+		font-size: 250%
 	}
 
 	header .cell {
-		min-height: 4.6em;
+		min-height: 4.85em;
+	}
+
+	main h1 {
+		font-size: 200%;
+		padding-top: 1.8em;
 	}
 
 }

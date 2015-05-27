@@ -42,33 +42,34 @@
 					<p class="text-center date">Wednesday September 30<sup>th</sup> 2015</p>
 					<p><a href="http://accmontreal.org/"><img src="img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="mrgn-tp-sm center-block img-responsive" /></a></p>
 				</div>
-				<div class="col-xs-2 mrgn-tp-md">
+				<div class="col-xs-2 mrgn-tp-sm">
 					<p class="mrgn-tp-md"><span class="small">Presented&nbsp;by:</span><br />
 					<p><a href="https://www.tdcanadatrust.com/"><img class="img-responsive" src="img/header-sponsor.gif" alt="TD logo" /></a></p>
 				</div>
 			</div>
 		</div>
-		<div class="col-sm-4 yellow">
-			<div class="text-right info">
-				<section>
+		<div class="col-sm-4 yellow info">
+			<div class="row">
+				<div class="col-xs-10 text-left"><p class="small"><a href="mailto:artsida@accmontreal.org">Subscribe to the Artisda newsletter</a></p></div>
+				<section class="col-xs-2">
 					<h2 class="sr-only">Language selection</h2>
-					<ul class="list-unstyled mrgn-tp-md">
+					<ul class="list-unstyled">
 						<li class="text-right"><a lang="en" href="#" class="lang">Fr<span class="sr-only">ançais</span></a>
 						</li>
 					</ul>
 				</section>
+			</div>
 				<p><a href="#"><span class="sr-only">Entrepôts Dominion</span><img src="img/logo-dominion.png" alt=""></a></p>
 				<p>3968 St-Ambroise<br />
 				5:00pm - 10:30pm</p>
 				<p class="text-center time-left"><strong><?php echo $days_remaining; ?></strong> Days Left!</p>
-			</div>
 		</div>
 		<div class="col-sm-8 cell">
 			<div class="row">
 				<nav>
 					<ul>
-						<li class="dropdown purple"><a href="#" class="dropdown-toggle purple" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
-							<ul class="dropdown-menu purple" role="menu">
+						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu">
 								<li><a href="about-artsida.php">Artsida 6 Auction</a></li>
 								<li><a href="about-vernissage.php">Artsida 6 Vernissage</a></li>
 								<li><a href="about-honorary.php">Honorary Co-Chairs & Auctioneer</a></li>
@@ -78,15 +79,15 @@
 								<li><a href="about-accm.php">ACCM</a></li>
 							</ul>
 						</li>
-						<li class="dropdown yellow"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Artwork <span class="caret"></span></a>
-							<ul class="dropdown-menu yellow" role="menu">
+						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Artwork <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu">
 								<li><a href="art-catalog.php">Catalog</a></li>
 								<li><a href="art-rules.php">Auction Rules</a></li>
 								<li><a href="art-submissions.php">Submissions</a></li>
 							</ul>
 						</li>
-						<li class="pink"><a href="tickets.php">Tickets</a></li>
-						<li class="cyan"><a href="sponsors.php">Sponsors</a></li>
+						<li><a href="tickets.php">Tickets</a></li>
+						<li><a href="sponsors.php">Sponsors</a></li>
 					</ul>
 				</nav>
 			</div>
