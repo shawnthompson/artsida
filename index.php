@@ -55,7 +55,7 @@
 
 			<div class="hidden-xs col-sm-2 red responsive"><img src="img/pic3.jpg" class="bottom-left photov" alt=""></div>
 			<div class="hidden-xs col-sm-3 purple"></div>
-			<div class="col-sm-7 purple responsive"><a class="twitter-timeline bottom-right"  href="https://twitter.com/ARTSIDA6" data-widget-id="603651242682880000">Tweets by @ARTSIDA6</a></div>
+			<div class="col-sm-7 purple responsive twitter-wrapper"><a class="twitter-timeline bottom-right"  href="https://twitter.com/ARTSIDA6" data-widget-id="603651242682880000">Tweets by @ARTSIDA6</a></div>
 
 <div class="col-sm-12 yellow-grad responsive"></div>
 </div>

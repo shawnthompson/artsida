@@ -153,6 +153,10 @@ main .text {
 	padding-bottom: 50px;
 }
 
+main .twitter-wrapper {
+	padding: 15px !important;
+}
+
 /* Footer */
 footer .fa-4x {
 	 font-size: 2.5em;

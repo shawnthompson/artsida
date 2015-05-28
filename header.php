@@ -1,7 +1,12 @@
 <?php
-	$date = strtotime("September 30, 2015");
+	$date = strtotime("September 30, 2015 17:00");
 	$remaining = $date - time();
-	$days_remaining = floor($remaining / 86400);
+	$days = floor($remaining / 86400);
+	$hours = floor(($remaining % 86400) / 3600);
+
+
+
+
 ?>
 
 <!DOCTYPE html>
@@ -62,7 +67,7 @@
 				<p><a href="#"><span class="sr-only">Entrepôts Dominion</span><img src="img/logo-dominion.png" alt=""></a></p>
 				<p>3968 St-Ambroise<br />
 				5:00pm - 10:30pm</p>
-				<p class="text-center time-left"><strong><?php echo $days_remaining; ?></strong> Days Left!</p>
+				<p class="text-center time-left"><?php echo $days; ?> days, <span class="text-nowrap"><?php echo $hours;?> hours left!</span></p>
 		</div>
 		<div class="col-sm-8 cell">
 			<div class="row">
