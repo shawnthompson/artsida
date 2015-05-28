@@ -9,11 +9,6 @@
 			<div class="col-sm-2 hidden-xs pink"></div>
 			<div class="col-sm-3 hidden-xs cyan"></div>
 			<div class="col-sm-7 purple"><h1><?php echo $title; ?></h1></div>
-
-			<div class="col-sm-3 hidden-xs red"></div>
-			<div class="col-sm-6 hidden-xs pink"></div>
-			<div class="col-sm-3 hidden-xs cyan"></div>
-
 		</div>
 		<div class="col-sm-12 text">
 			<div class="col-sm-4 hidden-xs"><img src="img/<?php echo $mainImage; ?>" class="img-responsive" alt=""></div>
@@ -43,14 +38,19 @@
 <li>Cassandre Poblah, Administrative Coordinator</li>
 <li>Kimberly Wong, <abbr title="Human Immunodeficiency Virus">HIV</abbr> Educator</li>
 </ul>
+<section class="col-xs-8">
 <h2>Event Planners:</h2>
 <ul>
 <li>Cava Rose</li>
 <li>Cheryl-Jade Domingo</li>
 <li>Paule Labelle</li>
 </ul>
+</section>
+<div class="col-xs-4 mrgn-tp-lg">
+<p><a href="http://cavarose.com/"><img src="img/team-cava-rose.png" class="img-responsive" alt="Cava Rose - Sparkling Ideas"></a></p>
+</div>
+<div class="clearfix"></div>
 <h2>Curatorial Committee:</h2>
 <p><abbr title="AIDS Community Care Montreal">ACCM</abbr> has pulled together an accomplished committee of artists, gallerists and community members to select the works on auction at Artsida&nbsp;6. The members of this esteemed committee will be revealed shortly after the artwork is selected.</p>
-
 		</div>
 <?php include('footer.php');?>
