@@ -130,11 +130,12 @@ header nav ul li:nth-child(4) {
 main h1 {
 	padding: 20px 5px;
 	margin: 0;
+	font-size: 250%
 }
 
 main .text {
 	padding: 15px;
-	font-size: 105%;
+	font-size: 165%;
 	text-align: justify;
 }
 
@@ -158,10 +159,21 @@ main .twitter-wrapper {
 }
 
 /* Footer */
-footer .fa-4x {
-	 font-size: 2.5em;
+footer .media {
+	margin: 0;
 }
 
+footer .media ul li {
+	font-size: 200%;
+	text-align: right;
+}
+
+footer .fa-4x {
+	 font-size: 335%;
+}
+
+
+/* Utilities */
 .relative {
 	position: relative !important;
 }
@@ -442,6 +454,10 @@ footer .fa-4x {
 
 	header .cell {
 		min-height: 4.5em;
+	}
+
+	footer .media ul li {
+		font-size: 100%;
 	}
 }
 

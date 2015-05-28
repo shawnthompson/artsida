@@ -19,7 +19,7 @@
 					</li>
 				</ul>
 			</section>
-			<section class="col-xs-6 col-md-2 text-right">
+			<section class="col-xs-6 col-md-2 text-right media">
 				<h2 class="sr-only">Information links</h2>
 				<ul class="list-unstyled">
 					<li><a href="media.php">Media</a></li>
@@ -28,7 +28,7 @@
 				</ul>
 			</section>
 		</div>
-		<section class="col-xs-12 col-md-8 col-md-pull-4">
+		<section class="col-xs-12 col-md-8 col-md-pull-4 sponsors">
 			<h2 class="sr-only">Sponsors</h2>
 			<ul class="list-inline">
 				<li class="col-xs-3">
