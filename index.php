@@ -39,7 +39,7 @@
 		<div class="cell">
 			<div class="hidden-xs col-sm-3 red"></div>
 			<div class="hidden-xs col-sm-6 purple"></div>
-			<div class="hidden-xs col-sm-3 cyan relative"><img src="img/pic2.jpg" class="hidden-xs photoh bottom-right" alt=""></div>
+			<div class="hidden-xs col-sm-3 cyan relative"><img src="img/sponsor-pic.jpg" class="hidden-xs photoh bottom-right" alt=""></div>
 
 			<div class="hidden-xs col-sm-2 yellow"></div>
 			<div class="hidden-xs col-sm-6 cyan"></div>

@@ -1,7 +1,7 @@
 <?php
 	$title = "Sponsors";
 	$pageClass = "content";
-	$mainImage ="about-accm.jpg";
+	$mainImage ="sponsor-pic.jpg";
 ?>
 <?php include('header.php'); ?>
 
