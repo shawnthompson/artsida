@@ -1,7 +1,7 @@
 <?php
 	$title = "Event Venues";
 	$pageClass = "content";
-	$mainImage ="about-accm.jpg";
+	$mainImage ="about-venues.jpg";
 ?>
 <?php include('header.php'); ?>
 
