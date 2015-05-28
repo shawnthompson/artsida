@@ -22,12 +22,15 @@
 </p>
 <h2>Presenting Sponsor</h2>
 <p class="sr-only">TD</p>
+<a href="http://www.td.com/"><img src="img/sponsor-td.gif" alt="TD"></a>
 
 <h2>Framing Sponsor</h2>
-<p class="sr-only">ENCADREX</p>
+<p class="sr-only">Encadrex</p>
+<a href="http://www.encadrex.com/"><img src="img/sponsor-encadrex.png" alt="Encadrex"></a>
 
 <h2>Partner Sponsors </h2>
-<p class="sr-only">WESTJET</p>
+<p class="sr-only">Westjet</p>
+<a href=""><img class="img-responsive" src="img/sponsor-westjet.jpg" alt="Westjet"></a>
 			</div>
 		</div>
 <?php include('footer.php');?>
