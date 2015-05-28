@@ -10,7 +10,6 @@ grey: #999;
 
 /* Font */
 @import url(http://fonts.googleapis.com/css?family=Pathway+Gothic+One);
-@import url(http://fonts.googleapis.com/css?family=Orbitron:400,700);
 body {
 	font-family: 'Pathway Gothic One', sans-serif;
 }
@@ -54,16 +53,21 @@ header .small {
 	font-size: 40%;
 }
 
+header .info {
+	font-size: 130%;
+}
+
 header .info .small {
-	font-size: 80%;
+	font-size: 70%;
+	margin-top: 10px;
 }
 header .lang {
 	text-transform: uppercase;
 }
 
 header .time-left {
-	font-family: 'Orbitron', sans-serif;
 	padding-top: 10px;
+	font-size: 130%;
 }
 
 /* Navigation */
@@ -332,7 +336,6 @@ footer .fa-4x {
 
 	header .info .small {
 		font-size: 70%;
-		padding-top: 5px;
 	}
 
 /* Navigation */

@@ -49,7 +49,7 @@
 				</div>
 				<div class="col-xs-2">
 					<p><span class="small">Presented&nbsp;by:</span><br />
-					<p><a href="https://www.tdcanadatrust.com/"><img class="img-responsive" src="img/sponsor-td.gif" alt="TD logo" /></a></p>
+					<p><a href="http://www.td.com/"><img class="img-responsive" src="img/sponsor-td.gif" alt="TD logo" /></a></p>
 				</div>
 			</div>
 		</div>
@@ -64,10 +64,10 @@
 					</ul>
 				</section>
 			</div>
-				<p><a href="http://entrepotsdominion.ca/"><span class="sr-only">Entrepôts Dominion</span><img src="img/logo-dominion.png" alt=""></a></p>
+				<p><a href="http://entrepotsdominion.ca/"><span class="sr-only">Entrepôts Dominion</span><img src="img/venue-dominion.png" alt=""></a></p>
 				<p>3968 St-Ambroise<br />
 				5:00pm - 10:30pm</p>
-				<p class="text-center time-left"><?php echo $days; ?> days, <span class="text-nowrap"><?php echo $hours;?> hours left!</span></p>
+				<p class="text-center time-left"><?php echo $days; ?> days, <span class="text-nowrap"><?php echo $hours;?> hours  until Artsida 6</span></p>
 		</div>
 		<div class="col-sm-8 cell">
 			<div class="row">
