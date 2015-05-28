@@ -171,19 +171,22 @@ main .twitter-wrapper {
 }
 
 /* Footer */
+footer {
+	padding: 15px;
+}
+
 footer .media {
 	margin: 0;
+	text-transform: uppercase;
 }
 
 footer .media ul li {
-	font-size: 200%;
-	text-align: right;
+	font-size: 150%;
 }
 
 footer .fa-4x {
 	 font-size: 335%;
 }
-
 
 /* Utilities */
 .relative {
@@ -415,6 +418,9 @@ footer .fa-4x {
 		bottom: 0;
 		right: 0;
 	}
+	footer .media ul li {
+		display: block;
+	}
 
 	footer .fa-4x {
 		 font-size: 3.3em;
@@ -467,9 +473,6 @@ footer .fa-4x {
 		min-height: 4.5em;
 	}
 
-	footer .media ul li {
-		font-size: 100%;
-	}
 }
 
 /* Large devices (large desktops, 1200px and up) */
