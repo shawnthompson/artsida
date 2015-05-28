@@ -32,7 +32,7 @@
 			<h2 class="sr-only">Sponsors</h2>
 			<ul class="list-inline">
 				<li class="col-xs-6">
-					<a href="www.td.com/">Presented by:<br /><img class="img-responsive" src="img/sponsor-td.gif" alt="TD"></a>
+					<a href="http://www.td.com/">Presented by:<br /><img class="img-responsive" src="img/sponsor-td.gif" alt="TD"></a>
 				</li>
 				<li class="col-xs-6 text-right">
 					<a href="http://www.encadrex.com/"><img class="img-responsive" src="img/sponsor-encadrex.png" alt="encadrex"></a>
