@@ -1,7 +1,7 @@
 <?php
-	$title = "AIDS Community Care Montreal (ACCM)";
+	$title = "Tickets";
 	$pageClass = "content";
-	$mainImage ="about-accm.jpg";
+	$mainImage ="tickets.jpg";
 ?>
 <?php include('header.php'); ?>
 
@@ -18,9 +18,23 @@
 		<div class="col-sm-12 text">
 			<div class="col-sm-4 hidden-xs"><img src="img/<?php echo $mainImage; ?>" class="img-responsive" alt=""></div>
 			<div class="col-sm-6">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia veritatis laborum repudiandae expedita cumque modi culpa ullam vel, voluptas debitis eum nostrum rerum deleniti alias!</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut doloribus cupiditate saepe, provident eum? Aspernatur praesentium veritatis error ad ea fugit illum ex, necessitatibus autem recusandae totam vel, repellendus quas officia, eveniet ullam.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta earum reiciendis voluptatem esse itaque laudantium.</p>
+<h2>Vernissage:</h2>
+<p>Free entry</p>
+<h2>Main auction:</h2>
+<h3><span class="mrgn-rght-lg">VIP ticket</span> $150</h3>
+<ul>
+<li>Access to event at 5pm for VIP cocktail</li>
+<li>Exclusive opportunity to meet selected artists</li>
+<li>Exclusive complimentary wine bar </li>
+<li>Exclusive cocktail dinatoire & hors d’oeuvres</li>
+</ul>
+<h3><span class="mrgn-rght-lg">General ticket</span> $100</h3>
+<ul>
+<li>Access to event at 6pm</li>
+<li>Complimentary wine bar </li>
+<li>Cocktail dinatoire & hors d’oeuvres</li>
+</ul>
+<p>Tickets will be available for on-line purchase soon. Tickets will also be on sale through <abbr title="AIDS Community Care Montreal">ACCM</abbr> office (514) 529-9462.</p>
 			</div>
 		</div>
 <?php include('footer.php');?>

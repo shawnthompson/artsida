@@ -18,9 +18,8 @@
 		<div class="col-sm-12 text">
 			<div class="col-sm-4 hidden-xs"><img src="img/<?php echo $mainImage; ?>" class="img-responsive" alt=""></div>
 			<div class="col-sm-6">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia veritatis laborum repudiandae expedita cumque modi culpa ullam vel, voluptas debitis eum nostrum rerum deleniti alias!</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut doloribus cupiditate saepe, provident eum? Aspernatur praesentium veritatis error ad ea fugit illum ex, necessitatibus autem recusandae totam vel, repellendus quas officia, eveniet ullam.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta earum reiciendis voluptatem esse itaque laudantium.</p>
+				<p>Founded in 1987, <abbr title="AIDS Community Care Montreal">ACCM</abbr> is Québec’s only English language <abbr title="Acquired Immune Deficiency Syndrome">AIDS</abbr> service organization and provides support and services in English and French. <abbr title="AIDS Community Care Montreal">ACCM</abbr> is a volunteer-based community organization working to enhance the quality of life of people living with <abbr title="Human Immunodeficiency Virus">HIV</abbr>/<abbr title="Acquired Immune Deficiency Syndrome">AIDS</abbr>, to prevent HIV transmission, and to promote community awareness and action. We provide practical as well as psychosocial support for people living with <abbr title="Human Immunodeficiency Virus">HIV</abbr>, and offer treatment conferences dealing with <abbr title="Human Immunodeficiency Virus">HIV</abbr> medication regimens. We also facilitate education and prevention outreach to at-risk communities in Montreal. Our services are accessed by hundreds of people every year, and we strive to break down the social stigma and isolation that can affect people living with <abbr title="Human Immunodeficiency Virus">HIV</abbr>. </p>
+				<p class="text-center"><a href="http://accmontreal.org/"><img src="img/accm-en.jpg" alt="AIDS Community Care Montreal"></a></p>
 			</div>
 		</div>
 <?php include('footer.php');?>

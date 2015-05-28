@@ -1,7 +1,7 @@
 <?php
 	$title = "Honorary Co-Chairs & Auctioneer";
 	$pageClass = "content";
-	$mainImage ="about-artsida.jpg";
+	$mainImage ="about-accm.jpg";
 ?>
 <?php include('header.php'); ?>
 
@@ -18,8 +18,7 @@
 		<div class="col-sm-12 text">
 			<div class="col-sm-4 hidden-xs"><img src="img/<?php echo $mainImage; ?>" class="img-responsive" alt=""></div>
 			<div class="col-sm-6">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia veritatis laborum repudiandae expedita cumque modi culpa ullam vel, voluptas debitis eum nostrum rerum deleniti alias!</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut doloribus cupiditate saepe, provident eum? Aspernatur praesentium veritatis error ad ea fugit illum ex, necessitatibus autem recusandae totam vel, repellendus quas officia, eveniet ullam.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta earum reiciendis voluptatem esse itaque laudantium.</p>
+				<p>Artsida 6 will be hosted by two Honorary Co-Chairs who will represent <abbr title="AIDS Community Care Montreal">ACCM</abbr>’s commitment to the struggle against <abbr title="Human Immunodeficiency Virus">HIV</abbr> as well as its involvement in the Montreal contemporary art scene. The Honorary Co-Chairs will be revealed soon.
+</p>
 		</div>
 <?php include('footer.php');?>

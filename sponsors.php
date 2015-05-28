@@ -1,5 +1,5 @@
 <?php
-	$title = "AIDS Community Care Montreal (ACCM)";
+	$title = "Sponsors";
 	$pageClass = "content";
 	$mainImage ="about-accm.jpg";
 ?>
@@ -18,9 +18,16 @@
 		<div class="col-sm-12 text">
 			<div class="col-sm-4 hidden-xs"><img src="img/<?php echo $mainImage; ?>" class="img-responsive" alt=""></div>
 			<div class="col-sm-6">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia veritatis laborum repudiandae expedita cumque modi culpa ullam vel, voluptas debitis eum nostrum rerum deleniti alias!</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut doloribus cupiditate saepe, provident eum? Aspernatur praesentium veritatis error ad ea fugit illum ex, necessitatibus autem recusandae totam vel, repellendus quas officia, eveniet ullam.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta earum reiciendis voluptatem esse itaque laudantium.</p>
+				<p>We rely greatly on corporate sponsors to help us make Artsida a success. If you or your company are interested in supporting our event in some way, contact <a href="mailto:artsida@accmontreal.org">artsida@accmontreal.org</a>
+</p>
+<h2>Presenting Sponsor</h2>
+<p class="sr-only">TD</p>
+
+<h2>Framing Sponsor</h2>
+<p class="sr-only">ENCADREX</p>
+
+<h2>Partner Sponsors </h2>
+<p class="sr-only">WESTJET</p>
 			</div>
 		</div>
 <?php include('footer.php');?>

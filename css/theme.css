@@ -133,6 +133,18 @@ main h1 {
 	font-size: 250%
 }
 
+main h2 {
+	margin-top: 20px;
+	font-weight: bold;
+	font-size: 150%;
+}
+
+main h3 {
+	margin-top: 30px;
+	font-weight: bold;
+	font-size: 130%;
+}
+
 main .text {
 	padding: 15px;
 	font-size: 165%;
@@ -369,14 +381,13 @@ footer .fa-4x {
 	}
 
 	main h1 {
-		font-size: 150%;
+		font-size: 240%;
 		margin: 0;
 		color: #fff;
-		padding: 15px;
 		text-transform: uppercase;
 		font-weight: bold;
 		text-align: center;
-		padding-top: 2.6em;
+		padding-top: 1.3em;
 	}
 
 	main #carousel {
@@ -476,8 +487,8 @@ footer .fa-4x {
 	}
 
 	main h1 {
-		font-size: 200%;
-		padding-top: 1.8em;
+		font-size: 250%;
+		padding-top: 1.4em;
 	}
 
 }

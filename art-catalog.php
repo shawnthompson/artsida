@@ -1,7 +1,7 @@
 <?php
-	$title = "AIDS Community Care Montreal (ACCM)";
+	$title = "Catalog";
 	$pageClass = "content";
-	$mainImage ="about-accm.jpg";
+	$mainImage ="art-catalog.jpg";
 ?>
 <?php include('header.php'); ?>
 
@@ -18,9 +18,7 @@
 		<div class="col-sm-12 text">
 			<div class="col-sm-4 hidden-xs"><img src="img/<?php echo $mainImage; ?>" class="img-responsive" alt=""></div>
 			<div class="col-sm-6">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia veritatis laborum repudiandae expedita cumque modi culpa ullam vel, voluptas debitis eum nostrum rerum deleniti alias!</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut doloribus cupiditate saepe, provident eum? Aspernatur praesentium veritatis error ad ea fugit illum ex, necessitatibus autem recusandae totam vel, repellendus quas officia, eveniet ullam.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta earum reiciendis voluptatem esse itaque laudantium.</p>
+				<p>Once the Artsida 6 collection has been selected, photos of the selected artwork and artist biographies will be available here. A downloadable and printable colour catalog will also be available.</p>
 			</div>
 		</div>
 <?php include('footer.php');?>
