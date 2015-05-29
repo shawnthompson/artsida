@@ -9,9 +9,14 @@ grey: #999;
 */
 
 /* Font */
-@import url(http://fonts.googleapis.com/css?family=Pathway+Gothic+One);
+/*@import url(http://fonts.googleapis.com/css?family=Pathway+Gothic+One);*/
+@font-face {
+    font-family: myFirstFont;
+    src: url(../fonts/Pathway_Gothic_One/PathwayGothicOne-Regular.ttf);
+}
+
 body {
-	font-family: 'Pathway Gothic One', sans-serif;
+	font-family: myFirstFont, sans-serif;
 }
 
 abbr[title] {
