@@ -1,5 +1,5 @@
 <?php
-	$lang = "en"
+	$lang = "en";
 	$title = "Artisda History";
 	$pageClass = "content";
 	$mainImage = "about-history.jpg";

@@ -1,5 +1,5 @@
 <?php
-	$lang = "en"
+	$lang = "en";
 	$title = "Sponsors";
 	$pageClass = "content";
 	$mainImage = "sponsor-pic.jpg";

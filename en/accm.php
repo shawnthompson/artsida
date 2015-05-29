@@ -1,5 +1,5 @@
 <?php
-	$lang = "en"
+	$lang = "en";
 	$title = "AIDS Community Care Montreal (ACCM)";
 	$pageClass = "content";
 	$mainImage = "about-accm.jpg";

@@ -1,5 +1,5 @@
 <?php
-	$lang = "en"
+	$lang = "en";
 	$title = "ArtSida 6, September 30, 2015";
 	$pageClass = "home";
 ?>

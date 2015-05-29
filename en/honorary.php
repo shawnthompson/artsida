@@ -1,5 +1,5 @@
 <?php
-	$lang = "en"
+	$lang = "en";
 	$title = "Honorary Co-Chairs & Auctioneer";
 	$pageClass = "content";
 	$mainImage = "about-accm.jpg";

@@ -1,5 +1,5 @@
 <?php
-	$lang = "en"
+	$lang = "en";
 	$title = "Catalog";
 	$pageClass = "content";
 	$mainImage = "art-catalog.jpg";

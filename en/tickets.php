@@ -1,5 +1,5 @@
 <?php
-	$lang = "en"
+	$lang = "en";
 	$title = "Tickets";
 	$pageClass = "content";
 	$mainImage = "tickets.jpg";
