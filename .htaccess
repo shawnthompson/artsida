@@ -1,0 +1,4 @@
+Options -Indexes
+
+###### Redirects ######
+Redirect 301 /submission http://www.artsida.org/en/submissions.php
