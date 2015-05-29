@@ -14,7 +14,7 @@
 			<div class="col-sm-4 hidden-xs"><img src="img/<?php echo $mainImage; ?>" class="img-responsive" alt=""></div>
 			<div class="col-sm-6">
 				<p>Thank you for your interest in submitting artwork for Artsida 6 and for supporting <abbr title="AIDS Community Care Montreal">ACCM</abbr>’s mission!</p>
-<p>The art submission process is in two steps :</p>
+<p>The art submission p`rocess is in two steps :</p>
 <ol>
 <li>Complete submission form on this website (click button below);</li>
 <li>Email a high-resolution 300 <abbr title="dot per inch">dpi</abbr> <abbr title="Cyan Magenta Yellow Black">CMYK</abbr> colour image of your artwork to <a href="mailto:submissions@accmontreal.org">submissions@accmontreal.org</a>. Please put your full name and artwork title in the email subject.</li>
@@ -32,6 +32,7 @@
 </ol>
 <p>The artist assumes the responsibility to deliver the artwork to Artsida before July 31<sup>st</sup>.</p>
 <p>Out-of-town artists must organize and cover the cost of shipping the artwork to Artsida.</p>
+<p class="text-center"><a target="_blank" class="btn btn-lg btn-block btn-primary" href="https://docs.google.com/forms/d/1_-FeJVM84W59zWg9FamtFpguCH21MpcBYvUPTpwWdMM/viewform">Art Submission Form</a></p>
 			</div>
 		</div>
 <?php include('footer.php');?>
