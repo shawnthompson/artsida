@@ -55,7 +55,7 @@
 		</div>
 		<div class="col-sm-4 yellow info">
 			<div class="row">
-				<div class="col-xs-10 text-left"><p class="small"><a href="mailto:artsida@accmontreal.org">Subscribe to the Artisda newsletter</a></p></div>
+				<div class="col-xs-10 text-left"><p class="small"><a href="mailto:artsida@accmontreal.org">Subscribe to the Artsida newsletter</a></p></div>
 				<section class="col-xs-2">
 					<h2 class="sr-only">Language selection</h2>
 					<ul class="list-unstyled">
