@@ -13,6 +13,11 @@ grey: #999;
 body {
 	font-family: 'Pathway Gothic One', sans-serif;
 }
+
+abbr[title] {
+	text-decoration: none !important;
+	border: none;
+}
 /* Reset margin for col- */
 .home [class^="col-"] {
 	margin: 0;
@@ -67,7 +72,7 @@ header .lang {
 
 header .time-left {
 	padding-top: 10px;
-	font-size: 130%;
+	font-size: 90%;
 }
 
 /* Navigation */
@@ -334,8 +339,23 @@ footer .fa-4x {
 		font-size: 115%;
 	}
 
+	header .small {
+		font-size: 0.7em;
+	}
+
+	header .info {
+		text-align: right;
+		font-size: 100%;
+		margin-bottom: 0;
+		padding-bottom: 0;
+	}
+
 	header .info .small {
 		font-size: 70%;
+	}
+
+	header .cell {
+		min-height: 3.7em;
 	}
 
 /* Navigation */
@@ -372,18 +392,6 @@ footer .fa-4x {
 		font-size: 100%;
 		color: #fff;
 		display: block;
-	}
-
-	header .cell {
-		min-height: 3.7em;
-	}
-
-	header .small {
-		font-size: 0.7em;
-	}
-
-	header .info {
-		text-align: right;
 	}
 
 	main h1 {
@@ -465,7 +473,7 @@ footer .fa-4x {
 	}
 
 	header .info {
-		font-size: 125%;
+		font-size: 115%;
 	}
 
 	header nav li a {
