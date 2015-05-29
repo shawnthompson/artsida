@@ -3,10 +3,6 @@
 	$remaining = $date - time();
 	$days = floor($remaining / 86400);
 	$hours = floor(($remaining % 86400) / 3600);
-
-
-
-
 ?>
 
 <!DOCTYPE html>
@@ -21,12 +17,12 @@
 	<!-- Fav Icon -->
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 	<!-- Bootstrap -->
-	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<!--		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">-->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+	<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">-->
 	<!-- Font Awesome -->
-	<link rel="stylesheet" href="css/font-awesome.min.css">
-	<!--		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">-->
-	<link rel="stylesheet" href="css/theme.css">
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+	<!--<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">-->
+	<link rel="stylesheet" href="../css/theme.css">
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 	<!--[if lt IE 9]>
@@ -39,17 +35,17 @@
 		<div class="col-sm-8">
 			<div class="row">
 				<div class="col-xs-2 mrgn-tp-md">
-					<p class="mrgn-tp-lg"><a href="index.php"><img class="img-responsive" src="img/logo.gif" alt="ArtSIDA logo" /></a></p>
+					<p class="mrgn-tp-lg"><a href="index.php"><img class="img-responsive" src="../img/logo.gif" alt="ArtSIDA logo" /></a></p>
 				</div>
 				<div class="col-xs-8">
-					<h1 class="mrgn-tp-md"><a href="index.php"><span class="sr-only">ArtSIDA 6</span><img src="img/artsida6.jpg" class="center-block img-responsive" alt="" /></a></h1>
+					<h1 class="mrgn-tp-md"><a href="index.php"><span class="sr-only">ArtSIDA 6</span><img src="../img/artsida6.jpg" class="center-block img-responsive" alt="" /></a></h1>
 					<h2>Raise your hand for ACCM</h2>
 					<p class="text-center date">Wednesday September 30<sup>th</sup> 2015</p>
-					<p><a href="http://accmontreal.org/"><img src="img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="mrgn-tp-sm center-block img-responsive" /></a></p>
+					<p><a href="http://accmontreal.org/"><img src="../img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="mrgn-tp-sm center-block img-responsive" /></a></p>
 				</div>
 				<div class="col-xs-2">
 					<p><span class="small">Presented&nbsp;by:</span><br />
-					<p><a href="http://www.td.com/"><img class="img-responsive" src="img/sponsor-td.gif" alt="TD logo" /></a></p>
+					<p><a href="http://www.td.com/"><img class="img-responsive" src="../img/sponsor-td.gif" alt="TD logo" /></a></p>
 				</div>
 			</div>
 		</div>
@@ -64,7 +60,7 @@
 					</ul>
 				</section>
 			</div>
-				<p><a href="http://entrepotsdominion.ca/"><span class="sr-only">Entrepôts Dominion</span><img src="img/venue-dominion.png" alt=""></a></p>
+				<p><a href="http://entrepotsdominion.ca/"><span class="sr-only">Entrepôts Dominion</span><img src="../img/venue-dominion.png" alt=""></a></p>
 				<p>3968 St-Ambroise<br />
 				5:00pm - 10:30pm</p>
 				<p class="text-center time-left"><?php echo $days; ?> days, <span class="text-nowrap"><?php echo $hours;?> hours  until Artsida 6</span></p>
@@ -75,20 +71,20 @@
 					<ul>
 						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
 							<ul class="dropdown-menu" role="menu">
-								<li><a href="about-artsida.php">Artsida 6 Auction</a></li>
-								<li><a href="about-vernissage.php">Artsida 6 Vernissage</a></li>
-								<li><a href="about-honorary.php">Honorary Co-Chairs & Auctioneer</a></li>
-								<li><a href="about-venues.php">Event Venues</a></li>
-								<li><a href="about-team.php">Artsida 6 Team</a></li>
-								<li><a href="about-history.php">Artisda History</a></li>
-								<li><a href="about-accm.php">ACCM</a></li>
+								<li><a href="artsida.php">Artsida 6 Auction</a></li>
+								<li><a href="vernissage.php">Artsida 6 Vernissage</a></li>
+								<li><a href="honorary.php">Honorary Co-Chairs & Auctioneer</a></li>
+								<li><a href="venues.php">Event Venues</a></li>
+								<li><a href="team.php">Artsida 6 Team</a></li>
+								<li><a href="history.php">Artisda History</a></li>
+								<li><a href="accm.php">ACCM</a></li>
 							</ul>
 						</li>
 						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Artwork <span class="caret"></span></a>
 							<ul class="dropdown-menu" role="menu">
-								<li><a href="art-catalog.php">Catalog</a></li>
-								<li><a href="art-rules.php">Auction Rules</a></li>
-								<li><a href="art-submissions.php">Submissions</a></li>
+								<li><a href="catalog.php">Catalog</a></li>
+								<li><a href="rules.php">Auction Rules</a></li>
+								<li><a href="submissions.php">Submissions</a></li>
 							</ul>
 						</li>
 						<li><a href="tickets.php">Tickets</a></li>

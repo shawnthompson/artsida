@@ -32,18 +32,18 @@
 			<h2 class="sr-only">Sponsors</h2>
 			<ul class="list-inline">
 				<li class="col-xs-4">
-					Presented by:<br /><a href="http://www.td.com/"><img class="img-responsive" src="img/sponsor-td.gif" alt="TD"></a>
+					Presented by:<br /><a href="http://www.td.com/"><img class="img-responsive" src="../img/sponsor-td.gif" alt="TD"></a>
 				</li>
 				<li class="col-xs-4 col-xs-push-2 text-right mrgn-tp-lg">
-					<a href="http://www.encadrex.com/"><img class="img-responsive" src="img/sponsor-encadrex.png" alt="encadrex"></a>
+					<a href="http://www.encadrex.com/"><img class="img-responsive" src="../img/sponsor-encadrex.png" alt="encadrex"></a>
 				</li>
 			</ul>
 		</section>
 	</footer>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-	<script src="js/jquery.min.js"></script>
+	<script src="../js/jquery.min.js"></script>
 	<!-- Include all compiled plugins (below), or include individual files as needed -->
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/twitter.js"></script>
+	<script src="../js/bootstrap.min.js"></script>
+	<script src="../js/twitter.js"></script>
 </body>
 </html>

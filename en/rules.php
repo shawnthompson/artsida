@@ -1,9 +1,10 @@
 <?php
+	$lang = "en"
 	$title = "Auction Rules";
 	$pageClass = "content";
-	$mainImage ="art-rules.jpg";
+	$mainImage = "art-rules.jpg";
 ?>
-<?php include('header.php'); ?>
+<?php include('../header.php'); ?>
 
 		<div class="cell">
 			<div class="col-sm-2 hidden-xs pink"></div>
@@ -11,7 +12,7 @@
 			<div class="col-sm-7 purple"><h1><?php echo $title; ?></h1></div>
 		</div>
 		<div class="col-sm-12 text">
-			<div class="col-sm-4 hidden-xs"><img src="img/<?php echo $mainImage; ?>" class="img-responsive" alt=""></div>
+			<div class="col-sm-4 hidden-xs"><img src="../img/<?php echo $mainImage; ?>" class="img-responsive" alt=""></div>
 			<div class="col-sm-6">
 <h2>Conditions Of Sale </h2>
 <h3>Live Auction</h3>
@@ -32,4 +33,4 @@
 
 			</div>
 		</div>
-<?php include('footer.php');?>
+<?php include('../footer.php'); ?>
