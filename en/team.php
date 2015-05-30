@@ -19,8 +19,9 @@
 <li>Mathieu Foran, Vice-President</li>
 <li>Terry Kyle, President</li>
 <li>Joshua Levin, Secretary</li>
-<li>Silvana Orrino, Administrator</li>
 <li>Benjamin Prud’homme, Treasurer</li>
+<li>Silvana Orrino, Administrator</li>
+<li>Sylvain Beaudry - Administrator - Staff representative</li>
 </ul>
 <h2><abbr title="AIDS Community Care Montreal">ACCM</abbr> Artsida Staff:</h2>
 <ul>
@@ -42,7 +43,6 @@
 <section class="col-xs-8">
 <h2>Event Planners:</h2>
 <ul>
-<li>Cava Rose</li>
 <li>Cheryl-Jade Domingo</li>
 <li>Paule Labelle</li>
 </ul>
