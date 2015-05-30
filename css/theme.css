@@ -6,6 +6,8 @@ cyan: #4eb0af;
 purple: #6e86b6;
 pink: #e5b3d0;
 grey: #999;
+link: #337ab7;
+link.hover: #23527c;
 */
 
 /* Font */
@@ -78,6 +80,7 @@ header .lang {
 header .time-left {
 	padding-top: 10px;
 	font-size: 90%;
+	color: #337ab7;
 }
 
 /* Navigation */
