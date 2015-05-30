@@ -73,7 +73,7 @@
 							<ul class="dropdown-menu" role="menu">
 								<li><a href="artsida.php">Artsida 6 Auction</a></li>
 								<li><a href="vernissage.php">Artsida 6 Vernissage</a></li>
-								<li><a href="honorary.php">Honorary Co-Chairs & Auctioneer</a></li>
+								<li><a href="honorary.php">Honorary Co-Chairs</a></li>
 								<li><a href="venues.php">Event Venues</a></li>
 								<li><a href="team.php">Artsida 6 Team</a></li>
 								<li><a href="history.php">Artisda History</a></li>

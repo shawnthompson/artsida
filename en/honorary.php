@@ -1,6 +1,6 @@
 <?php
 	$lang = "en";
-	$title = "Honorary Co-Chairs & Auctioneer";
+	$title = "Honorary Co-Chairs";
 	$pageClass = "content";
 	$mainImage = "about-accm.jpg";
 ?>
