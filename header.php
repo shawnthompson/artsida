@@ -6,7 +6,7 @@
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?php echo $lang; ?>">
 
 <head>
 	<meta charset="utf-8">
@@ -35,7 +35,7 @@
 		<div class="col-sm-8">
 			<div class="row">
 				<div class="col-xs-2 mrgn-tp-md">
-					<p class="mrgn-tp-lg"><a href="index.php"><img class="img-responsive" src="../img/logo.gif" alt="ArtSIDA logo" /></a></p>
+					<p class="mrgn-tp-lg"><a href="index.php"><img class="img-responsive" src="../img/logo.gif" alt="Artsida logo" /></a></p>
 				</div>
 				<div class="col-xs-8">
 					<h1 class="mrgn-tp-md"><a href="index.php"><span class="sr-only">ArtSIDA 6</span><img src="../img/artsida6.jpg" class="center-block img-responsive" alt="" /></a></h1>
@@ -63,7 +63,7 @@
 				<p><a href="http://entrepotsdominion.ca/"><span class="sr-only">Entrepôts Dominion</span><img src="../img/venue-dominion.png" alt=""></a></p>
 				<p>3968 St-Ambroise<br />
 				5:00pm - 10:30pm</p>
-				<p class="text-center time-left"><?php echo $days; ?> days, <span class="text-nowrap"><?php echo $hours;?> hours  until Artsida 6</span></p>
+				<p class="text-center time-left"><strong><?php echo $days; ?></strong> days, <span class="text-nowrap"><strong><?php echo $hours;?></strong> hours until <strong class="large">Artsida 6</strong></span></p>
 		</div>
 		<div class="col-sm-8 cell">
 			<div class="row">

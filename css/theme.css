@@ -80,7 +80,16 @@ header .lang {
 header .time-left {
 	padding-top: 10px;
 	font-size: 90%;
-	color: #337ab7;
+}
+
+header .time-left strong {
+	color: #4eb0af;
+	font-weight: bold;
+	font-size: 130%
+}
+
+header .time-left strong.large {
+	color: #000;
 }
 
 /* Navigation */
