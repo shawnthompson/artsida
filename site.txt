@@ -1,17 +1,37 @@
+Homepage | index.php
 About
-	Artsida 6 Auction | about-artsida.php
-	Artsida 6 Vernissage | about-vernissage.php
-	Honorary Co-Chairs & Auctioneer | about-honorary.php
-	Event Venues | about-venues.php
-	Artsida 6 Team | about-team.php
-	Artisda History | about-history.php
-	ACCM | about-accm.php
+	Artsida 6 Auction | artsida.php
+	Artsida 6 Vernissage | vernissage.php
+	Honorary Co-Chairs | honorary.php
+	Event Venues | venues.php
+	Artsida 6 Team | team.php
+	Artisda History | history.php
+	ACCM | accm.php
 Artwork
-	Catalog | art-catalog.php
-	Auction Rules | art-rules.php
-	Submissions | art-submission.php
+	Catalog | catalog.php
+	Auction Rules | rules.php
+	Submissions | submission.php
 Tickets | tickets.php
 Sponsors | sponsors.php
 Media | media.php
 Volunteer | volunteer.php
 Contact | contact.php
+
+Homepage | accueil.php
+Au sujet d’Artsida
+	Encan Artsida 6 | encan.php
+	Vernissage et vente d’œuvres Artsida 6 | vente.php
+	Coprésidents honoraires copresidents.php
+	Lieux des activités | lieux.php
+	Équipe d’Artsida 6 | equipe.ph
+	Historique d’Artsida | historique.php
+	ACCM – SIDA Bénévoles Montréal | sbm.php
+OŒuvres
+	Catalogue | catalogue.php
+	Règles de l’encan | regles.php
+	Soumissions | sumissions.php
+Billets | billets.php
+Commanditaires | commanditaires.php
+Médias | medias-fr.php
+Bénévolat | benevolat.php
+Nous joindre | joindre.php
