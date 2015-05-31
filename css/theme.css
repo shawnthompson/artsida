@@ -210,6 +210,17 @@ main  .btn-primary {
 .tickets main section {
 	margin-left: 15px;
 }
+
+/* Sponsor page */
+.sponsors main h2 {
+	margin-top: 50px;
+	margin-bottom: 15px;
+}
+
+.sponsors main .col-sm-6 h2:nth-child(2) {
+	margin-top: 20px;
+}
+
 /* Footer */
 footer {
 	padding: 15px;

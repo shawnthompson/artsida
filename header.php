@@ -76,7 +76,7 @@
 								<li><a href="honorary.php">Honorary Co-Chairs</a></li>
 								<li><a href="venues.php">Event Venues</a></li>
 								<li><a href="team.php">Artsida 6 Team</a></li>
-								<li><a href="history.php">Artisda History</a></li>
+								<li><a href="history.php">Artsida History</a></li>
 								<li><a href="accm.php">ACCM</a></li>
 							</ul>
 						</li>
