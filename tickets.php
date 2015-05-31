@@ -1,5 +1,6 @@
 <?php
 	$lang = "en";
+	$otherPage = "";
 	$title = "Tickets";
 	$pageClass = "tickets";
 	$mainImage = "tickets.jpg";

@@ -1,5 +1,6 @@
 <?php
 	$lang = "en";
+	$otherPage = "";
 	$title = "Artsida 6 Auction";
 	$pageClass = "content";
 	$mainImage = "about-artsida.jpg";

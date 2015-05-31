@@ -1,5 +1,6 @@
 <?php
 	$lang = "en";
+	$otherPage = "";
 	$title = "Event Venues";
 	$pageClass = "content";
 	$mainImage = "about-venues.jpg";

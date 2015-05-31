@@ -38,7 +38,7 @@
 					<p class="mrgn-tp-lg"><a href="index.php"><img class="img-responsive" src="img/logo.gif" alt="Artsida logo" /></a></p>
 				</div>
 				<div class="col-xs-8">
-					<h1 class="mrgn-tp-md"><a href="index.php"><span class="sr-only">ArtSIDA 6</span><img src="img/artsida6.jpg" class="center-block img-responsive" alt="" /></a></h1>
+					<h1 class="mrgn-tp-md"><a href="index.php"><span class="sr-only">Artsida 6</span><img src="img/artsida6.jpg" class="center-block img-responsive" alt="" /></a></h1>
 					<h2>Raise your hand for ACCM</h2>
 					<p class="text-center date">Wednesday September 30<sup>th</sup> 2015</p>
 					<p><a href="http://accmontreal.org/"><img src="img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="mrgn-tp-sm center-block img-responsive" /></a></p>
@@ -55,7 +55,7 @@
 				<section class="col-xs-2">
 					<h2 class="sr-only">Language selection</h2>
 					<ul class="list-unstyled">
-						<li class="text-right"><a lang="en" href="#" class="lang">Fr<span class="sr-only">ançais</span></a>
+						<li class="text-right"><a lang="en" href="<?echo $otherPage; ?>.php" class="lang">Fr<span class="sr-only">ançais</span></a>
 						</li>
 					</ul>
 				</section>

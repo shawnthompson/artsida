@@ -1,5 +1,6 @@
 <?php
 	$lang = "en";
+	$otherPage = "";
 	$title = "Auction Rules";
 	$pageClass = "content";
 	$mainImage = "art-rules.jpg";

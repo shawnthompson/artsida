@@ -1,5 +1,6 @@
 <?php
 	$lang = "en";
+	$otherPage = "";
 	$title = "Sponsors";
 	$pageClass = "sponsors";
 	$mainImage = "sponsor-pic.jpg";

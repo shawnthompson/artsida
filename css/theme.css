@@ -80,6 +80,7 @@ header .lang {
 header .time-left {
 	padding-top: 10px;
 	font-size: 90%;
+	margin-bottom: 0;
 }
 
 header .time-left strong {

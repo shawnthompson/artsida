@@ -1,5 +1,6 @@
 <?php
 	$lang = "en";
+	$otherPage = "";
 	$title = "Submissions";
 	$pageClass = "content";
 	$mainImage = "art-submissions.jpg";
