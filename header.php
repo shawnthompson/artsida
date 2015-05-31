@@ -55,8 +55,13 @@
 				<section class="col-xs-2">
 					<h2 class="sr-only">Language selection</h2>
 					<ul class="list-unstyled">
-						<li class="text-right"><a lang="en" href="<?echo $otherPage; ?>.php" class="lang">Fr<span class="sr-only">ançais</span></a>
-						</li>
+<?php
+	if ($lang == 'en') {
+		echo '<li class="text-right"><a lang="fr" href="' . $otherPage . '.php" class="lang">Fr<span class="sr-only">ançais</span></a></li>';
+	} else {
+		echo '<li class="text-right"><a lang="en" href="' . $otherPage . '.php" class="lang">En<span class="sr-only">glish</span></a></li>';
+	}
+?>
 					</ul>
 				</section>
 			</div>
@@ -67,6 +72,7 @@
 		</div>
 		<div class="col-sm-8 cell">
 			<div class="row">
+			<?php if ($lang == 'en') { ?>
 				<nav>
 					<ul>
 						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
@@ -91,6 +97,32 @@
 						<li><a href="sponsors.php">Sponsors</a></li>
 					</ul>
 				</nav>
+			<?php } elseif ($lang == 'fr') { ?>
+				<nav>
+					<ul>
+						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Au sujet <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu">
+								<li><a href="encan.php">Encan Artsida 6</a></li>
+								<li><a href="vente.php">Vernissage et vente d’œuvres Artsida 6</a></li>
+								<li><a href="copresidents.php">Coprésidents honoraires</a></li>
+								<li><a href="lieux.php">Lieux des activités</a></li>
+								<li><a href="equipe.php">Équipe d’Artsida 6</a></li>
+								<li><a href="historique.php">Historique d’Artsida</a></li>
+								<li><a href="sbm.php">ACCM – SIDA Bénévoles Montréal</a></li>
+							</ul>
+						</li>
+						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Œuvres <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu">
+								<li><a href="catalogue.php">Catalogue</a></li>
+								<li><a href="regles.php">Règles de l’encan</a></li>
+								<li><a href="soumissions.php">Soumissions</a></li>
+							</ul>
+						</li>
+						<li><a href="billets.php">Billets</a></li>
+						<li><a href="commanditaires.php">Commanditaires</a></li>
+					</ul>
+				</nav>
+				<?php } ?>
 			</div>
 		</div>
 		<div class="col-sm-3 red hidden-xs cell"></div>

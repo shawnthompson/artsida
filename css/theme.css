@@ -410,6 +410,10 @@ footer .fa-4x {
 		min-height: 3.7em;
 	}
 
+	html[lang="fr"] header .cell {
+		min-height: 3.55em;
+	}
+
 /* Navigation */
 	header nav {
 		display: table;
@@ -433,6 +437,12 @@ footer .fa-4x {
 		font-weight: bold;
 		padding: 13px 5px;
 		letter-spacing: 3px;
+	}
+
+	/* French nav */
+
+	html[lang="fr"] header nav li a {
+		font-size: 160%;
 	}
 
 	header nav li a:hover, header nav li a:focus {
@@ -528,11 +538,11 @@ footer .fa-4x {
 		font-size: 115%;
 	}
 
-	header nav li a {
+	header nav li a, html[lang="fr"] header nav li a {
 		font-size: 225%
 	}
 
-	header .cell {
+	header .cell, html[lang="fr"] header .cell {
 		min-height: 4.5em;
 	}
 
@@ -544,11 +554,11 @@ footer .fa-4x {
 		 font-size: 4em;
 	}
 
-	header nav li a {
+	header nav li a, html[lang="fr"] header nav li a {
 		font-size: 250%
 	}
 
-	header .cell {
+	header .cell, html[lang="fr"] header .cell {
 		min-height: 4.88em;
 	}
 

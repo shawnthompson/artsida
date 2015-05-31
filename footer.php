@@ -19,6 +19,8 @@
 					</li>
 				</ul>
 			</section>
+
+<?php if ($lang == 'en') { ?>
 			<section class="col-xs-6 text-right media">
 				<h2 class="sr-only">Information links</h2>
 				<ul class="list-unstyled">
@@ -27,6 +29,21 @@
 					<li><a href="contact.php">Contact</a></li>
 				</ul>
 			</section>
+
+<?php } else { ?>
+
+			<section class="col-xs-6 text-right media">
+				<h2 class="sr-only">Liens d'informations</h2>
+				<ul class="list-unstyled">
+					<li><a href="medias-fr.php">Médias</a></li>
+					<li><a href="benevolat.php">Bénévolat</a></li>
+					<li><a href="joindre.php">Nous joindre</a></li>
+				</ul>
+			</section>
+
+<?php } ?>
+
+
 		</div>
 		<section class="col-xs-12 col-sm-6 col-sm-pull-6 sponsors">
 			<h2 class="sr-only">Sponsors</h2>

@@ -21,15 +21,15 @@ Homepage | accueil.php
 Au sujet d’Artsida
 	Encan Artsida 6 | encan.php
 	Vernissage et vente d’œuvres Artsida 6 | vente.php
-	Coprésidents honoraires copresidents.php
+	Coprésidents honoraires | copresidents.php
 	Lieux des activités | lieux.php
-	Équipe d’Artsida 6 | equipe.ph
+	Équipe d’Artsida 6 | equipe.php
 	Historique d’Artsida | historique.php
 	ACCM – SIDA Bénévoles Montréal | sbm.php
 OŒuvres
 	Catalogue | catalogue.php
 	Règles de l’encan | regles.php
-	Soumissions | sumissions.php
+	Soumissions | soumissions.php
 Billets | billets.php
 Commanditaires | commanditaires.php
 Médias | medias-fr.php

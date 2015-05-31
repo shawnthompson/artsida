@@ -1,6 +1,6 @@
 <?php
 	$lang = "en";
-	$otherPage = "";
+	$otherPage = "historique";
 	$title = "Artisda History";
 	$pageClass = "content";
 	$mainImage = "about-history.jpg";
