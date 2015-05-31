@@ -4,7 +4,7 @@
 	$pageClass = "content";
 	$mainImage = "about-accm.jpg";
 ?>
-<?php include('../header.php'); ?>
+<?php include('header.php'); ?>
 
 		<div class="cell">
 			<div class="col-sm-2 hidden-xs pink"></div>
@@ -12,7 +12,7 @@
 			<div class="col-sm-7 purple"><h1><?php echo $title; ?></h1></div>
 		</div>
 		<div class="col-sm-12 text">
-			<div class="col-sm-4 hidden-xs"><img src="../img/<?php echo $mainImage; ?>" class="img-responsive" alt=""></div>
+			<div class="col-sm-4 hidden-xs"><img src="img/<?php echo $mainImage; ?>" class="img-responsive" alt=""></div>
 			<div class="col-sm-6">
 <h2><abbr title="AIDS Community Care Montreal">ACCM</abbr> Board of Directors:</h2>
 <ul>
@@ -48,10 +48,10 @@
 </ul>
 </section>
 <div class="col-xs-4 mrgn-tp-lg">
-<p><a href="http://cavarose.com/"><img src="../img/team-cava-rose.png" class="img-responsive" alt="Cava Rose - Sparkling Ideas"></a></p>
+<p><a href="http://cavarose.com/"><img src="img/team-cava-rose.png" class="img-responsive" alt="Cava Rose - Sparkling Ideas"></a></p>
 </div>
 <div class="clearfix"></div>
 <h2>Curatorial Committee:</h2>
 <p><abbr title="AIDS Community Care Montreal">ACCM</abbr> has pulled together an accomplished committee of artists, gallerists and community members to select the works on auction at Artsida&nbsp;6. The members of this esteemed committee will be revealed shortly after the artwork is selected.</p>
 		</div>
-<?php include('../footer.php'); ?>
+<?php include('footer.php'); ?>

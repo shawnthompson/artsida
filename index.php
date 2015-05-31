@@ -3,7 +3,7 @@
 	$title = "ArtSida 6, September 30, 2015";
 	$pageClass = "home";
 ?>
-<?php include('../header.php'); ?>
+<?php include('header.php'); ?>
 		<h1 class="sr-only"><?php echo $title; ?></h1>
 		<div id="carousel" class="carousel slide" data-ride="carousel">
 			<!-- Indicators -->
@@ -16,13 +16,13 @@
 			<!-- Wrapper for slides -->
 			<div class="carousel-inner" role="listbox">
 				<div class="item active">
-					<img src="../img/carousel1.png" alt="" />
+					<img src="img/carousel1.png" alt="" />
 				</div>
 				<div class="item">
-					<img src="../img/carousel2.png" alt="" />
+					<img src="img/carousel2.png" alt="" />
 				</div>
 				<div class="item">
-					<img src="../img/carousel3.png" alt="" />
+					<img src="img/carousel3.png" alt="" />
 				</div>
 			</div>
 
@@ -40,13 +40,13 @@
 		<div class="cell">
 			<div class="hidden-xs col-sm-3 red"></div>
 			<div class="hidden-xs col-sm-6 purple"></div>
-			<div class="hidden-xs col-sm-3 cyan relative"><img src="../img/sponsor-pic.jpg" class="hidden-xs photoh bottom-right" alt=""></div>
+			<div class="hidden-xs col-sm-3 cyan relative"><img src="img/sponsor-pic.jpg" class="hidden-xs photoh bottom-right" alt=""></div>
 
 			<div class="hidden-xs col-sm-2 yellow"></div>
 			<div class="hidden-xs col-sm-6 cyan"></div>
-			<div class="hidden-xs col-sm-4 red relative"><img src="../img/pic1.jpg" class="photoh bottom-left" alt=""></div>
+			<div class="hidden-xs col-sm-4 red relative"><img src="img/pic1.jpg" class="photoh bottom-left" alt=""></div>
 
-			<div class="hidden-xs col-sm-5 col-md-6 purple responsive"><img src="../img/pic4.jpg" class="bottom-right photoh" alt=""></div>
+			<div class="hidden-xs col-sm-5 col-md-6 purple responsive"><img src="img/pic4.jpg" class="bottom-right photoh" alt=""></div>
 			<div class="hidden-xs col-sm-5 col-md-4 yellow"></div>
 			<div class="hidden-xs col-sm-2 cyan"></div>
 
@@ -54,7 +54,7 @@
 			<div class="hidden-xs col-sm-3 cyan"></div>
 			<div class="hidden-xs col-sm-6 pink"></div>
 
-			<div class="hidden-xs col-sm-2 red responsive"><img src="../img/pic3.jpg" class="bottom-left photov" alt=""></div>
+			<div class="hidden-xs col-sm-2 red responsive"><img src="img/pic3.jpg" class="bottom-left photov" alt=""></div>
 			<div class="hidden-xs col-sm-3 purple"></div>
 			<div class="col-sm-7 purple responsive twitter-wrapper"><a class="twitter-timeline bottom-right"  href="https://twitter.com/ARTSIDA6" data-widget-id="603651242682880000">Tweets by @ARTSIDA6</a></div>
 
@@ -63,4 +63,4 @@
 
 
 
-<?php include('../footer.php'); ?>
+<?php include('footer.php'); ?>

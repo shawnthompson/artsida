@@ -4,7 +4,7 @@
 	$pageClass = "content";
 	$mainImage = "art-submissions.jpg";
 ?>
-<?php include('../header.php'); ?>
+<?php include('header.php'); ?>
 
 		<div class="cell">
 			<div class="col-sm-2 hidden-xs pink"></div>
@@ -12,7 +12,7 @@
 			<div class="col-sm-7 purple"><h1><?php echo $title; ?></h1></div>
 		</div>
 		<div class="col-sm-12 text">
-			<div class="col-sm-4 hidden-xs"><img src="../img/<?php echo $mainImage; ?>" class="img-responsive" alt=""></div>
+			<div class="col-sm-4 hidden-xs"><img src="img/<?php echo $mainImage; ?>" class="img-responsive" alt=""></div>
 			<div class="col-sm-6">
 				<p>Thank you for your interest in submitting artwork for Artsida 6 and for supporting <abbr title="AIDS Community Care Montreal">ACCM</abbr>’s mission!</p>
 <p>The art submission process is in two steps :</p>
@@ -36,4 +36,4 @@
 <p class="text-center"><a target="_blank" class="btn btn-lg btn-block btn-primary" href="https://docs.google.com/forms/d/1_-FeJVM84W59zWg9FamtFpguCH21MpcBYvUPTpwWdMM/viewform">Art Submission Form</a></p>
 			</div>
 		</div>
-<?php include('../footer.php'); ?>
+<?php include('footer.php'); ?>

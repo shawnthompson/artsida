@@ -17,12 +17,12 @@
 	<!-- Fav Icon -->
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 	<!-- Bootstrap -->
-	<link rel="stylesheet" href="../css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">-->
 	<!-- Font Awesome -->
-	<link rel="stylesheet" href="../css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<!--<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">-->
-	<link rel="stylesheet" href="../css/theme.css">
+	<link rel="stylesheet" href="css/theme.css">
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 	<!--[if lt IE 9]>
@@ -35,17 +35,17 @@
 		<div class="col-sm-8">
 			<div class="row">
 				<div class="col-xs-2 mrgn-tp-md">
-					<p class="mrgn-tp-lg"><a href="index.php"><img class="img-responsive" src="../img/logo.gif" alt="Artsida logo" /></a></p>
+					<p class="mrgn-tp-lg"><a href="index.php"><img class="img-responsive" src="img/logo.gif" alt="Artsida logo" /></a></p>
 				</div>
 				<div class="col-xs-8">
-					<h1 class="mrgn-tp-md"><a href="index.php"><span class="sr-only">ArtSIDA 6</span><img src="../img/artsida6.jpg" class="center-block img-responsive" alt="" /></a></h1>
+					<h1 class="mrgn-tp-md"><a href="index.php"><span class="sr-only">ArtSIDA 6</span><img src="img/artsida6.jpg" class="center-block img-responsive" alt="" /></a></h1>
 					<h2>Raise your hand for ACCM</h2>
 					<p class="text-center date">Wednesday September 30<sup>th</sup> 2015</p>
-					<p><a href="http://accmontreal.org/"><img src="../img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="mrgn-tp-sm center-block img-responsive" /></a></p>
+					<p><a href="http://accmontreal.org/"><img src="img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="mrgn-tp-sm center-block img-responsive" /></a></p>
 				</div>
 				<div class="col-xs-2">
 					<p><span class="small">Presented&nbsp;by:</span><br />
-					<p><a href="http://www.td.com/"><img class="img-responsive" src="../img/sponsor-td.gif" alt="TD logo" /></a></p>
+					<p><a href="http://www.td.com/"><img class="img-responsive" src="img/sponsor-td.gif" alt="TD logo" /></a></p>
 				</div>
 			</div>
 		</div>
@@ -60,7 +60,7 @@
 					</ul>
 				</section>
 			</div>
-				<p><a href="http://entrepotsdominion.ca/"><span class="sr-only">Entrepôts Dominion</span><img src="../img/venue-dominion.png" alt=""></a></p>
+				<p><a href="http://entrepotsdominion.ca/"><span class="sr-only">Entrepôts Dominion</span><img src="img/venue-dominion.png" alt=""></a></p>
 				<p>3968 St-Ambroise<br />
 				5:00pm - 10:30pm</p>
 				<p class="text-center time-left"><strong><?php echo $days; ?></strong> days, <span class="text-nowrap"><strong><?php echo $hours;?></strong> hours until <strong class="large">Artsida 6</strong></span></p>
