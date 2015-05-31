@@ -410,8 +410,9 @@ footer .fa-4x {
 		min-height: 3.7em;
 	}
 
+	/* French cell in nav */
 	html[lang="fr"] header .cell {
-		min-height: 3.55em;
+		min-height: 3.1em;
 	}
 
 /* Navigation */
@@ -442,7 +443,7 @@ footer .fa-4x {
 	/* French nav */
 
 	html[lang="fr"] header nav li a {
-		font-size: 160%;
+		font-size: 130%;
 	}
 
 	header nav li a:hover, header nav li a:focus {
@@ -539,11 +540,11 @@ footer .fa-4x {
 	}
 
 	header nav li a, html[lang="fr"] header nav li a {
-		font-size: 225%
+		font-size: 180%
 	}
 
 	header .cell, html[lang="fr"] header .cell {
-		min-height: 4.5em;
+		min-height: 3.9em;
 	}
 
 }
@@ -555,11 +556,11 @@ footer .fa-4x {
 	}
 
 	header nav li a, html[lang="fr"] header nav li a {
-		font-size: 250%
+		font-size: 200%;
 	}
 
 	header .cell, html[lang="fr"] header .cell {
-		min-height: 4.88em;
+		min-height: 4.15em;
 	}
 
 	main h1 {
