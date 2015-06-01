@@ -7,6 +7,6 @@
 ?>
 <?php include('header.php'); ?>
 
-<p>Once the Artsida 6 collection has been selected, photos of the selected artwork and artist biographies will be available here. A downloadable and printable colour catalog will also be available.</p>
+<p>Une fois la sélection pour Artsida 6 effectuée, cette section présentera une photo des œuvres choisies et la biographie des artistes. Un catalogue couleur pourra aussi être téléchargé et imprimé. </p>
 
 <?php include('footer.php'); ?>

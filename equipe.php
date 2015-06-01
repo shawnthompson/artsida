@@ -34,7 +34,7 @@
 <li>Kimberly Wong, <abbr title="Human Immunodeficiency Virus">HIV</abbr> Educator</li>
 </ul>
 <section class="col-xs-8">
-<h2>Event Planners:</h2>
+<h2>Planification de l’événement:</h2>
 <ul>
 <li>Cheryl-Jade Domingo</li>
 <li>Paule Labelle</li>
@@ -44,7 +44,7 @@
 <p><a href="http://cavarose.com/"><img src="img/team-cava-rose.png" class="img-responsive" alt="Cava Rose - Sparkling Ideas"></a></p>
 </div>
 <div class="clearfix"></div>
-<h2>Curatorial Committee:</h2>
-<p><abbr title="AIDS Community Care Montreal">ACCM</abbr> has pulled together an accomplished committee of artists, gallerists and community members to select the works on auction at Artsida&nbsp;6. The members of this esteemed committee will be revealed shortly after the artwork is selected.</p>
+<h2>Comité de sélection:</h2>
+<p>L’<abbr title="AIDS Community Care Montreal">ACCM</abbr> a formé un comité chevronné composé d’artistes, de galeristes et de membres de la collectivité pour choisir les œuvres de la sixième édition d’Artsida. L’identité de ses membres sera révélée peu après la sélection des œuvres.</p>
 
 <?php include('footer.php'); ?>

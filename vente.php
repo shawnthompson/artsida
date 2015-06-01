@@ -7,10 +7,10 @@
 ?>
 <?php include('header.php'); ?>
 
-<p>The Artsida 6 vernissage will provide an opportunity for the public to meet the artists, as well as preview the collection before it goes to auction. Held at the unique and singular Galerie Dentaire on Saturday September 19<sup>th</sup> 2015, this free gallery exhibition will include additional artwork on sale exclusively for the night of the vernissage. This is a great chance to come check out the art up close and pass an enthralling evening with wine and hors d’oeuvres.</p>
-<p><strong class="mrgn-rght-md">Where:</strong> <a href="http://www.galeriedentaire.com/accueil.php">Galerie Dentaire</a>, 1200 Amherst<br />
-<strong class="mrgn-rght-md">When:</strong> Saturday, September 19<sup>th</sup> 2015<br />
-<strong class="mrgn-rght-md">Time:</strong> 5-10pm<br />
-Free entry</p>
+<p>Dans le cadre du vernissage de la sixième édition d’Artsida, le public pourra rencontrer les artistes et admirer la collection avant l’encan. Tenue le samedi 19 septembre prochain dans ce lieu unique qu’est la Galerie Dentaire, l’exposition gratuite présentera aussi d’autres œuvres en vente uniquement le soir du vernissage. Il s’agit d’une excellente occasion de venir étudier les œuvres de près et de passer une soirée captivante tout en dégustant du vin et des hors-d’œuvre.</p>
+<p><strong class="mrgn-rght-md">Lieu :</strong> <a href="http://www.galeriedentaire.com/accueil.php">Galerie Dentaire</a>, 1200, rue Amherst<br />
+<strong class="mrgn-rght-md">Date :</strong> Samedi 19 septembre 2015<br />
+<strong class="mrgn-rght-md">Heure :</strong> 17 h-22 h<br />
+Admission gratuite</p>
 
 <?php include('footer.php'); ?>

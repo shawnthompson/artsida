@@ -25,4 +25,9 @@
 <p>Successful bidders will be notified, and purchase will be charged to your MasterCard or Visa as indicated on your completed <a href="#">form</a>.</p>
 
 
+
+
+
+
+
 <?php include('footer.php'); ?>

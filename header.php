@@ -73,7 +73,7 @@
 			</div>
 				<p><a href="http://entrepotsdominion.ca/"><span class="sr-only">Entrepôts Dominion</span><img src="img/venue-dominion.png" alt=""></a></p>
 				<p>3968 St-Ambroise<br />
-				<?php if ( $lang == "en") { echo "5:00pm - 10:30pm"; } else {echo "17:00 - 22:30";} ?></p>
+				<?php if ( $lang == "en") { echo "5:00pm - 10:30pm"; } else {echo "17h00 - 22h30";} ?></p>
 				<p class="text-center time-left"><strong><?php echo $days; ?></strong> <?php if ($lang == "en") { echo "days"; } else { echo "jours"; } ?>, <span class="text-nowrap"><strong><?php echo $hours;?></strong> <?php if ( $lang == "en" ) { echo "hours until"; } else { echo "heures avant"; } ?> <strong class="large">Artsida 6</strong></span></p>
 		</div>
 		<div class="col-sm-8 cell">
