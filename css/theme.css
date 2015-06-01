@@ -413,7 +413,7 @@ footer .fa-4x {
 
 	/* French cell in nav */
 	html[lang="fr"] header .cell {
-		min-height: 3.1em;
+		min-height: 3.05em;
 	}
 
 /* Navigation */
@@ -444,7 +444,7 @@ footer .fa-4x {
 	/* French nav */
 
 	html[lang="fr"] header nav li a {
-		font-size: 130%;
+		font-size: 120%;
 	}
 
 	header nav li a:hover, header nav li a:focus {

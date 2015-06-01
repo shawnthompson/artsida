@@ -106,7 +106,7 @@
 			<?php } elseif ($lang == 'fr') { ?>
 				<nav>
 					<ul>
-						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Au sujet <span class="caret"></span></a>
+						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">À propos <span class="caret"></span></a>
 							<ul class="dropdown-menu" role="menu">
 								<li><a href="encan.php">Encan Artsida 6</a></li>
 								<li><a href="vente.php">Vernissage et vente d’œuvres Artsida 6</a></li>
