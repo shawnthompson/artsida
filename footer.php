@@ -1,5 +1,4 @@
 <?php if ($pageClass != 'home') {?>
-
 			</div>
 		</div>
 <?php } ?>
@@ -24,7 +23,6 @@
 					</li>
 				</ul>
 			</section>
-
 <?php if ($lang == 'en') { ?>
 			<section class="col-xs-6 text-right media">
 				<h2 class="sr-only">Information links</h2>
@@ -34,9 +32,7 @@
 					<li><a href="contact.php">Contact</a></li>
 				</ul>
 			</section>
-
 <?php } else { ?>
-
 			<section class="col-xs-6 text-right media">
 				<h2 class="sr-only">Liens d'informations</h2>
 				<ul class="list-unstyled">
@@ -47,8 +43,6 @@
 			</section>
 
 <?php } ?>
-
-
 		</div>
 		<section class="col-xs-12 col-sm-6 col-sm-pull-6 sponsors">
 			<h2 class="sr-only"><?php if ($lang == "en") { echo "Sponsors"; } else { echo "Commanditaires"; } ?></h2>
@@ -62,10 +56,10 @@
 			</ul>
 		</section>
 	</footer>
-	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-	<script src="js/jquery.min.js"></script>
-	<!-- Include all compiled plugins (below), or include individual files as needed -->
-	<script src="js/bootstrap.min.js"></script>
+	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<!-- <script src="js/jquery.min.js"></script> -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	<!-- <script src="js/bootstrap.min.js"></script> -->
 	<script src="js/twitter.js"></script>
 </body>
 </html>

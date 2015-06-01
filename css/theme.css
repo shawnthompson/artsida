@@ -25,14 +25,6 @@ abbr[title] {
 	text-decoration: none !important;
 	border: none;
 }
-/* Reset margin for col- */
-.home [class^="col-"] {
-	margin: 0;
-}
-
-.home main [class^="col-"] {
-	padding: 0;
-}
 
 .fa {
 	color: #000;
