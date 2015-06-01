@@ -14,7 +14,7 @@
 <h2>Framing Sponsor</h2>
 <p class="sr-only">Encadrex</p>
 <a href="http://www.encadrex.com/"><img class="img-responsive" src="img/sponsor-encadrex.png" alt="Encadrex"></a>
-<h2>Partner Sponsors </h2>
+<h2>Partner Sponsors</h2>
 <p class="sr-only">Westjet</p>
 <a href="http://www.westjet.com"><img class="img-responsive" src="img/sponsor-westjet.jpg" alt="Westjet"></a>
 

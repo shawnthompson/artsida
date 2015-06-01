@@ -7,6 +7,6 @@
 ?>
 <?php include('header.php'); ?>
 
-<p>If you are a TV, radio, print or digital media representative, you are very welcome to attend Artsida 6. Please contact <a href="mailto:artsida@accmontreal.org">artsida@accmontreal.org</a> to inquire about receiving a press pass for the auction on Wednesday, September 30<sup>th</sup>.</p>
+<p>Les représentants des médias télé, radio, papier ou numériques sont invités à assister à l’événement Artsida 6. Pour demander une carte de presse en vue de l’encan du mercredi 30 septembre, écrivez à l’adresse <a href="mailto:artsida@accmontreal.org">artsida@accmontreal.org</a>.</p>
 
 <?php include('footer.php'); ?>

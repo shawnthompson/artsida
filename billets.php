@@ -7,26 +7,26 @@
 ?>
 <?php include('header.php'); ?>
 
-<h2>Vernissage:</h2>
-<p>Free entry</p>
-<h2>Main auction:</h2>
+<h2>Vernissage :</h2>
+<p>Admission gratuite</p>
+<h2>Encan principal :</h2>
 <section>
-<h3>VIP ticket <span>$150</span></h3>
+<h3>Billet VIP <span>150 $</span></h3>
 <ul>
-<li>Access to event at 5pm for VIP cocktail</li>
-<li>Exclusive opportunity to meet selected artists</li>
-<li>Exclusive complimentary wine bar </li>
-<li>Exclusive cocktail dinatoire & hors d’oeuvres</li>
+<li>Accès à l’événement à 17 h pour le cocktail VIP</li>
+<li>Occasion exclusive de rencontrer certains des artistes</li>
+<li>Accès gratuit et exclusif au bar à vin</li>
+<li>Cocktail dînatoire exclusif et hors-d’œuvre</li>
 </ul>
 </section>
 <section>
-<h3>General ticket <span>$100</span></h3>
+<h3>Billet général <span>100 $</span></h3>
 <ul>
-<li>Access to event at 6pm</li>
-<li>Complimentary wine bar </li>
-<li>Cocktail dinatoire & hors d’oeuvres</li>
+<li>Accès à l’événement à 18 h</li>
+<li>Accès gratuit au bar à vin </li>
+<li>Cocktail dînatoire et de hors-d’œuvre</li>
 </ul>
 </section>
-<p>Tickets will be available for on-line purchase soon. Tickets will also be on sale through <abbr title="AIDS Community Care Montreal">ACCM</abbr> office (514) 529-9462.</p>
+<p>Les billets pourront bientôt être achetés en ligne ou en communiquant avec le bureau d’<abbr lang="en" title="AIDS Community Care Montreal">ACCM</abbr> (514-529-9462).</p>
 
 <?php include('footer.php'); ?>

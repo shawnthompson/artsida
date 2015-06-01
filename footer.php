@@ -40,7 +40,7 @@
 			<section class="col-xs-6 text-right media">
 				<h2 class="sr-only">Liens d'informations</h2>
 				<ul class="list-unstyled">
-					<li><a href="medias-fr.php">Médias</a></li>
+					<li><a href="media-fr.php">Médias</a></li>
 					<li><a href="benevolat.php">Bénévolat</a></li>
 					<li><a href="joindre.php">Nous joindre</a></li>
 				</ul>
