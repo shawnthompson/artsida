@@ -1,5 +1,5 @@
 <?php
-	$lang = "en";
+	$lang = "fr";
 	$otherPage = "";
 	$title = "Volunteer";
 	$pageClass = "content";

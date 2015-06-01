@@ -1,5 +1,5 @@
 <?php
-	$lang = "en";
+	$lang = "fr";
 	$otherPage = "historique";
 	$title = "Artisda History";
 	$pageClass = "content";

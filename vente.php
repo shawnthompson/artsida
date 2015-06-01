@@ -1,5 +1,5 @@
 <?php
-	$lang = "en";
+	$lang = "fr";
 	$otherPage = "";
 	$title = "Artsida 6 Vernissage & Art Sale";
 	$pageClass = "content";
