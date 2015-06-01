@@ -7,8 +7,6 @@
 ?>
 <?php include('header.php'); ?>
 
-
-
 <p>Merci de votre intérêt à présenter une œuvre pour Artsida 6 et de votre appui à la mission d’<abbr lang="en" title="AIDS Community Care Montreal">ACCM</abbr>!</p>
 <p>La présentation d’une candidature comporte deux étapes :</p>
 <ol>
@@ -28,12 +26,6 @@
 </ol>
 <p>L’artiste s’engage à remettre son œuvre à Artsida avant le 31 juillet.</p>
 <p>Les artistes qui ne résident pas à Montréal doivent faire acheminer l’œuvre à Artsida et assumer les coûts qui en découlent.</p>
-<p class="text-center"><a target="_blank" class="btn btn-lg btn-block btn-primary" href="https://docs.google.com/forms/d/1_-FeJVM84W59zWg9FamtFpguCH21MpcBYvUPTpwWdMM/viewform">Art Submission Form</a></p>
-
-
-
-
-
-
+<p class="text-center"><a target="_blank" class="btn btn-lg btn-block btn-primary" href="https://docs.google.com/forms/d/1_-FeJVM84W59zWg9FamtFpguCH21MpcBYvUPTpwWdMM/viewform">Formulaire de soumission</a></p>
 
 <?php include('footer.php'); ?>
