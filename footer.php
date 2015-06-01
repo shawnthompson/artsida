@@ -1,3 +1,8 @@
+<?php if ($pageClass != 'home') {?>
+
+			</div>
+		</div>
+<?php } ?>
 	<div class="clearfix"></div>
 	</main>
 	<footer class="col-xs-12">
@@ -52,7 +57,7 @@
 					Presented by:<br /><a href="http://www.td.com/"><img class="img-responsive mrgn-tp-sm" src="img/sponsor-td.gif" alt="TD"></a>
 				</li>
 				<li class="col-xs-4 col-xs-push-2">
-					Framing Sponsor: <by /><a href="http://www.encadrex.com/"><img class="img-responsive mrgn-tp-sm" src="img/sponsor-encadrex.png" alt="encadrex"></a>
+					Framing Sponsor: <br /><a href="http://www.encadrex.com/"><img class="img-responsive mrgn-tp-sm" src="img/sponsor-encadrex.png" alt="encadrex"></a>
 				</li>
 			</ul>
 		</section>

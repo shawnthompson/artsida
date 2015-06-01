@@ -12,5 +12,4 @@
 <h2><a href="http://www.galeriedentaire.com/accueil.php">Galerie Dentaire</a> (vernissage)</h2>
 <p><a href="http://www.galeriedentaire.com/accueil.php" class="col-xs-4"><img src="img/venue-galerie-dentaire.png" class="img-responsive pull-left pull-left mrgn-rght-md" alt="Galerie Dentaire"></a>Galerie Dentaire is a unique and offbeat amalgamation of an art gallery and dental clinic that has been hosting Artsida’s immensely popular art exhibitions since 2008. Situated a few steps from Sainte-Catherine’s street, it has become a focal point for Montreal art openings and cultural events.</p>
 
-
 <?php include('footer.php'); ?>
