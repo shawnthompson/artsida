@@ -1,6 +1,6 @@
 <?php
 	$lang = "fr";
-	$otherPage = "artsida.php";
+	$otherPage = "artsida";
 	$title = "Encan Artsida 6";
 	$pageClass = "content";
 	$mainImage = "about-artsida.jpg";

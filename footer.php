@@ -51,13 +51,13 @@
 
 		</div>
 		<section class="col-xs-12 col-sm-6 col-sm-pull-6 sponsors">
-			<h2 class="sr-only">Sponsors</h2>
+			<h2 class="sr-only"><?php if ($lang == "en") { echo "Sponsors"; } else { echo "Commanditaires"; } ?></h2>
 			<ul class="list-inline">
 				<li class="col-xs-4">
-					Presented by:<br /><a href="http://www.td.com/"><img class="img-responsive mrgn-tp-sm" src="img/sponsor-td.gif" alt="TD"></a>
+					<?php if ($lang == "en") { echo "Presented by"; } else { echo "Présenté par"; } ?>: <br /><a href="http://www.td.com/"><img class="img-responsive mrgn-tp-sm" src="img/sponsor-td.gif" alt="TD"></a>
 				</li>
 				<li class="col-xs-4 col-xs-push-2">
-					Framing Sponsor: <br /><a href="http://www.encadrex.com/"><img class="img-responsive mrgn-tp-sm" src="img/sponsor-encadrex.png" alt="encadrex"></a>
+					<?php if ($lang == "en") { echo "Framing Sponsor"; } else { echo "Commanditaire Encadrement"; } ?>: <br /><a href="http://www.encadrex.com/"><img class="img-responsive mrgn-tp-sm" src="img/sponsor-encadrex.png" alt="encadrex"></a>
 				</li>
 			</ul>
 		</section>

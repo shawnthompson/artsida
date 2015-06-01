@@ -39,36 +39,42 @@
 				</div>
 				<div class="col-xs-8">
 					<h1 class="mrgn-tp-md"><a href="index.php"><span class="sr-only">Artsida 6</span><img src="img/artsida6.jpg" class="center-block img-responsive" alt="" /></a></h1>
-					<h2>Raise your hand for ACCM</h2>
-					<p class="text-center date">Wednesday September 30<sup>th</sup> 2015</p>
-					<p><a href="http://accmontreal.org/"><img src="img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="mrgn-tp-sm center-block img-responsive" /></a></p>
+					<h2><?php if ($lang == "en") { echo "Raise your hand for ACCM"; } else { echo "Levez la main pour ACCM"; }?></h2>
+					<p class="text-center date"><?php if ($lang == "en") { echo "Wednesday September 30<sup>th</sup> 2015"; } else { echo "Mercredi le 30 septembre 2015 "; } ?></p>
+					<div class="col-xs-8 col-xs-push-2 mrgn-tp-sm">
+						<?php if ($lang == "en") {?>
+						<p><a href="http://accmontreal.org/"><img src="img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="img-responsive" /></a></p>
+						<?php } else { ?>
+						<p><a href="http://accmontreal.org/fr/"><img src="img/accm-fr.jpg" alt="ACCM: Sida Bénévoles Montréal" class="img-responsive" /></a></p>
+						<?php } ?>
+					</div>
 				</div>
 				<div class="col-xs-2">
-					<p><span class="small">Presented&nbsp;by:</span><br />
+					<p><span class="small"><?php if ($lang == "en") { echo "Presented&nbsp;by:"; } else { echo "Présenté&nbsp;par:"; } ?></span><br />
 					<p><a href="http://www.td.com/"><img class="img-responsive" src="img/sponsor-td.gif" alt="TD logo" /></a></p>
 				</div>
 			</div>
 		</div>
 		<div class="col-sm-4 yellow info">
 			<div class="row">
-				<div class="col-xs-10 text-left"><p class="small"><a href="mailto:artsida@accmontreal.org">Subscribe to the Artsida newsletter</a></p></div>
+				<div class="col-xs-10 text-left"><p class="small"><a href="mailto:artsida@accmontreal.org"><?php if ($lang == "en") { echo "Subscribe to the Artsida newsletter"; } else { echo "Abonnez-vous au bulletin électronique d'Artsida"; } ?></a></p></div>
 				<section class="col-xs-2">
-					<h2 class="sr-only">Language selection</h2>
+					<h2 class="sr-only"><?php if ($lang == "en") { echo "Language selection"; } else { echo "Sélection de langue"; } ?></h2>
 					<ul class="list-unstyled">
-<?php
-	if ($lang == 'en') {
-		echo '<li class="text-right"><a lang="fr" href="' . $otherPage . '.php" class="lang">Fr<span class="sr-only">ançais</span></a></li>';
-	} else {
-		echo '<li class="text-right"><a lang="en" href="' . $otherPage . '.php" class="lang">En<span class="sr-only">glish</span></a></li>';
-	}
-?>
+						<?php
+							if ($lang == 'en') {
+								echo '<li class="text-right"><a lang="fr" href="' . $otherPage . '.php" class="lang">Fr<span class="sr-only">ançais</span></a></li>';
+							} else {
+								echo '<li class="text-right"><a lang="en" href="' . $otherPage . '.php" class="lang">En<span class="sr-only">glish</span></a></li>';
+							}
+						?>
 					</ul>
 				</section>
 			</div>
 				<p><a href="http://entrepotsdominion.ca/"><span class="sr-only">Entrepôts Dominion</span><img src="img/venue-dominion.png" alt=""></a></p>
 				<p>3968 St-Ambroise<br />
-				5:00pm - 10:30pm</p>
-				<p class="text-center time-left"><strong><?php echo $days; ?></strong> days, <span class="text-nowrap"><strong><?php echo $hours;?></strong> hours until <strong class="large">Artsida 6</strong></span></p>
+				<?php if ( $lang == "en") { echo "5:00pm - 10:30pm"; } else {echo "17:00 - 22:30";} ?></p>
+				<p class="text-center time-left"><strong><?php echo $days; ?></strong> <?php if ($lang == "en") { echo "days"; } else { echo "jours"; } ?>, <span class="text-nowrap"><strong><?php echo $hours;?></strong> <?php if ( $lang == "en" ) { echo "hours until"; } else { echo "heures avant"; } ?> <strong class="large">Artsida 6</strong></span></p>
 		</div>
 		<div class="col-sm-8 cell">
 			<div class="row">
@@ -130,9 +136,7 @@
 	</header>
 	<div class="clearfix"></div>
 	<main class="relative">
-
 	<?php if ($pageClass != 'home') {?>
-
 		<div class="cell">
 			<div class="col-sm-2 hidden-xs pink"></div>
 			<div class="col-sm-3 hidden-xs cyan"></div>
@@ -141,6 +145,5 @@
 		<div class="col-sm-12 text">
 			<div class="col-sm-4 hidden-xs"><img src="img/<?php echo $mainImage; ?>" class="img-responsive" alt=""></div>
 			<div class="col-sm-6">
-
-<?php } ?>
+	<?php } ?>
 

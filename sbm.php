@@ -1,6 +1,6 @@
 <?php
 	$lang = "fr";
-	$otherPage = "sbm";
+	$otherPage = "accm";
 	$title = "ACCM – SIDA Bénévoles Montréal";
 	$pageClass = "content";
 	$mainImage = "about-accm.jpg";

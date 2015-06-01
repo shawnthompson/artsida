@@ -81,6 +81,7 @@ header .time-left {
 	padding-top: 10px;
 	font-size: 90%;
 	margin-bottom: 0;
+	padding-bottom: 5px;
 }
 
 header .time-left strong {
@@ -553,6 +554,10 @@ footer .fa-4x {
 @media screen and (min-width: 1200px) {
 	footer .fa-4x {
 		 font-size: 4em;
+	}
+
+	header .info .time-left {
+		padding-bottom: 15px;
 	}
 
 	header nav li a, html[lang="fr"] header nav li a {
