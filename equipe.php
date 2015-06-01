@@ -6,32 +6,31 @@
 	$mainImage = "about-accm.jpg";
 ?>
 <?php include('header.php'); ?>
-
-<h2><abbr title="AIDS Community Care Montreal">ACCM</abbr> Board of Directors:</h2>
+<h2>Conseil d'administration d'<abbr lang="en" title="AIDS Community Care Montreal">ACCM</abbr>:</h2>
 <ul>
-<li>Mathieu Foran, Vice-President</li>
-<li>Terry Kyle, President</li>
-<li>Joshua Levin, Secretary</li>
-<li>Benjamin Prud’homme, Treasurer</li>
-<li>Silvana Orrino, Administrator</li>
-<li>Sylvain Beaudry - Administrator - Staff representative</li>
+<li>Mathieu Foran, Vice-Président</li>
+<li>Terry Kyle, Présidente</li>
+<li>Joshua Levin, Secrétaire</li>
+<li>Benjamin Prud’homme, Trésorier</li>
+<li>Silvana Orrino, Administratrice</li>
+<li>Sylvain Beaudry - Administrateur - Représentant des employés</li>
 </ul>
-<h2><abbr title="AIDS Community Care Montreal">ACCM</abbr> Artsida Staff:</h2>
+<h2>Employés d'<abbr lang="en" title="AIDS Community Care Montreal">ACCM</abbr> coordonnant Artsida:</h2>
 <ul>
-<li>Jordan Coulombe, Communications Coordinator</li>
-<li>Andrea Kornacki, Volunteer Engagement Facilitator</li>
-<li>Chris Lau, Executive Director</li>
+<li>Jordan Coulombe, Coordonnateur des communications</li>
+<li>Andrea Kornacki, Coordonnatrice des bénévoles</li>
+<li>Chris Lau, Directeur général</li>
 </ul>
-<h2>Other <abbr title="AIDS Community Care Montreal">ACCM</abbr> Staff:</h2>
+<h2>Autres employés d'<abbr lang="en" title="AIDS Community Care Montreal">ACCM</abbr>:</h2>
 <ul>
-<li>Sylvain Beaudry, Treatment Information Facilitator</li>
-<li>Zachary Grant, Group Facilitator</li>
-<li>Daniel Lanouette, Case Worker</li>
-<li>Daniel-Jonathan Laroche, Network Outreach Worker</li>
-<li>Andreas Mertens, SextEd Assistant</li>
-<li>Kamilla Petrosyan, Program Manager</li>
-<li>Cassandre Poblah, Administrative Coordinator</li>
-<li>Kimberly Wong, <abbr title="Human Immunodeficiency Virus">HIV</abbr> Educator</li>
+<li>Sylvain Beaudry, Facilitateur de l’information sur le traitement </li>
+<li>Zachary Grant, Soutien aux groupes</li>
+<li>Daniel Lanouette, Intervenant social</li>
+<li>Daniel-Jonathan Laroche, Intervenant de proximité </li>
+<li>Andreas Mertens, Responsable du program «SextEd»</li>
+<li>Kamilla Petrosyan, Gestionnaire de programme</li>
+<li>Cassandre Poblah, Coordonnatrice administrative</li>
+<li>Kimberly Wong, Éducatrice VIH </li>
 </ul>
 <section class="col-xs-8">
 <h2>Planification de l’événement:</h2>
