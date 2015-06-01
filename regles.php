@@ -7,27 +7,22 @@
 ?>
 <?php include('header.php'); ?>
 
-<h2>Conditions Of Sale </h2>
-<h3>Live Auction</h3>
-<p>In order to make bids, all bidders must fill in a Paddle Registration Form at the Registration Desk before the start of the live auction. Keep in mind that all artworks are subject to a reserve bid, a confidential amount that must be met for the lot to be sold. If your bid is successful, you must go to the Payment Desk before the end of the evening to pay by cash, Interac or by credit card. Title to the offered lot will then pass to you, and you will thereupon assume full risk and responsibility for the work purchased by you. If you are unable to pay at the conclusion of the auction, <abbr title="AIDS Community Care Montreal">ACCM</abbr> reserves the right to offer the art to the previous bidder if they are able to pay for it.</p>
-<p>In the event of any dispute between bidders, a missed bid or doubt as to the validity of any bid, the auctioneer will have, at his discretion, the final authority either to determine the successful bidder or to re-offer and resell the work in dispute.</p>
-<p>If any dispute arises after the auction, the Artisda record of the auction proceedings shall be conclusive.</p>
-<h3>General Rules For Live Auction</h3>
-<p>All sales are final. No purchase can be returned, refunded or exchanged. All property is sold as is, as exhibited. If the final purchase price is equal to or greater than 120% of the estimated value, the purchaser will be issued a charitable tax receipt for the difference between the estimate and the selling price.</p>
-<p>Successful bidders should be prepared to pay for their purchases with cash, Master Card, Visa, or Interac on the evening of the auction. No <abbr title="Goods and Services Tax">GST</abbr>, <abbr title="Québec sales tax">QST</abbr> or auction commission is applicable.</p>
-<p>Artsida reserves the right to withdraw any work of art at any time before the actual sale.</p>
-<p><abbr title="AIDS Community Care Montreal">ACCM</abbr> makes no warranties or representation of any kind or nature with respect to any work of art including, but not limited to, any representation or warranty of description, genuineness, attribution, provenance, or physical condition, nor as to the right of reproduction, if any. Bidders and purchasers may not rely upon any statement, oral or otherwise, other than that set forth in these conditions of sale.</p>
-<h3>Pick Up</h3>
-<p>All works must be paid for at the conclusion of the auction evening. Purchasers must pick up works at the conclusion of the auction evening upon proof of payment. Transportation may be arranged, at the purchaser’s expense. <abbr title="AIDS Community Care Montreal">ACCM</abbr> is not responsible for acts or omissions of carriers or packers of purchased lots, whether or not recommended by <abbr title="AIDS Community Care Montreal">ACCM</abbr>. Packing and handling of purchased lots are at the entire risk of the purchaser.</p>
-<h3>Absentee Bidding</h3>
-<p>If you live outside of Montreal or are unable to attend the event, absentee bids can be placed by filling out the <a href="#">Absentee Registration Form</a>. All Absentee Registration Forms must be  e-mailed to <a href="mailto:artsida@accmontreal.org">artsida@accmontreal.org</a> before 11:59PM on Sunday September 27<sup>th</sup>, 2015. All bids will be accepted and executed, subject to the terms and conditions of sale.</p>
-<p>In the event of identical bids, the earliest received bid will take precedence.</p>
-<p>Successful bidders will be notified, and purchase will be charged to your MasterCard or Visa as indicated on your completed <a href="#">form</a>.</p>
-
-
-
-
-
-
+<h2>Conditions de vente</h2>
+<h3>Vente aux enchères en direct</h3>
+<p>Pour miser, tous les enchérisseurs doivent remplir le formulaire d’inscription pour un Paddle à la Table d’Inscription avant le début de la vente aux enchères. Gardez en tête que tous les œuvres sont assujettis à un prix de réserve, un prix confidentiel sous lequel le lot ne sera pas vendu. Si votre mise gagne, vous devez vous présenter à la Table des Paiements pour payer avec une carte de crédit ou en comptant avant la fin de la soirée. Le titre de propriété du lot offert vous sera ainsi transmis, et vous acceptez dès lors tous les risques et l’entière responsabilité de l’œuvre que vous avez achetée. Si vous êtes incapable de payer à la fin de la vente aux enchères, <abbr lang="en" title="AIDS Community Care Montreal">ACCM</abbr> se réserve le droit d'offrir l'art à l’enchérisseur précédent si cette personne est en mesure de payer.</p>
+<p>En cas de différend entre deux enchérisseurs, de mise perdue ou de doute quant à la validité de toute mise, l’encanteur aura, à sa discrétion, l'autorité finale de déterminer l’enchérisseur gagnant ou d’offrir à nouveau et de revendre l’œuvre faisant l’objet du différend.</p>
+<p>En cas de différend survenant après la vente aux enchères, les registres d’ARTSIDA5 quant au déroulement de la vente aux enchères seront déterminants.</p>
+<h3>Regles generales pour la vente aux enchères</h3>
+<p>Toutes les ventes sont finales. Aucun achat ne pourra être retourné, remboursé ni échangé. Tous les biens sont vendus en l’état, tels qu’exposés. Si le prix final d'achat est égal ou supérieur à 120% de la valeur estimée, un reçu d'impôt pour activités de bienfaisance sera remis à l'acheteur pour la différence entre la différence entre la valeur estimée et le prix de vente.</p>
+<p>Les enchérisseurs gagnants doivent être prêts à payer leurs achats, le soir de l’enchère, en argent comptant, MasterCard, Visa, ou Interac.</p>
+<p>Les soumissionnaires retenus pour en ou la vente aux. Pas de La TPS, la TVQ ni aucune commission ne seront appliquées.</p>
+<p>Artsida se réserve le droit de retirer toute œuvre d'art à tout moment d’ici la réalisation de la vente.</p>
+<p><abbr lang="en" title="AIDS Community Care Montreal">ACCM</abbr> n’offre aucune garantie ni représentation de quelque sorte que ce soit en ce qui concerne toute œuvre d'art y compris, sans s'y limiter, toute représentation ou garantie ayant trait à  la description, au caractère authentique, à  l’attribution, à   la provenance, à la condition physique ni au droit de reproduction, le cas échéant. Les enchérisseurs et l’acheteur ne peuvent se fier à aucun énoncé, oral ou autre, de Sida Bénévoles Montréal, à l’exception de ce qui est énoncé dans les présentes conditions de vente.</p>
+<h3>Prise de possession</h3>
+<p>Toutes les œuvres doivent être payées à la fin de la soirée de la vente. Les acheteurs doivent prendre possession des œuvres à la fin de la soirée de la vente sur présentation d’une preuve de paiement. Du transport peut être organisé, au frais de l’acheteur. <abbr lang="en" title="AIDS Community Care Montreal">ACCM</abbr> n’est pas responsable des actes ou des omissions des transporteurs ou emballeurs des lots achetés, qu’il les ait ou non recommandé. L’emballage et la manutention des lots achetés se font aux risques de l'acheteur.</p>
+<h3>Ordres d’achat</h3>
+<p>Des ordres d’achat peuvent être faits par ordre d'achat enregistré, disponible sur <a href="accueil.php">www.artsida.org</a>. Tous les ordres d'achat doivent être reçus avant 23h59, dimanche le 27 septembre 2015. Tous les ordres d’achat seront acceptés et mis en œuvre sous réserve des conditions de vente imprimées dans le catalogue de cette vente aux enchères et offerte en ligne à <a href="accueil.php">www.artsida.org</a>.</p>
+<p>En cas de mises identiques, l’ordre d’achat reçu en premier aura préséance.</p>
+<p>Les enchérisseurs gagnants seront avisés et l’achat sera porté à leur carte Mastercard ou Visa comme indiqué sur le <a href="#">formulaire</a> rempli.</p>
 
 <?php include('footer.php'); ?>
