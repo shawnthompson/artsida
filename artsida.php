@@ -12,7 +12,7 @@
 <p>Artsida returns for its much-anticipated sixth edition on Wednesday September 30th, 2015. Artsida has become an important event on the social calendar for art admirers and philanthropists who wish to make a difference in the community. This year’s remodeled event, held at the stunningly restored Entrepôts Dominion, will take new directions that will solidify Artsida’s position as an essential pillar of Montreal’s cultural circuit. Outstanding works from leading and emerging artists will not only inspire you to connect with captivating art but also to our compelling cause.</p>
 <p>Exciting raffle prizes will also be available, such as two WestJet round trip tickets to anywhere in North America! Stay tuned for announcements about other prizes.</p>
 <p>Come join us and Raise your Hand for <abbr title="AIDS Community Care Montreal">ACCM</abbr>!</p>
-<p><strong class="mrgn-rght-md">Where:</strong> <a href="http://entrepotsdominion.ca/">Entrepôts Dominion</a>, 3968 St-Ambroise<br />
+<p><strong class="mrgn-rght-md">Where:</strong> <a target="_blank" href="http://entrepotsdominion.ca/">Entrepôts Dominion</a>, 3968 St-Ambroise<br />
 <strong class="mrgn-rght-md">When:</strong> Wednesday, September 30<sup>th</sup> 2015<br />
 <strong class="mrgn-rght-md">Time:</strong> 5pm-10:30pm</p>
 <h2><span class="mrgn-rght-md">5-6pm:</span> VIP Cocktail</h2>

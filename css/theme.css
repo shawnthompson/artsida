@@ -408,7 +408,7 @@ footer .fa-4x {
 	}
 
 	header .cell {
-		min-height: 3.7em;
+		min-height: 3.73em;
 	}
 
 	/* French cell in nav */
@@ -416,6 +416,9 @@ footer .fa-4x {
 		min-height: 3.05em;
 	}
 
+	header .menu {
+		background-color: #cc2038;
+	}
 /* Navigation */
 	header nav {
 		display: table;
@@ -442,7 +445,6 @@ footer .fa-4x {
 	}
 
 	/* French nav */
-
 	html[lang="fr"] header nav li a {
 		font-size: 120%;
 	}

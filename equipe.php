@@ -40,7 +40,7 @@
 </ul>
 </section>
 <div class="col-xs-4 mrgn-tp-lg">
-<p><a href="http://cavarose.com/"><img src="img/team-cava-rose.png" class="img-responsive" alt="Cava Rose - Sparkling Ideas"></a></p>
+<p><a target="_blank" href="http://cavarose.com/"><img src="img/team-cava-rose.png" class="img-responsive" alt="Cava Rose - Sparkling Ideas"></a></p>
 </div>
 <div class="clearfix"></div>
 <h2>Comité de sélection:</h2>

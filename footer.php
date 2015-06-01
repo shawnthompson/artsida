@@ -11,16 +11,16 @@
 				<h2 class="sr-only">Social Media</h2>
 				<ul class="list-inline">
 					<li>
-						<a href="https://www.facebook.com/accm.artsida"><i class="fa fa-facebook-square fa-4x"></i><span class="sr-only">Facebook</span></a>
+						<a target="_blank" href="https://www.facebook.com/accm.artsida"><i class="fa fa-facebook-square fa-4x"></i><span class="sr-only">Facebook</span></a>
 					</li>
 					<li>
-						<a href="https://twitter.com/ARTSIDA6"><i class="fa fa-twitter-square fa-4x"></i><span class="sr-only">Twitter</span></a>
+						<a target="_blank" href="https://twitter.com/ARTSIDA6"><i class="fa fa-twitter-square fa-4x"></i><span class="sr-only">Twitter</span></a>
 					</li>
 					<li>
-						<a href="http://instagram.com/artsida"><i class="fa fa-instagram fa-4x"></i><span class="sr-only">Instagram</span></a>
+						<a target="_blank" href="http://instagram.com/artsida"><i class="fa fa-instagram fa-4x"></i><span class="sr-only">Instagram</span></a>
 					</li>
 					<li>
-						<a href="http://artsida.tumblr.com/"><i class="fa fa-tumblr-square fa-4x"></i><span class="sr-only">Tumblr</span></a>
+						<a target="_blank" href="http://artsida.tumblr.com/"><i class="fa fa-tumblr-square fa-4x"></i><span class="sr-only">Tumblr</span></a>
 					</li>
 				</ul>
 			</section>
@@ -54,10 +54,10 @@
 			<h2 class="sr-only"><?php if ($lang == "en") { echo "Sponsors"; } else { echo "Commanditaires"; } ?></h2>
 			<ul class="list-inline">
 				<li class="col-xs-4">
-					<?php if ($lang == "en") { echo "Presented by"; } else { echo "Présenté par"; } ?>: <br /><a href="http://www.td.com/"><img class="img-responsive mrgn-tp-sm" src="img/sponsor-td.gif" alt="TD"></a>
+					<?php if ($lang == "en") { echo "Presented by"; } else { echo "Présenté par"; } ?>: <br /><a target="_blank" href="http://www.td.com/"><img class="img-responsive mrgn-tp-sm" src="img/sponsor-td.gif" alt="TD"></a>
 				</li>
 				<li class="col-xs-4 col-xs-push-2">
-					<?php if ($lang == "en") { echo "Framing Sponsor"; } else { echo "Commanditaire Encadrement"; } ?>: <br /><a href="http://www.encadrex.com/"><img class="img-responsive mrgn-tp-sm" src="img/sponsor-encadrex.png" alt="encadrex"></a>
+					<?php if ($lang == "en") { echo "Framing Sponsor"; } else { echo "Commanditaire Encadrement"; } ?>: <br /><a target="_blank" href="http://www.encadrex.com/"><img class="img-responsive mrgn-tp-sm" src="img/sponsor-encadrex.png" alt="encadrex"></a>
 				</li>
 			</ul>
 		</section>

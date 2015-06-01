@@ -1,4 +1,7 @@
 Options -Indexes
 
 ###### Redirects ######
-Redirect 301 /submission http://www.artsida.org/en/submissions.php
+Redirect 301 /submission http://www.artsida.org/submissions.php
+Redirect 301 /submissions http://www.artsida.org/submissions.php
+Redirect 301 /soumissions http://www.artsida.org/soumissions.php
+Redirect 301 /soumission http://www.artsida.org/soumissions.php

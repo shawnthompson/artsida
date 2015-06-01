@@ -3,7 +3,7 @@
 	$otherPage = "copresidents";
 	$title = "Honorary Co-Chairs";
 	$pageClass = "content";
-	$mainImage = "about-accm.jpg";
+	$mainImage = "about-honorary.jpg";
 ?>
 <?php include('header.php'); ?>
 

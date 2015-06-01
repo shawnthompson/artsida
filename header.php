@@ -39,19 +39,19 @@
 				</div>
 				<div class="col-xs-8">
 					<h1 class="mrgn-tp-md"><a href="index.php"><span class="sr-only">Artsida 6</span><img src="img/artsida6.jpg" class="center-block img-responsive" alt="" /></a></h1>
-					<h2><?php if ($lang == "en") { echo "Raise your hand for ACCM"; } else { echo "Levez la main pour ACCM"; }?></h2>
+					<h2><?php if ($lang == "en") { echo "Raise your hand for ACCM"; } else { echo "Levez votre main pour ACCM"; }?></h2>
 					<p class="text-center date"><?php if ($lang == "en") { echo "Wednesday September 30<sup>th</sup> 2015"; } else { echo "Mercredi le 30 septembre 2015 "; } ?></p>
 					<div class="col-xs-8 col-xs-push-2 mrgn-tp-sm">
 						<?php if ($lang == "en") {?>
-						<p><a href="http://accmontreal.org/"><img src="img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="img-responsive" /></a></p>
+						<p><a target="_blank" href="http://accmontreal.org/"><img src="img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="img-responsive" /></a></p>
 						<?php } else { ?>
-						<p><a href="http://accmontreal.org/fr/"><img src="img/accm-fr.jpg" alt="ACCM: Sida Bénévoles Montréal" class="img-responsive" /></a></p>
+						<p><a target="_blank" href="http://accmontreal.org/fr/"><img src="img/accm-fr.jpg" alt="ACCM: Sida Bénévoles Montréal" class="img-responsive" /></a></p>
 						<?php } ?>
 					</div>
 				</div>
 				<div class="col-xs-2">
 					<p><span class="small"><?php if ($lang == "en") { echo "Presented&nbsp;by:"; } else { echo "Présenté&nbsp;par:"; } ?></span><br />
-					<p><a href="http://www.td.com/"><img class="img-responsive" src="img/sponsor-td.gif" alt="TD logo" /></a></p>
+					<p><a target="_blank" href="http://www.td.com/"><img class="img-responsive" src="img/sponsor-td.gif" alt="TD logo" /></a></p>
 				</div>
 			</div>
 		</div>
@@ -71,68 +71,72 @@
 					</ul>
 				</section>
 			</div>
-				<p><a href="http://entrepotsdominion.ca/"><span class="sr-only">Entrepôts Dominion</span><img src="img/venue-dominion.png" alt=""></a></p>
+				<p><a target="_blank" href="http://entrepotsdominion.ca/"><span class="sr-only">Entrepôts Dominion</span><img src="img/venue-dominion.png" alt=""></a></p>
 				<p>3968 St-Ambroise<br />
 				<?php if ( $lang == "en") { echo "5:00pm - 10:30pm"; } else {echo "17h00 - 22h30";} ?></p>
 				<p class="text-center time-left"><strong><?php echo $days; ?></strong> <?php if ($lang == "en") { echo "days"; } else { echo "jours"; } ?>, <span class="text-nowrap"><strong><?php echo $hours;?></strong> <?php if ( $lang == "en" ) { echo "hours until"; } else { echo "heures avant"; } ?> <strong class="large">Artsida 6</strong></span></p>
 		</div>
-		<div class="col-sm-8 cell">
+		<div class="col-sm-12 menu">
 			<div class="row">
-			<?php if ($lang == 'en') { ?>
-				<nav>
-					<ul>
-						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
-							<ul class="dropdown-menu" role="menu">
-								<li><a href="artsida.php">Artsida 6 Auction</a></li>
-								<li><a href="vernissage.php">Artsida 6 Vernissage</a></li>
-								<li><a href="honorary.php">Honorary Co-Chairs</a></li>
-								<li><a href="venues.php">Event Venues</a></li>
-								<li><a href="team.php">Artsida 6 Team</a></li>
-								<li><a href="history.php">Artsida History</a></li>
-								<li><a href="accm.php">ACCM</a></li>
+				<div class="col-sm-8 cell">
+					<div class="row">
+					<?php if ($lang == 'en') { ?>
+						<nav>
+							<ul>
+								<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
+									<ul class="dropdown-menu" role="menu">
+										<li><a href="artsida.php">Artsida 6 Auction</a></li>
+										<li><a href="vernissage.php">Artsida 6 Vernissage</a></li>
+										<li><a href="honorary.php">Honorary Co-Chairs</a></li>
+										<li><a href="venues.php">Event Venues</a></li>
+										<li><a href="team.php">Artsida 6 Team</a></li>
+										<li><a href="history.php">Artsida History</a></li>
+										<li><a href="accm.php">ACCM</a></li>
+									</ul>
+								</li>
+								<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Artwork <span class="caret"></span></a>
+									<ul class="dropdown-menu" role="menu">
+										<li><a href="catalog.php">Catalog</a></li>
+										<li><a href="rules.php">Auction Rules</a></li>
+										<li><a href="submissions.php">Submissions</a></li>
+									</ul>
+								</li>
+								<li><a href="tickets.php">Tickets</a></li>
+								<li><a href="sponsors.php">Sponsors</a></li>
 							</ul>
-						</li>
-						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Artwork <span class="caret"></span></a>
-							<ul class="dropdown-menu" role="menu">
-								<li><a href="catalog.php">Catalog</a></li>
-								<li><a href="rules.php">Auction Rules</a></li>
-								<li><a href="submissions.php">Submissions</a></li>
+						</nav>
+					<?php } elseif ($lang == 'fr') { ?>
+						<nav>
+							<ul>
+								<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">À propos <span class="caret"></span></a>
+									<ul class="dropdown-menu" role="menu">
+										<li><a href="encan.php">Encan Artsida 6</a></li>
+										<li><a href="vente.php">Vernissage et vente d’œuvres Artsida 6</a></li>
+										<li><a href="copresidents.php">Coprésidents honoraires</a></li>
+										<li><a href="lieux.php">Lieux des activités</a></li>
+										<li><a href="equipe.php">Équipe d’Artsida 6</a></li>
+										<li><a href="historique.php">Historique d’Artsida</a></li>
+										<li><a href="sbm.php">ACCM – SIDA Bénévoles Montréal</a></li>
+									</ul>
+								</li>
+								<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Œuvres <span class="caret"></span></a>
+									<ul class="dropdown-menu" role="menu">
+										<li><a href="catalogue.php">Catalogue</a></li>
+										<li><a href="regles.php">Règles de l’encan</a></li>
+										<li><a href="soumissions.php">Soumissions</a></li>
+									</ul>
+								</li>
+								<li><a href="billets.php">Billets</a></li>
+								<li><a href="commanditaires.php">Commanditaires</a></li>
 							</ul>
-						</li>
-						<li><a href="tickets.php">Tickets</a></li>
-						<li><a href="sponsors.php">Sponsors</a></li>
-					</ul>
-				</nav>
-			<?php } elseif ($lang == 'fr') { ?>
-				<nav>
-					<ul>
-						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">À propos <span class="caret"></span></a>
-							<ul class="dropdown-menu" role="menu">
-								<li><a href="encan.php">Encan Artsida 6</a></li>
-								<li><a href="vente.php">Vernissage et vente d’œuvres Artsida 6</a></li>
-								<li><a href="copresidents.php">Coprésidents honoraires</a></li>
-								<li><a href="lieux.php">Lieux des activités</a></li>
-								<li><a href="equipe.php">Équipe d’Artsida 6</a></li>
-								<li><a href="historique.php">Historique d’Artsida</a></li>
-								<li><a href="sbm.php">ACCM – SIDA Bénévoles Montréal</a></li>
-							</ul>
-						</li>
-						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Œuvres <span class="caret"></span></a>
-							<ul class="dropdown-menu" role="menu">
-								<li><a href="catalogue.php">Catalogue</a></li>
-								<li><a href="regles.php">Règles de l’encan</a></li>
-								<li><a href="soumissions.php">Soumissions</a></li>
-							</ul>
-						</li>
-						<li><a href="billets.php">Billets</a></li>
-						<li><a href="commanditaires.php">Commanditaires</a></li>
-					</ul>
-				</nav>
-				<?php } ?>
+						</nav>
+						<?php } ?>
+					</div>
+				</div>
+				<div class="col-sm-3 red hidden-xs cell"></div>
+				<div class="col-sm-1 pink hidden-xs cell"></div>
 			</div>
 		</div>
-		<div class="col-sm-3 red hidden-xs cell"></div>
-		<div class="col-sm-1 pink hidden-xs cell"></div>
 	</header>
 	<div class="clearfix"></div>
 	<main class="relative">
