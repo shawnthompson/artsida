@@ -1,6 +1,6 @@
 <?php
 	$lang = "en";
-	$otherPage = "";
+	$otherPage = "vente";
 	$title = "Artsida 6 Vernissage & Art Sale";
 	$pageClass = "content";
 	$mainImage = "about-vernissage.jpg";

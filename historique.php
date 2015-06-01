@@ -1,7 +1,7 @@
 <?php
 	$lang = "fr";
-	$otherPage = "historique";
-	$title = "Artisda History";
+	$otherPage = "history";
+	$title = "Historique d’Artsida";
 	$pageClass = "content";
 	$mainImage = "about-history.jpg";
 ?>

@@ -1,7 +1,7 @@
 <?php
 	$lang = "fr";
-	$otherPage = "";
-	$title = "Honorary Co-Chairs";
+	$otherPage = "honorary";
+	$title = "Coprésidents honoraires";
 	$pageClass = "content";
 	$mainImage = "about-accm.jpg";
 ?>

@@ -1,12 +1,11 @@
 <?php
 	$lang = "fr";
-	$otherPage = "";
-	$title = "Artsida 6 Auction";
+	$otherPage = "artsida.php";
+	$title = "Encan Artsida 6";
 	$pageClass = "content";
 	$mainImage = "about-artsida.jpg";
 ?>
 <?php include('header.php'); ?>
-
 
 <p>The 6<sup>th</sup> Artsida event is a fundraiser for <a href="accm.php"><abbr title="Acquired Immune Deficiency Syndrome">AIDS</abbr> Community Care Montreal</a>, a volunteer-based community organization working to enhance the quality of life of people living with <abbr title="Human Immunodeficiency Virus">HIV</abbr>/<abbr title="Acquired Immune Deficiency Syndrome">AIDS</abbr>, to prevent <abbr title="Human Immunodeficiency Virus">HIV</abbr> transmission, and to promote community awareness and action. For more background about <abbr title="AIDS Community Care Montreal">ACCM</abbr>’s signature art auction, check out <a href="history.php">Artsida History</a>.</p>
 <p>Artsida returns for its much-anticipated sixth edition on Wednesday September 30th, 2015. Artsida has become an important event on the social calendar for art admirers and philanthropists who wish to make a difference in the community. This year’s remodeled event, held at the stunningly restored Entrepôts Dominion, will take new directions that will solidify Artsida’s position as an essential pillar of Montreal’s cultural circuit. Outstanding works from leading and emerging artists will not only inspire you to connect with captivating art but also to our compelling cause.</p>

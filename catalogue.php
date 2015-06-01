@@ -1,7 +1,7 @@
 <?php
 	$lang = "fr";
-	$otherPage = "";
-	$title = "Catalog";
+	$otherPage = "catalog";
+	$title = "Catalogue";
 	$pageClass = "content";
 	$mainImage = "art-catalog.jpg";
 ?>

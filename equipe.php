@@ -1,7 +1,7 @@
 <?php
 	$lang = "fr";
-	$otherPage = "";
-	$title = "Artsida 6 Team";
+	$otherPage = "team";
+	$title = "Équipe d’Artsida 6";
 	$pageClass = "content";
 	$mainImage = "about-accm.jpg";
 ?>

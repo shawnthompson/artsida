@@ -1,6 +1,6 @@
 <?php
 	$lang = "en";
-	$otherPage = "";
+	$otherPage = "benevolat";
 	$title = "Volunteer";
 	$pageClass = "content";
 	$mainImage = "volunteer.jpg";

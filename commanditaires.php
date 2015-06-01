@@ -1,7 +1,7 @@
 <?php
 	$lang = "fr";
-	$otherPage = "";
-	$title = "Sponsors";
+	$otherPage = "sponsors";
+	$title = "Commanditaires";
 	$pageClass = "sponsors";
 	$mainImage = "sponsor-pic.jpg";
 ?>

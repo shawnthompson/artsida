@@ -1,7 +1,7 @@
 <?php
 	$lang = "fr";
-	$otherPage = "";
-	$title = "Event Venues";
+	$otherPage = "venues";
+	$title = "Lieux des activités";
 	$pageClass = "content";
 	$mainImage = "about-venues.jpg";
 ?>

@@ -1,6 +1,6 @@
 <?php
 	$lang = "en";
-	$otherPage = "";
+	$otherPage = "media-fr";
 	$title = "Media";
 	$pageClass = "content";
 	$mainImage = "media.jpg";

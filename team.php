@@ -1,6 +1,6 @@
 <?php
 	$lang = "en";
-	$otherPage = "";
+	$otherPage = "equipe";
 	$title = "Artsida 6 Team";
 	$pageClass = "content";
 	$mainImage = "about-accm.jpg";

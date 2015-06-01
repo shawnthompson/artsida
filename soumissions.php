@@ -1,7 +1,7 @@
 <?php
 	$lang = "fr";
-	$otherPage = "";
-	$title = "Submissions";
+	$otherPage = "submissions";
+	$title = "Soumissions";
 	$pageClass = "content";
 	$mainImage = "art-submissions.jpg";
 ?>

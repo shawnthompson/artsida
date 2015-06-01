@@ -1,7 +1,7 @@
 <?php
 	$lang = "fr";
-	$otherPage = "";
-	$title = "Auction Rules";
+	$otherPage = "rules";
+	$title = "Règles de l’encan";
 	$pageClass = "content";
 	$mainImage = "art-rules.jpg";
 ?>

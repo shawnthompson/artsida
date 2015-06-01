@@ -1,6 +1,6 @@
 <?php
 	$lang = "en";
-	$otherPage = "";
+	$otherPage = "joindre";
 	$title = "Contact";
 	$pageClass = "content";
 	$mainImage = "contact.jpg";

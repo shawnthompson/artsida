@@ -1,6 +1,6 @@
 <?php
 	$lang = "en";
-	$otherPage = "";
+	$otherPage = "copresidents";
 	$title = "Honorary Co-Chairs";
 	$pageClass = "content";
 	$mainImage = "about-accm.jpg";

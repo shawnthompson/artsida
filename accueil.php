@@ -1,7 +1,7 @@
 <?php
 	$lang = "fr";
 	$otherPage = "index";
-	$title = "ArtSida 6, September 30, 2015";
+	$title = "ArtSida 6, le 30 Septembre, 2015";
 	$pageClass = "home";
 ?>
 <?php include('header.php'); ?>

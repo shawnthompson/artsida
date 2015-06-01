@@ -1,7 +1,7 @@
 <?php
 	$lang = "fr";
 	$otherPage = "sbm";
-	$title = "AIDS Community Care Montreal (ACCM)";
+	$title = "ACCM – SIDA Bénévoles Montréal";
 	$pageClass = "content";
 	$mainImage = "about-accm.jpg";
 ?>

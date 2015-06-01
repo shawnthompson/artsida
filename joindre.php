@@ -1,7 +1,7 @@
 <?php
 	$lang = "fr";
-	$otherPage = "";
-	$title = "Contact";
+	$otherPage = "contact";
+	$title = "Nous joindre";
 	$pageClass = "content";
 	$mainImage = "contact.jpg";
 ?>
