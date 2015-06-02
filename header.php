@@ -40,7 +40,7 @@
 				<div class="col-xs-8">
 					<h1 class="mrgn-tp-md"><a href="index.php"><span class="sr-only">Artsida 6</span><img src="img/artsida6.jpg" class="center-block img-responsive" alt="" /></a></h1>
 					<h2><?php if ($lang == "en") { echo "Raise your hand for ACCM"; } else { echo "Levez votre main pour ACCM"; }?></h2>
-					<p class="text-center date"><?php if ($lang == "en") { echo "Wednesday September 30<sup>th</sup> 2015"; } else { echo "Mercredi le 30 septembre 2015 "; } ?></p>
+					<p class="text-center date"><?php if ($lang == "en") { echo "Wednesday September 30<sup>th</sup> 2015"; } else { echo "Mercredi le 30 septembre 2015"; } ?></p>
 					<div class="col-xs-8 col-xs-push-2 mrgn-tp-sm">
 						<?php if ($lang == "en") {?>
 						<p><a target="_blank" href="http://accmontreal.org/"><img src="img/accm-en.jpg" alt="ACCM: AIDS Community Care Montreal" class="img-responsive" /></a></p>
