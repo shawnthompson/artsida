@@ -11,12 +11,9 @@
 <p>Artsida, qui revient pour une sixième édition très attendue le mercredi 30 septembre prochain, s’est taillé une place de choix sur le calendrier d’activités sociales des amateurs d’art et des philanthropes soucieux d’améliorer les choses dans la collectivité. Artsida se tiendra aux Entrepôts Dominion, un espace magnifiquement restauré, et adoptera cette année une formule repensée ainsi qu’une nouvelle direction qui lui permettront d’asseoir sa réputation à titre d’événement incontournable de la scène culturelle montréalaise. Les œuvres exceptionnelles d’artistes réputés et d’artistes émergents vous feront découvrir un art captivant et vous en apprendront davantage sur la cause qui nous tient à cœur.</p>
 <p>Des prix attrayants seront tirés, dont deux billets aller-retour pour n’importe quelle destination en Amérique du Nord! Surveillez nos prochaines communications pour en savoir plus sur les autres prix.</p>
 <p>Joignez-vous à nous, et levez votre main pour <abbr lang="en" title="AIDS Community Care Montreal">ACCM</abbr></p>
-
 <p><strong class="mrgn-rght-md">Lieu :</strong> <a target="_blank" href="http://entrepotsdominion.ca/">Entrepôts Dominion</a>, 3968, rue St-Ambroise<br />
 <strong class="mrgn-rght-md">Date :</strong> Mercredi 30 septembre 2015<br />
 <strong class="mrgn-rght-md">Heure :</strong> 17h00 - 22h30</p>
-
-
 <h2><span class="mrgn-rght-md">17h00 - 18h00 :</span> Cocktail VIP</h2>
 <ul>
 <li>Rencontre avec certains des artistes</li>
@@ -29,7 +26,6 @@
 <li>Cocktail dînatoire et hors-d’œuvre</li>
 </ul>
 <h2><span class="mrgn-rght-md">18h30 - 21h00 :</span> Encan</h2>
-
 <h2><span class="mrgn-rght-md">21h10 - 22h30 :</span> Dessert et café</h2>
 
 
