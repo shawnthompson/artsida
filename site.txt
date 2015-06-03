@@ -18,7 +18,7 @@ Volunteer | volunteer.php
 Contact | contact.php
 
 Homepage | accueil.php
-Au sujet d’Artsida
+À propos
 	Encan Artsida 6 | encan.php
 	Vernissage et vente d’œuvres Artsida 6 | vente.php
 	Coprésidents honoraires | copresidents.php
@@ -26,7 +26,7 @@ Au sujet d’Artsida
 	Équipe d’Artsida 6 | equipe.php
 	Historique d’Artsida | historique.php
 	ACCM – SIDA Bénévoles Montréal | sbm.php
-OŒuvres
+Œuvres
 	Catalogue | catalogue.php
 	Règles de l’encan | regles.php
 	Soumissions | soumissions.php
