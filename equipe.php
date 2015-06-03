@@ -12,7 +12,7 @@
 <li>Terry Kyle, Présidente</li>
 <li>Joshua Levin, Secrétaire</li>
 <li>Benjamin Prud’homme, Trésorier</li>
-<li>Silvana Orrino, Administratrice</li>
+<li>Silvana Orrino, Directrice</li>
 <li>Sylvain Beaudry - Administrateur - Représentant des employés</li>
 </ul>
 <h2>Employés d'<abbr lang="en" title="AIDS Community Care Montreal">ACCM</abbr> coordonnant Artsida:</h2>
@@ -21,7 +21,7 @@
 <li>Andrea Kornacki, Coordonnatrice des bénévoles</li>
 <li>Chris Lau, Directeur général</li>
 </ul>
-<h2>Autres employés d'<abbr lang="en" title="AIDS Community Care Montreal">ACCM</abbr>:</h2>
+<h2>Employés d'<abbr lang="en" title="AIDS Community Care Montreal">ACCM</abbr>:</h2>
 <ul>
 <li>Sylvain Beaudry, Facilitateur de l’information sur le traitement </li>
 <li>Zachary Grant, Soutien aux groupes</li>
@@ -31,6 +31,9 @@
 <li>Kamilla Petrosyan, Gestionnaire de programme</li>
 <li>Cassandre Poblah, Coordonnatrice administrative</li>
 <li>Kimberly Wong, Éducatrice VIH </li>
+<li>Jordan Coulombe, Coordonnateur des communications</li>
+<li>Andrea Kornacki, Coordonnatrice des bénévoles</li>
+<li>Chris Lau, Directeur général</li>
 </ul>
 <section class="col-xs-8">
 <h2>Planification de l’événement:</h2>

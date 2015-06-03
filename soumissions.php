@@ -22,10 +22,14 @@
 <ol>
 <li>Contrat de l’artiste</li>
 <li>Preuve de la valeur marchande estimée</li>
-<li>Certificat d’authenticité</li>
+<li><i class="fa fa-download"><span class="sr-only">Télécharge</span></i> <a href="Certificat.docx">Certificat d’authenticité</a></li>
 </ol>
-<p>Le contrat de l'artiste sera bientôt disponible ici .</p>
-<p>La preuve de la valeur estimée pourrait être un reçu pour une pièce de taille et de format similaire .</p>
+<p>L’artiste peut choisir d’envoyer les 3 documents requis avec l’image de l’oeuvre par courriel durant la période de soumission.</p>
+<p>Pour la preuve de la valeur estimée, nous accepterons les 2 options suivantes:</p>
+<ol>
+<li>Une copie de facture or reçu de vente, préférablement récent, d'une oeuvre de format et médium similaire;</li>
+<li>Si l'artiste est représenté(e) par une galerie: une copie de la liste de prix officielle de la galerie pour l'artiste.</li>
+</ol>
 <p>Plus de détails sur le certificat d'authenticité seront bientôt disponibles.</p>
 <p>L’artiste s’engage à remettre son œuvre à Artsida avant le 31 juillet.</p>
 <p>Les artistes qui ne résident pas à Montréal doivent faire acheminer l’œuvre à Artsida et assumer les coûts qui en découlent.</p>
