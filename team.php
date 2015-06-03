@@ -25,16 +25,16 @@
 <h2><abbr title="AIDS Community Care Montreal">ACCM</abbr> Staff:</h2>
 <ul>
 <li>Sylvain Beaudry, Treatment Information Facilitator</li>
+<li>Jordan Coulombe, Communications Coordinator</li>
 <li>Zachary Grant, Group Facilitator</li>
+<li>Andrea Kornacki, Volunteer Engagement Facilitator</li>
 <li>Daniel Lanouette, Case Worker</li>
 <li>Daniel-Jonathan Laroche, Network Outreach Worker</li>
+<li>Chris Lau, Executive Director</li>
 <li>Andreas Mertens, SextEd Assistant</li>
 <li>Kamilla Petrosyan, Program Manager</li>
 <li>Cassandre Poblah, Administrative Coordinator</li>
 <li>Kimberly Wong, <abbr title="Human Immunodeficiency Virus">HIV</abbr> Educator</li>
-<li>Jordan Coulombe, Communications Coordinator</li>
-<li>Andrea Kornacki, Volunteer Engagement Facilitator</li>
-<li>Chris Lau, Executive Director</li>
 </ul>
 <section class="col-xs-8">
 <h2>Event Planners:</h2>

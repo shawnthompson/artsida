@@ -24,13 +24,13 @@
 <li>Proof of the estimated market value;</li>
 <li><i class="fa fa-download"><span class="sr-only">Download</span></i> <a href="Certificate.docx">Certificate of authenticity</a>.</li>
 </ol>
+<p>Artist contract will be available soon for download here.</p>
 <p>The artist may choose to email all 3 required documents during the submissions process, along with the image of the artwork.</p>
 <p>We will accept the following two types of proof of estimated market value: </p>
 <ol>
 <li>A copy of an invoice or receipt of sale, preferably recent, of a similar piece of art (of similar medium and format);</li>
 <li>If the artist is represented by a gallery, a copy of the gallery's official price list for the artist's works.</li>
 </ol>
-<p>More details about the certificate of authenticity will be available soon.</p>
 <p>The artist assumes the responsibility to deliver the artwork to Artsida before July 31<sup>st</sup>.</p>
 <p>Out-of-town artists must organize and cover the cost of shipping the artwork to Artsida.</p>
 <p class="text-center"><a target="_blank" class="btn btn-lg btn-block btn-primary" href="https://docs.google.com/forms/d/1_-FeJVM84W59zWg9FamtFpguCH21MpcBYvUPTpwWdMM/viewform">Art Submission Form</a></p>
