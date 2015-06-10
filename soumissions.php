@@ -11,7 +11,7 @@
 <p>La présentation d’une candidature comporte deux étapes :</p>
 <ol>
 <li>Remplissez le formulaire de candidature situé sur le site (cliquez sur le bouton ci-dessous).</li>
-<li>Faites parvenir une image couleur haute résolution de 300 <abbr title="points par pouce">ppp</abbr> (<abbr title="dot per inch">dpi</abbr>) en mode <abbr title="cyan, magenta, jaune, noir">CMJN</abbr> (<abbr title="Cyan, Magenta, Yellow, Black">CMYK</abbr>) de votre œuvre à l’adresse <a href="mailto:submissions@accmontreal.org">submissions@accmontreal.org</a>. Veuillez inclure votre nom complet et le titre de votre œuvre dans l’objet du courriel.</li>
+<li>Faites parvenir une image couleur haute résolution de 300 <abbr title="points par pouce">ppp</abbr> (<abbr title="dot per inch">dpi</abbr>) de votre œuvre à l’adresse <a href="mailto:submissions@accmontreal.org">submissions@accmontreal.org</a>. Veuillez inclure votre nom complet et le titre de votre œuvre dans l’objet du courriel.</li>
 </ol>
 <p>Date limite pour la présentation des candidatures : 1<sup>er</sup> juillet 2015, à 23h59.</p>
 <p>Les artistes peuvent soumettre deux œuvres tout au plus. Le cas échéant, les œuvres doivent être soumises séparément au moyen du <a target="_blank" href="https://docs.google.com/forms/d/1_-FeJVM84W59zWg9FamtFpguCH21MpcBYvUPTpwWdMM/viewform">formulaire en ligne</a>.</p>

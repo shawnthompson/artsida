@@ -11,7 +11,7 @@
 <p>The art submission process is in two steps :</p>
 <ol>
 <li>Complete submission form on this website (click button below);</li>
-<li>Email a high-resolution 300 <abbr title="dot per inch">dpi</abbr> <abbr title="Cyan Magenta Yellow Black">CMYK</abbr> colour image of your artwork to <a href="mailto:submissions@accmontreal.org">submissions@accmontreal.org</a>. Please put your full name and artwork title in the email subject.</li>
+<li>Email a high-resolution 300 <abbr title="dot per inch">dpi</abbr> colour image of your artwork to <a href="mailto:submissions@accmontreal.org">submissions@accmontreal.org</a>. Please put your full name and artwork title in the email subject.</li>
 </ol>
 <p>Submission deadline: July 1<sup>st</sup> 2015, at 11:59pm.</p>
 <p>Each artist is allowed to submit a maximum of two pieces for consideration. If you are submitting two pieces, submit each piece separately using this <a target="_blank" href="https://docs.google.com/forms/d/1_-FeJVM84W59zWg9FamtFpguCH21MpcBYvUPTpwWdMM/viewform">on-line form</a>.</p>
