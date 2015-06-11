@@ -14,7 +14,8 @@
 <h3>Billet VIP <span>150 $</span></h3>
 <ul>
 <li>Accès à l’événement à 17 h pour le cocktail VIP</li>
-<li>Occasion exclusive de rencontrer certains des artistes</li>
+<li>Occasion exclusive de rencontrer certains des artistes, d'autres invités spéciaux et les membres du conseil d'administration de <abbr title="AIDS Community Care Montreal" lang="en">ACCM</abbr></li>
+<li>Performances exclusives</li>
 <li>Accès gratuit et exclusif au bar à vin</li>
 <li>Cocktail dînatoire exclusif et hors-d’œuvre</li>
 </ul>
