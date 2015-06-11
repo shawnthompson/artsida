@@ -224,6 +224,10 @@ main  .btn-primary {
 	margin-top: 20px;
 }
 
+main .sponsor-list li {
+	margin-bottom: 25px;
+}
+
 /* Footer */
 footer {
 	padding: 15px;

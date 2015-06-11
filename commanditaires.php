@@ -14,8 +14,11 @@
 <h2>Commanditaire à l’encadrement</h2>
 <p class="sr-only">Encadrex</p>
 <a target="_blank" href="http://www.encadrex.com/"><img class="img-responsive" src="img/sponsor-encadrex.png" alt="Encadrex"></a>
+<section class="sponsor-list">
 <h2>Commanditaires partenaires</h2>
-<p class="sr-only">Westjet</p>
-<a target="_blank" href="http://www.westjet.com"><img class="img-responsive" src="img/sponsor-westjet.jpg" alt="Westjet"></a>
-
+<ul class="list-unstyled sponsor-list">
+<li><a href="http://www.westjet.com/guest/en/home.shtml" target="_blank"><img src="img/sponsor-westjet.jpg" class="img-responsive" alt="Westjet" /></a></li>
+<li><a href="http://www.unmondeunvillage.com/index.php?lang=en" target="_blank"><img src="img/village.jpg" height="56" width="125" class="img-responsive" alt="Village" /></a></li>
+</ul>
+</section>
 <?php include('footer.php'); ?>
