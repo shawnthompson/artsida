@@ -46,14 +46,27 @@
 		</div>
 		<section class="col-xs-12 col-sm-6 col-sm-pull-6 sponsors">
 			<h2 class="sr-only"><?php if ($lang == "en") { echo "Sponsors"; } else { echo "Commanditaires"; } ?></h2>
-			<ul class="list-inline">
-				<li class="col-xs-4">
-					<?php if ($lang == "en") { echo "Presented by"; } else { echo "Présenté par"; } ?>: <br /><a target="_blank" href="http://www.td.com/"><img class="img-responsive mrgn-tp-sm" src="img/sponsor-td.gif" alt="TD"></a>
-				</li>
-				<li class="col-xs-4 col-xs-push-2">
-					<?php if ($lang == "en") { echo "Framing Sponsor"; } else { echo "Commanditaire Encadrement"; } ?>: <br /><a target="_blank" href="http://www.encadrex.com/"><img class="img-responsive mrgn-tp-sm" src="img/sponsor-encadrex.png" alt="encadrex"></a>
-				</li>
-			</ul>
+			<section class="col-xs-6">
+				<h3><?php if ($lang == "en") { echo "Presented by"; } else { echo "Présenté par"; } ?>:</h3>
+				<ul class="list-unstyled">
+					<li><a target="_blank" href="http://www.td.com/"><img class="img-responsive mrgn-tp-sm" src="img/sponsor-td.gif" alt="TD"></a></li>
+				</ul>
+			</section>
+			<div class="col-xs-6">
+				<section>
+					<h3><?php if ($lang == "en") { echo "Framing Sponsor"; } else { echo "Commanditaire Encadrement"; } ?>:</h3>
+						<ul class="list-unstyled">
+							<li><a target="_blank" href="http://www.encadrex.com/"><img class="img-responsive mrgn-tp-sm" src="img/sponsor-encadrex.png" alt="encadrex"></a></li>
+						</ul>
+				</section>
+				<section>
+					<h3><?php if ($lang == "en") { echo "Partner Sponsors"; } else { echo "Commanditaires partenaires"; } ?>:</h3>
+					<ul class="list-unstyled">
+						<li><a href="http://www.westjet.com/guest/en/home.shtml" target="_blank"><img src="img/sponsor-westjet.jpg" class="img-responsive" alt="Westjet" /></a></li>
+						<li class="row"><a href="http://www.unmondeunvillage.com/index.php?lang=<?php echo $lang;?>" target="_blank"><img src="img/village.jpg" class="img-responsive col-sm-6" alt="Village" /></a></li>
+					</ul>
+				</section>
+			</div>
 		</section>
 	</footer>
 	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>

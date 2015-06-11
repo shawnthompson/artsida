@@ -233,6 +233,14 @@ footer {
 	padding: 15px;
 }
 
+footer .sponsors h3 {
+	font-size: 1em;
+}
+
+footer .sponsors ul li {
+	margin-bottom: 15px;
+}
+
 footer .media {
 	margin: 0;
 	text-transform: uppercase;
