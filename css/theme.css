@@ -614,5 +614,9 @@ footer .fa-4x {
 		font-size: 2em;
 	}
 
+	html[lang="fr"] main .tag {
+		width: 100%;
+		font-size: 1.8em;
+	}
 
 }

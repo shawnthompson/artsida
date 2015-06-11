@@ -47,7 +47,7 @@
 			<div class="hidden-xs col-sm-6 cyan"></div>
 			<div class="hidden-xs col-sm-4 red relative"><img src="img/pic1.jpg" class="photoh bottom-left" alt=""></div>
 
-			<div class="hidden-xs col-sm-5 col-md-6 purple responsive"><img src="img/pic4.jpg" class="bottom-right photoh" alt=""></div>
+			<div class="col-sm-5 col-md-6 purple responsive"><p class="tag">Deux billets WestJet aller-retour en Amérique du Nord/Europe à tirer!</p><img src="img/pic4.jpg" class="hidden-xs bottom-right photoh" alt=""></div>
 			<div class="hidden-xs col-sm-5 col-md-4 yellow"></div>
 			<div class="hidden-xs col-sm-2 cyan"></div>
 
