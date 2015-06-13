@@ -15,7 +15,7 @@
 <ul>
 <li>Access to event at 5pm for VIP cocktail</li>
 <li>Exclusive opportunity to meet selected artists, other special guests and the <abbr title="AIDS Community Care Montreal">ACCM</abbr> Board of Directors</li>
-<li>Exclusive live performances</li>
+<li>Exclusive live performance</li>
 <li>Exclusive complimentary wine bar </li>
 <li>Exclusive cocktail dinatoire & hors d’oeuvres</li>
 </ul>
