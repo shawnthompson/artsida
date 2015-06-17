@@ -7,7 +7,7 @@
 ?>
 <?php include('header.php'); ?>
 
-<p>We rely greatly on corporate sponsors to help us make Artsida a success. If you or your company are interested in supporting our event in some way, contact <a href="mailto:artsida@accmontreal.org">artsida@accmontreal.org</a></p>
+<p>We rely greatly on corporate sponsors to help us make Artsida a success. If you or your company are interested in supporting our event in some way, contact <a href="mailto:artsida@accmontreal.org">artsida@accmontreal.org</a>. For information about placing advertisements in our <a href="ProgramAdvertisingSpecs.pdf">official Artsida program</a> <i class="fa fa-download"><span class="sr-only">Download</span></i>.</p>
 <h2>Presenting Sponsor</h2>
 <p class="sr-only">TD</p>
 <a target="_blank" href="http://www.td.com/"><img src="img/sponsor-td.gif" alt="TD"></a>

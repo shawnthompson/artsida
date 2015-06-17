@@ -7,7 +7,7 @@
 ?>
 <?php include('header.php'); ?>
 
-<p>Le succès d’Artsida repose en grande partie sur l’aide de commanditaires. Si vous, ou votre entreprise, souhaitez appuyer l’événement de quelconque façon, communiquez avec nous à l’adresse <a href="mailto:artsida@accmontreal.org">artsida@accmontreal.org</a></p>
+<p>Le succès d’Artsida repose en grande partie sur l’aide de commanditaires. Si vous, ou votre entreprise, souhaitez appuyer l’événement de quelconque façon, communiquez avec nous à l’adresse <a href="mailto:artsida@accmontreal.org">artsida@accmontreal.org</a>. Pour des informations sur le placement de publicités dans notre <a href="ProgramAdvertisingSpecs.pdf">programme officiel Artsida</a> <i class="fa fa-download"><span class="sr-only">Télécharge</span></i>.</p>
 <h2>Commanditaire principal</h2>
 <p class="sr-only">TD</p>
 <a target="_blank" href="http://www.td.com/"><img src="img/sponsor-td.gif" alt="TD"></a>
