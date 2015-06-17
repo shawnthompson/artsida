@@ -20,11 +20,10 @@
 <p>L’artiste consent à donner son œuvre à Artsida même si celle-ci n’est pas vendue à un prix égal ou supérieur au prix de départ. <abbr lang="en" title="AIDS Community Care Montreal">ACCM</abbr> se réserve le droit d’essayer de vendre l’œuvre par d’autres moyens après l’événement principal tout en respectant les conditions de vente établies par l’artiste.</p>
 <p>L’artiste dont l’œuvre a été sélectionnée consent à fournir les documents suivants à Artsida avant le 31 juillet :</p>
 <ol>
-<li>Contrat de l’artiste</li>
+<li><a href="ContratDartiste.docx">Contrat de l’artiste</a> <i class="fa fa-download"><span class="sr-only">Télécharge</span></i></li>
 <li>Preuve de la valeur marchande estimée</li>
-<li><i class="fa fa-download"><span class="sr-only">Télécharge</span></i> <a href="Certificat.docx">Certificat d’authenticité</a></li>
+<li><a href="Certificat.docx">Certificat d’authenticité</a> <i class="fa fa-download"><span class="sr-only">Télécharge</span></i></li>
 </ol>
-<p>Le contrat de l'artiste sera bientôt disponible ici.</p>
 <p>L’artiste peut choisir d’envoyer les 3 documents requis avec l’image de l’oeuvre par courriel durant la période de soumission.</p>
 <p>Pour la preuve de la valeur estimée, nous accepterons les 2 options suivantes:</p>
 <ol>

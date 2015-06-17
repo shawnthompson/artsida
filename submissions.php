@@ -20,11 +20,10 @@
 <p>The artist agrees to donate their artwork to Artsida, even if the piece is not sold at or above the reserve bid price. <abbr title="AIDS Community Care Montreal">ACCM</abbr> reserves the right to try to sell the piece by other means after the main event, all the while respecting the conditions of sale as established by the artist.</p>
 <p>Upon selection, the artist agrees to provide the following documentation before July 31<sup>st</sup> to Artsida:</p>
 <ol>
-<li>Artist Contract;</li>
+<li><a href="ArtistContract.docx">Artist Contract</a> <i class="fa fa-download"><span class="sr-only">Download</span></i>;</li>
 <li>Proof of the estimated market value;</li>
-<li><i class="fa fa-download"><span class="sr-only">Download</span></i> <a href="Certificate.docx">Certificate of authenticity</a>.</li>
+<li><a href="Certificate.docx">Certificate of authenticity</a> <i class="fa fa-download"><span class="sr-only">Download</span></i>.</li>
 </ol>
-<p>Artist contract will be available soon for download here.</p>
 <p>The artist may choose to email all 3 required documents during the submissions process, along with the image of the artwork.</p>
 <p>We will accept the following two types of proof of estimated market value: </p>
 <ol>
