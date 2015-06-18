@@ -32,6 +32,7 @@
 </ol>
 <p>L’artiste s’engage à remettre son œuvre à Artsida avant le 31 juillet.</p>
 <p>Les artistes qui ne résident pas à Montréal doivent faire acheminer l’œuvre à Artsida et assumer les coûts qui en découlent.</p>
+<p>Si vous avez d'autres questions concernant la soumission d'oeuvres, s'il vous plaît consulter notre <a href="ArtsidaFAQ-fr.pdf">FAQ</a> <i class="fa fa-download"><span class="sr-only">Télécharge</span></i>.</p>
 <p class="text-center"><a target="_blank" class="btn btn-lg btn-block btn-primary" href="https://docs.google.com/forms/d/1_-FeJVM84W59zWg9FamtFpguCH21MpcBYvUPTpwWdMM/viewform">Formulaire de soumission</a></p>
 
 <?php include('footer.php'); ?>

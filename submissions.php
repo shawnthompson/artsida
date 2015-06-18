@@ -32,6 +32,7 @@
 </ol>
 <p>The artist assumes the responsibility to deliver the artwork to Artsida before July 31<sup>st</sup>.</p>
 <p>Out-of-town artists must organize and cover the cost of shipping the artwork to Artsida.</p>
+<p>If you have further questions about submitting art, please consult our <a href="ArtsidaFAQ-en.pdf">FAQ</a> <i class="fa fa-download"><span class="sr-only">Download</span></i>.</p>
 <p class="text-center"><a target="_blank" class="btn btn-lg btn-block btn-primary" href="https://docs.google.com/forms/d/1_-FeJVM84W59zWg9FamtFpguCH21MpcBYvUPTpwWdMM/viewform">Art Submission Form</a></p>
 
 <?php include('footer.php'); ?>
