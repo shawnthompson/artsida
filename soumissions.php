@@ -13,7 +13,7 @@
 <li>Remplissez le formulaire de candidature situé sur le site (cliquez sur le bouton ci-dessous).</li>
 <li>Faites parvenir une image couleur haute résolution de 300 <abbr title="points par pouce">ppp</abbr> (<abbr title="dot per inch">dpi</abbr>) de votre œuvre à l’adresse <a href="mailto:submissions@accmontreal.org">submissions@accmontreal.org</a>. Veuillez inclure votre nom complet et le titre de votre œuvre dans l’objet du courriel.</li>
 </ol>
-<p>Date limite pour la présentation des candidatures : 1<sup>er</sup> juillet 2015, à 23h59.</p>
+<p>Date limite pour la présentation des candidatures : 15 juillet 2015, à 23h59.</p>
 <p>Les artistes peuvent soumettre deux œuvres tout au plus. Le cas échéant, les œuvres doivent être soumises séparément au moyen du <a target="_blank" href="https://docs.google.com/forms/d/1_-FeJVM84W59zWg9FamtFpguCH21MpcBYvUPTpwWdMM/viewform">formulaire en ligne</a>.</p>
 <p>Les œuvres présentées doivent rester disponibles en vue de l’encan Artsida jusqu’à ce que l’artiste ait été informé de la décision du comité de sélection au début de juillet 2015. Si l’œuvre n’est plus disponible, l’artiste peut en soumettre une autre, mais le comité n’est pas tenu de l’accepter.</p>
 <p>Le comité de sélection établira la valeur marchande estimée de l’œuvre présentée en se fondant sur la preuve qu’aura fournie l’artiste à cet égard au moment de la sélection.</p>
