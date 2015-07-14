@@ -8,28 +8,30 @@
 <?php include('header.php'); ?>
 <h2>Conseil d'administration d'<abbr lang="en" title="AIDS Community Care Montreal">ACCM</abbr>:</h2>
 <ul>
+<li>Geneviève Bois</li>
 <li>Mathieu Foran, Vice-Président</li>
+<li>Ricardo Guy</li>
 <li>Terry Kyle, Présidente</li>
-<li>Joshua Levin, Secrétaire</li>
+<li>Ian Nelson, Secrétaire</li>
 <li>Benjamin Prud’homme, Trésorier</li>
 <li>Silvana Orrino, Directrice</li>
+<li>Peter Zergiotis</li>
 <li>Sylvain Beaudry - Administrateur - Représentant des employés</li>
 </ul>
 <h2>Employés d'<abbr lang="en" title="AIDS Community Care Montreal">ACCM</abbr> coordonnant Artsida:</h2>
 <ul>
 <li>Jordan Coulombe, Coordonnateur des communications</li>
 <li>Andrea Kornacki, Coordonnatrice des bénévoles</li>
-<li>Chris Lau, Directeur général</li>
+<li>France Cantin, Agente de liason auprès des artistes</li>
 </ul>
 <h2>Employés d'<abbr lang="en" title="AIDS Community Care Montreal">ACCM</abbr>:</h2>
 <ul>
-<li>Sylvain Beaudry, Facilitateur de l’information sur le traitement </li>
+<li>Sylvain Beaudry, Facilitateur de l’information sur le traitement</li>
 <li>Jordan Coulombe, Coordonnateur des communications</li>
 <li>Zachary Grant, Soutien aux groupes</li>
 <li>Andrea Kornacki, Coordonnatrice des bénévoles</li>
 <li>Daniel Lanouette, Intervenant social</li>
-<li>Daniel-Jonathan Laroche, Intervenant de proximité </li>
-<li>Chris Lau, Directeur général</li>
+<li>Daniel-Jonathan Laroche, Intervenant de proximité</li>
 <li>Andreas Mertens, Responsable du program «SextEd»</li>
 <li>Kamilla Petrosyan, Gestionnaire de programme</li>
 <li>Cassandre Poblah, Coordonnatrice administrative</li>

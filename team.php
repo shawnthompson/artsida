@@ -9,18 +9,21 @@
 
 <h2><abbr title="AIDS Community Care Montreal">ACCM</abbr> Board of Directors:</h2>
 <ul>
+<li>Geneviève Bois</li>
 <li>Mathieu Foran, Vice-President</li>
+<li>Ricardo Guy</li>
 <li>Terry Kyle, President</li>
-<li>Joshua Levin, Secretary</li>
+<li>Ian Nelson, Secretary</li>
 <li>Benjamin Prud’homme, Treasurer</li>
 <li>Silvana Orrino, Director</li>
-<li>Sylvain Beaudry - Administrator - Staff representative</li>
+<li>Peter Zergiotis</li>
+<li>Andrea Kornacki - Staff Representative</li>
 </ul>
 <h2><abbr title="AIDS Community Care Montreal">ACCM</abbr> Artsida Staff:</h2>
 <ul>
 <li>Jordan Coulombe, Communications Coordinator</li>
 <li>Andrea Kornacki, Volunteer Engagement Facilitator</li>
-<li>Chris Lau, Executive Director</li>
+<li>France Cantin, Artist Liason</li>
 </ul>
 <h2><abbr title="AIDS Community Care Montreal">ACCM</abbr> Staff:</h2>
 <ul>
@@ -30,7 +33,6 @@
 <li>Andrea Kornacki, Volunteer Engagement Facilitator</li>
 <li>Daniel Lanouette, Case Worker</li>
 <li>Daniel-Jonathan Laroche, Network Outreach Worker</li>
-<li>Chris Lau, Executive Director</li>
 <li>Andreas Mertens, SextEd Assistant</li>
 <li>Kamilla Petrosyan, Program Manager</li>
 <li>Cassandre Poblah, Administrative Coordinator</li>

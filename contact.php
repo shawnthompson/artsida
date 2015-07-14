@@ -8,7 +8,6 @@
 <?php include('header.php'); ?>
 
 <p>Jordan Coulombe – ACCM Communications Coordinator<br />
-Chris Lau – ACCM Executive Director<br />
 <a href="mailto:artsida@accmontreal.org">artsida@accmontreal.org</a><br />
 514-529-9462</p>
 
