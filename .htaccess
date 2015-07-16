@@ -5,3 +5,38 @@ Redirect 301 /submission http://www.artsida.org/submissions.php
 Redirect 301 /submissions http://www.artsida.org/submissions.php
 Redirect 301 /soumissions http://www.artsida.org/soumissions.php
 Redirect 301 /soumission http://www.artsida.org/soumissions.php
+
+
+
+#Redirect 301 /artsida.php	http://www.artsida.org/about-2/artsida/
+#Redirect 301 /vernissage.php	http://www.artsida.org/about-2/vernissage/
+#Redirect 301 /honorary.php	http://www.artsida.org/about-2/honorary/
+#Redirect 301 /venues.php	http://www.artsida.org/about-2/venues/
+#Redirect 301 /team.php	http://www.artsida.org/about-2/team/
+#Redirect 301 /history.php	http://www.artsida.org/about-2/history/
+#Redirect 301 /accm.php	http://www.artsida.org/about-2/accm/
+#Redirect 301 /catalog.php	http://www.artsida.org/artwork-2/catalog/
+#Redirect 301 /rules.php	http://www.artsida.org/artwork-2/rules/
+#Redirect 301 /submission.php	http://www.artsida.org/artwork-2/submission/
+#Redirect 301 /tickets.php	http://www.artsida.org/tickets/
+#Redirect 301 /sponsors.php	http://www.artsida.org/sponsors/
+#Redirect 301 /media.php	http://www.artsida.org/media/
+#Redirect 301 /volunteer.php	http://www.artsida.org/volunteer/
+#Redirect 301 /contact.php	http://www.artsida.org/contact/
+
+#Redirect 301 /accueil.php	http://www.artsida.org/fr/
+#Redirect 301 /encan.php	http://www.artsida.org/fr/about-2/artsida/
+#Redirect 301 /vente.php	http://www.artsida.org/fr/about-2/vernissage/
+#Redirect 301 /copresidents.php	http://www.artsida.org/fr/about-2/honorary/
+#Redirect 301 /lieux.php	http://www.artsida.org/fr/about-2/venues/
+#Redirect 301 /equipe.php	http://www.artsida.org/fr/about-2/team/
+#Redirect 301 /historique.php	http://www.artsida.org/fr/about-2/history/
+#Redirect 301 /sbm.php	http://www.artsida.org/fr/about-2/accm/
+#Redirect 301 /catalogue.php	http://www.artsida.org/fr/artwork-2/catalog/
+#Redirect 301 /regles.php	http://www.artsida.org/fr/artwork-2/rules/
+#Redirect 301 /soumissions.php	http://www.artsida.org/fr/artwork-2/submission/
+#Redirect 301 /billets.php	http://www.artsida.org/fr/tickets/
+#Redirect 301 /commanditaires.php	http://www.artsida.org/fr/sponsors/
+#Redirect 301 /medias-fr.php	http://www.artsida.org/fr/media/
+#Redirect 301 /benevolat.php	http://www.artsida.org/fr/volunteer/
+#Redirect 301 /joindre.php	http://www.artsida.org/fr/contact/
