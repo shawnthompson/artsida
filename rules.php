@@ -20,7 +20,7 @@
 <h3>Pick Up</h3>
 <p>All works must be paid for at the conclusion of the auction evening. Purchasers must pick up works at the conclusion of the auction evening upon proof of payment. Transportation may be arranged, at the purchaser’s expense. <abbr title="AIDS Community Care Montreal">ACCM</abbr> is not responsible for acts or omissions of carriers or packers of purchased lots, whether or not recommended by <abbr title="AIDS Community Care Montreal">ACCM</abbr>. Packing and handling of purchased lots are at the entire risk of the purchaser.</p>
 <h3>Absentee Bidding</h3>
-<p>If you live outside of Montreal or are unable to attend the event, absentee bids can be placed by filling out the Absentee Registration Form. All Absentee Registration Forms must be  e-mailed to <a href="mailto:artsida@accmontreal.org">artsida@accmontreal.org</a> before 11:59PM on Sunday September 27<sup>th</sup>, 2015. All bids will be accepted and executed, subject to the terms and conditions of sale.</p>
+<p>If you live outside of Montreal or are unable to attend the event, absentee bids can be placed by filling out the <a target="_blank" href="img/absenteebidform-en.pdf">Absentee Registration Form</a>. All Absentee Registration Forms must be  e-mailed to <a href="mailto:artsida@accmontreal.org">artsida@accmontreal.org</a> before 11:59PM on Sunday September 27<sup>th</sup>, 2015. All bids will be accepted and executed, subject to the terms and conditions of sale.</p>
 <p>In the event of identical bids, the earliest received bid will take precedence.</p>
 <p>Successful bidders will be notified, and purchase will be charged to your MasterCard or Visa as indicated on your completed form.</p>
 

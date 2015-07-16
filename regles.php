@@ -21,7 +21,7 @@
 <h3>Prise de possession</h3>
 <p>Toutes les œuvres doivent être payées à la fin de la soirée de la vente. Les acheteurs doivent prendre possession des œuvres à la fin de la soirée de la vente sur présentation d’une preuve de paiement. Du transport peut être organisé, au frais de l’acheteur. <abbr lang="en" title="AIDS Community Care Montreal">ACCM</abbr> n’est pas responsable des actes ou des omissions des transporteurs ou emballeurs des lots achetés, qu’il les ait ou non recommandé. L’emballage et la manutention des lots achetés se font aux risques de l'acheteur.</p>
 <h3>Ordres d’achat</h3>
-<p>Des ordres d’achat peuvent être faits par ordre d'achat enregistré, le formulaire sera disponible bientôt. Tous les ordres d'achat doivent être reçus avant 23h59, dimanche le 27 septembre 2015. Tous les ordres d’achat seront acceptés et mis en œuvre sous réserve des conditions de vente.</p>
+<p>Des ordres d’achat peuvent être faits par ordre d'achat enregistré, le <a target="_blank" href="img/absenteebidform-fr.pdf"> formulaire de mise à distance</a> sera disponible bientôt. Tous les ordres d'achat doivent être reçus avant 23h59, dimanche le 27 septembre 2015. Tous les ordres d’achat seront acceptés et mis en œuvre sous réserve des conditions de vente.</p>
 <p>En cas de mises identiques, l’ordre d’achat reçu en premier aura préséance.</p>
 <p>Les enchérisseurs gagnants seront avisés et l’achat sera porté à leur carte Mastercard ou Visa comme indiqué sur le formulaire rempli.</p>
 

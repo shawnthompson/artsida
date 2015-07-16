@@ -133,7 +133,7 @@
 						<?php } ?>
 					</div>
 				</div>
-				<div class="col-sm-3 red hidden-xs cell"></div>
+				<div class="col-sm-3 red cell"><p class="bids"><a target="_blank" href="img/absenteebidform-<?php echo $lang; ?>.pdf"><?php if ($lang == 'en') { echo "Absentee bids"; } else{ echo "Mise à distance";} ?></a></p></div>
 				<div class="col-sm-1 pink hidden-xs cell"></div>
 			</div>
 		</div>
