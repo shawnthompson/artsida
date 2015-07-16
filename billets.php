@@ -7,11 +7,13 @@
 ?>
 <?php include('header.php'); ?>
 
-<h2>Vernissage :</h2>
+<h2>Vernissage :<br />
+<small>Samedi 19 septembre 2015</small></h2>
 <p>Admission gratuite</p>
-<h2>Encan principal :</h2>
+<h2>Encan principal :<br />
+<small>Mercredi 30 septembre 2015</small></h2>
 <section>
-<h3>Billet VIP $ 150</h3>
+<h3>Billet VIP <span>$ 150</span></h3>
 <ul>
 <li>Accès à l’événement à 17 h pour le cocktail VIP</li>
 <li>Occasion exclusive de rencontrer certains des artistes, d'autres invités spéciaux et les membres du conseil d'administration de <abbr title="AIDS Community Care Montreal" lang="en">ACCM</abbr></li>
@@ -21,7 +23,7 @@
 </ul>
 </section>
 <section>
-<h3>Admission générale $ 100</h3>
+<h3>Admission générale <span>$ 100</span></h3>
 <ul>
 <li>Accès à l’événement à 18&nbsp;h</li>
 <li>Bar à vin</li>

@@ -217,6 +217,9 @@ main  .btn-primary {
 }
 
 /* Ticket page */
+.tickets main h2 {
+	line-height: 0.8;
+}
 
 .tickets main h3 span {
 	margin-left: 15px;

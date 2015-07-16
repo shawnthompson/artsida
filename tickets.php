@@ -7,11 +7,13 @@
 ?>
 <?php include('header.php'); ?>
 
-<h2>Vernissage:</h2>
+<h2>Vernissage:<br />
+<small>Saturday, September 19<sup>th</sup> 2015</small></h2>
 <p>Free entry</p>
-<h2>Main auction:</h2>
+<h2>Main auction:<br />
+<small>Wednesday, September 30<sup>th</sup> 2015</small></h2>
 <section>
-<h3>VIP ticket $150</h3>
+<h3>VIP ticket <span>$150</span></h3>
 <ul>
 <li>Access to event at 5pm for VIP cocktail</li>
 <li>Exclusive opportunity to meet selected artists, other special guests and the <abbr title="AIDS Community Care Montreal">ACCM</abbr> Board of Directors</li>
@@ -21,7 +23,7 @@
 </ul>
 </section>
 <section>
-<h3>General ticket $100</h3>
+<h3>General ticket <span>$100</span></h3>
 <ul>
 <li>Access to event at 6pm</li>
 <li>Complimentary wine bar </li>
