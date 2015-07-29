@@ -16,11 +16,13 @@ Redirect 301 /accm.php	http://www.artsida.org/control-wp/about-2/accm/
 Redirect 301 /catalog.php	http://www.artsida.org/control-wp/artwork-2/catalog/
 Redirect 301 /rules.php	http://www.artsida.org/control-wp/artwork-2/rules/
 Redirect 301 /submission.php	http://www.artsida.org/control-wp/artwork-2/submission/
+Redirect 301 /submissions.php	http://www.artsida.org/control-wp/artwork-2/submission/
 Redirect 301 /tickets.php	http://www.artsida.org/control-wp/tickets/
 Redirect 301 /sponsors.php	http://www.artsida.org/control-wp/sponsors/
 Redirect 301 /media.php	http://www.artsida.org/control-wp/media/
 Redirect 301 /volunteer.php	http://www.artsida.org/control-wp/volunteer/
 Redirect 301 /contact.php	http://www.artsida.org/control-wp/contact/
+Redirect 301 /fr	http://www.artsida.org/control-wp/fr/
 Redirect 301 /accueil.php	http://www.artsida.org/control-wp/fr/
 Redirect 301 /encan.php	http://www.artsida.org/control-wp/fr/about-2/artsida/
 Redirect 301 /vente.php	http://www.artsida.org/control-wp/fr/about-2/vernissage/
@@ -32,6 +34,7 @@ Redirect 301 /sbm.php	http://www.artsida.org/control-wp/fr/about-2/accm/
 Redirect 301 /catalogue.php	http://www.artsida.org/control-wp/fr/artwork-2/catalog/
 Redirect 301 /regles.php	http://www.artsida.org/control-wp/fr/artwork-2/rules/
 Redirect 301 /soumissions.php	http://www.artsida.org/control-wp/fr/artwork-2/submission/
+Redirect 301 /soumission.php	http://www.artsida.org/control-wp/fr/artwork-2/submission/
 Redirect 301 /billets.php	http://www.artsida.org/control-wp/fr/tickets/
 Redirect 301 /commanditaires.php	http://www.artsida.org/control-wp/fr/sponsors/
 Redirect 301 /medias-fr.php	http://www.artsida.org/control-wp/fr/media/
